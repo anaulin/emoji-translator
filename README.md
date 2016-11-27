@@ -13,6 +13,8 @@ all emoji, their names and associated keywords.
     to Unicode codepoints, and the output from running this script.
   * ext: Source code for a Chrome extension that lets you translate English code
     into text with emojis.
+  * assets: A place to park some image files that are not currently in use in
+    the extension, but might be in the future.
 
 ## Misc
 Extension icon is "smiling cat face with heart-shaped eyes", as interpreted by [emojione.com](http://emojione.com).
