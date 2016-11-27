@@ -13,3 +13,9 @@ progress.
 
 ## Misc
 Extension icon is "smiling cat face with heart-shaped eyes", as interpreted by [emojione.com](http://emojione.com).
+
+## License
+
+MIT License. See
+[License.md](https://github.com/anaulin/emo/blob/master/LICENSE.md)
+in this repo for details.
