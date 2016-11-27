@@ -1,8 +1,17 @@
+// Main translation function.
+// TODO(anaulin): Consider breaking this into its own file.
+// "input" is the plain text to translate.
+function translate(input) {
+  var output = "dummy output";
+  // TODO(anaulin): Implement.
+  return output
+}
+
 // onClickHandler for context menus.
 function contextMenuOnClickHandler(info, tab) {
  var selection = info["selectionText"];
  if (selection) {
-   // TODO(anaulin): Implement.
+   // TODO(anaulin): Implement. (Put selection in textarea, then translate.)
    console.log("Translating selection: " + selection);
  } else {
    // TODO(anaulin): Implement.
