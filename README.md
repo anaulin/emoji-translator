@@ -22,5 +22,5 @@ Extension icon is "smiling cat face with heart-shaped eyes", as interpreted by [
 ## License
 
 Distributed under MIT License. See
-[LICENSE.md](https://github.com/anaulin/emo/blob/master/LICENSE.md)
+[LICENSE](https://github.com/anaulin/emo/blob/master/LICENSE.md)
 in this repo for details.
