@@ -3,35 +3,41 @@ var emoji_data;
 
 // Main translation function.
 // "input" is the plain text to translate
-// Overview of algorithm:
-// 1. Split input text into words.
+// Rough overview of algorithm:
+// 1. Iterate over words from the input string.
 // 2. For each word, normalize it by lowercasing it, then check if we have a
 //    that word in our dataset.
 //    2.1. If we have a matching word in our dataset, pick a random codepoint
 //    and append the corresponding string to our output.
 //    2.2. If we don't have a matching word, append the original word to our
 //    dataset.
+// 3. While iterating, also add any non-word characters in between words.
 // Future improvements:
-//   * handle punctuation correctly (i.e. remove it from word before matching)
 //   * add synonyms
+//   * look into stemming (to correctly identify plurals, etc)
 function translate(input) {
   var tokens = input.split(/\s+/);
+  var re = /\b((?:\w|')+)\b/g;
   var output = [];
-  for (var i = 0; i < tokens.length; i++) {
-    console.log("Checking token: " + tokens[i]);
-    var token = tokens[i].toLowerCase();
-    var codepoints = emoji_data[token];
+  var lastIndex = 0;
+  while (match = re.exec(input)) {
+    var word = match[0];
+    output.push(input.slice(lastIndex, match.index));
+    lastIndex = match.index + word.length;
+    var codepoints = emoji_data[word.toLowerCase()];
     if (codepoints != undefined && codepoints.length > 0) {
       var randomPoints = codepoints[Math.floor(Math.random() * codepoints.length)];
-      console.log("Points: " + randomPoints)
       output.push(String.fromCodePoint(...randomPoints))
     } else {
-      // No matching emoji found. Append original.
-      output.push(tokens[i]);
+      // No matching emoji found. Append original word.
+      output.push(match[0]);
     }
-    console.log("Output so far: " + output);
   }
-  return output.join(" ");
+  // Add any trailing non-word characters to the output.
+  if (lastIndex < input.length) {
+    output.push(input.slice(lastIndex));
+  }
+  return output.join("");
 }
 
 // Function to load Emoji data from file.
