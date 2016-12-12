@@ -1,0 +1,2445 @@
+name,annotations,codepoints
+grinning face,"face, grin",[128512]
+grinning face with smiling eyes,"eye, face, grin, smile",[128513]
+face with tears of joy,"face, joy, laugh, tear",[128514]
+rolling on the floor laughing,"face, floor, laugh, rolling",[129315]
+smiling face with open mouth,"face, mouth, open, smile",[128515]
+smiling face with open mouth & smiling eyes,"eye, face, mouth, open, smile",[128516]
+smiling face with open mouth & cold sweat,"cold, face, open, smile, sweat",[128517]
+smiling face with open mouth & closed eyes,"face, laugh, mouth, open, satisfied, smile",[128518]
+winking face,"face, wink",[128521]
+smiling face with smiling eyes,"blush, eye, face, smile",[128522]
+face savouring delicious food,"delicious, face, savouring, smile, um, yum",[128523]
+smiling face with sunglasses,"bright, cool, eye, eyewear, face, glasses, smile, sun, sunglasses",[128526]
+smiling face with heart-eyes,"eye, face, love, smile",[128525]
+face blowing a kiss,"face, kiss",[128536]
+kissing face,"face, kiss",[128535]
+kissing face with smiling eyes,"eye, face, kiss, smile",[128537]
+kissing face with closed eyes,"closed, eye, face, kiss",[128538]
+smiling face,"face, outlined, relaxed, smile",[9786]
+slightly smiling face,"face, smile",[128578]
+hugging face,"face, hug, hugging",[129303]
+thinking face,"face, thinking",[129300]
+neutral face,"deadpan, face, neutral",[128528]
+expressionless face,"expressionless, face, inexpressive, unexpressive",[128529]
+face without mouth,"face, mouth, quiet, silent",[128566]
+face with rolling eyes,"eyes, face, rolling",[128580]
+smirking face,"face, smirk",[128527]
+persevering face,"face, persevere",[128547]
+disappointed but relieved face,"disappointed, face, relieved, whew",[128549]
+face with open mouth,"face, mouth, open, sympathy",[128558]
+zipper-mouth face,"face, mouth, zipper",[129296]
+hushed face,"face, hushed, stunned, surprised",[128559]
+sleepy face,"face, sleep",[128554]
+tired face,"face, tired",[128555]
+sleeping face,"face, sleep, zzz",[128564]
+relieved face,"face, relieved",[128524]
+nerd face,"face, geek, nerd",[129299]
+face with stuck-out tongue,"face, tongue",[128539]
+face with stuck-out tongue & winking eye,"eye, face, joke, tongue, wink",[128540]
+face with stuck-out tongue & closed eyes,"eye, face, horrible, taste, tongue",[128541]
+drooling face,"drooling, face",[129316]
+unamused face,"face, unamused, unhappy",[128530]
+face with cold sweat,"cold, face, sweat",[128531]
+pensive face,"dejected, face, pensive",[128532]
+confused face,"confused, face",[128533]
+upside-down face,"face, upside-down",[128579]
+money-mouth face,"face, money, mouth",[129297]
+astonished face,"astonished, face, shocked, totally",[128562]
+frowning face,"face, frown",[9785]
+slightly frowning face,"face, frown",[128577]
+confounded face,"confounded, face",[128534]
+disappointed face,"disappointed, face",[128542]
+worried face,"face, worried",[128543]
+face with steam from nose,"face, triumph, won",[128548]
+crying face,"cry, face, sad, tear",[128546]
+loudly crying face,"cry, face, sad, sob, tear",[128557]
+frowning face with open mouth,"face, frown, mouth, open",[128550]
+anguished face,"anguished, face",[128551]
+fearful face,"face, fear, fearful, scared",[128552]
+weary face,"face, tired, weary",[128553]
+grimacing face,"face, grimace",[128556]
+face with open mouth & cold sweat,"blue, cold, face, mouth, open, rushed, sweat",[128560]
+face screaming in fear,"face, fear, fearful, munch, scared, scream",[128561]
+flushed face,"dazed, face, flushed",[128563]
+dizzy face,"dizzy, face",[128565]
+pouting face,"angry, face, mad, pouting, rage, red",[128545]
+angry face,"angry, face, mad",[128544]
+smiling face with halo,"angel, face, fairy tale, fantasy, halo, innocent, smile",[128519]
+cowboy hat face,"cowboy, cowgirl, face, hat",[129312]
+clown face,"clown, face",[129313]
+lying face,"face, lie, pinocchio",[129317]
+face with medical mask,"cold, doctor, face, mask, medicine, sick",[128567]
+face with thermometer,"face, ill, sick, thermometer",[129298]
+face with head-bandage,"bandage, face, hurt, injury",[129301]
+nauseated face,"face, nauseated, vomit",[129314]
+sneezing face,"face, gesundheit, sneeze",[129319]
+smiling face with horns,"face, fairy tale, fantasy, horns, smile",[128520]
+angry face with horns,"demon, devil, face, fairy tale, fantasy, imp",[128127]
+ogre,"creature, face, fairy tale, fantasy, japanese, monster",[128121]
+goblin,"creature, face, fairy tale, fantasy, japanese, monster",[128122]
+skull,"death, face, fairy tale, monster",[128128]
+skull and crossbones,"crossbones, death, face, monster, skull",[9760]
+ghost,"creature, face, fairy tale, fantasy, monster",[128123]
+alien,"creature, extraterrestrial, face, fairy tale, fantasy, monster, ufo",[128125]
+alien monster,"alien, creature, extraterrestrial, face, fairy tale, fantasy, monster, ufo",[128126]
+robot face,"face, monster, robot",[129302]
+pile of poo,"comic, dung, face, monster, poo, poop",[128169]
+smiling cat face with open mouth,"cat, face, mouth, open, smile",[128570]
+grinning cat face with smiling eyes,"cat, eye, face, grin, smile",[128568]
+cat face with tears of joy,"cat, face, joy, tear",[128569]
+smiling cat face with heart-eyes,"cat, eye, face, love, smile",[128571]
+cat face with wry smile,"cat, face, ironic, smile, wry",[128572]
+kissing cat face with closed eyes,"cat, eye, face, kiss",[128573]
+weary cat face,"cat, face, oh, surprised, weary",[128576]
+crying cat face,"cat, cry, face, sad, tear",[128575]
+pouting cat face,"cat, face, pouting",[128574]
+see-no-evil monkey,"evil, face, forbidden, gesture, monkey, no, not, prohibited, see",[128584]
+hear-no-evil monkey,"evil, face, forbidden, gesture, hear, monkey, no, not, prohibited",[128585]
+speak-no-evil monkey,"evil, face, forbidden, gesture, monkey, no, not, prohibited, speak",[128586]
+boy,"boy, young",[128102]
+boy: light skin tone,"boy, light skin tone, young","[128102, 127995]"
+boy: medium-light skin tone,"boy, medium-light skin tone, young","[128102, 127996]"
+boy: medium skin tone,"boy, medium skin tone, young","[128102, 127997]"
+boy: medium-dark skin tone,"boy, medium-dark skin tone, young","[128102, 127998]"
+boy: dark skin tone,"boy, dark skin tone, young","[128102, 127999]"
+girl,"virgo, young, zodiac",[128103]
+girl: light skin tone,"light skin tone, virgo, young, zodiac","[128103, 127995]"
+girl: medium-light skin tone,"medium-light skin tone, virgo, young, zodiac","[128103, 127996]"
+girl: medium skin tone,"medium skin tone, virgo, young, zodiac","[128103, 127997]"
+girl: medium-dark skin tone,"medium-dark skin tone, virgo, young, zodiac","[128103, 127998]"
+girl: dark skin tone,"dark skin tone, virgo, young, zodiac","[128103, 127999]"
+man,man,[128104]
+man: light skin tone,"light skin tone, man","[128104, 127995]"
+man: medium-light skin tone,"man, medium-light skin tone","[128104, 127996]"
+man: medium skin tone,"man, medium skin tone","[128104, 127997]"
+man: medium-dark skin tone,"man, medium-dark skin tone","[128104, 127998]"
+man: dark skin tone,"dark skin tone, man","[128104, 127999]"
+woman,woman,[128105]
+woman: light skin tone,"light skin tone, woman","[128105, 127995]"
+woman: medium-light skin tone,"medium-light skin tone, woman","[128105, 127996]"
+woman: medium skin tone,"medium skin tone, woman","[128105, 127997]"
+woman: medium-dark skin tone,"medium-dark skin tone, woman","[128105, 127998]"
+woman: dark skin tone,"dark skin tone, woman","[128105, 127999]"
+old man,"man, old",[128116]
+old man: light skin tone,"light skin tone, man, old","[128116, 127995]"
+old man: medium-light skin tone,"man, medium-light skin tone, old","[128116, 127996]"
+old man: medium skin tone,"man, medium skin tone, old","[128116, 127997]"
+old man: medium-dark skin tone,"man, medium-dark skin tone, old","[128116, 127998]"
+old man: dark skin tone,"dark skin tone, man, old","[128116, 127999]"
+old woman,"old, woman",[128117]
+old woman: light skin tone,"light skin tone, old, woman","[128117, 127995]"
+old woman: medium-light skin tone,"medium-light skin tone, old, woman","[128117, 127996]"
+old woman: medium skin tone,"medium skin tone, old, woman","[128117, 127997]"
+old woman: medium-dark skin tone,"medium-dark skin tone, old, woman","[128117, 127998]"
+old woman: dark skin tone,"dark skin tone, old, woman","[128117, 127999]"
+baby,"baby, young",[128118]
+baby: light skin tone,"baby, light skin tone, young","[128118, 127995]"
+baby: medium-light skin tone,"baby, medium-light skin tone, young","[128118, 127996]"
+baby: medium skin tone,"baby, medium skin tone, young","[128118, 127997]"
+baby: medium-dark skin tone,"baby, medium-dark skin tone, young","[128118, 127998]"
+baby: dark skin tone,"baby, dark skin tone, young","[128118, 127999]"
+baby angel,"angel, baby, face, fairy tale, fantasy",[128124]
+baby angel: light skin tone,"angel, baby, face, fairy tale, fantasy, light skin tone","[128124, 127995]"
+baby angel: medium-light skin tone,"angel, baby, face, fairy tale, fantasy, medium-light skin tone","[128124, 127996]"
+baby angel: medium skin tone,"angel, baby, face, fairy tale, fantasy, medium skin tone","[128124, 127997]"
+baby angel: medium-dark skin tone,"angel, baby, face, fairy tale, fantasy, medium-dark skin tone","[128124, 127998]"
+baby angel: dark skin tone,"angel, baby, dark skin tone, face, fairy tale, fantasy","[128124, 127999]"
+man health worker,"doctor, healthcare, man, nurse, therapist","[128104, 8205, 9877, 65039]"
+man health worker: light skin tone,"doctor, healthcare, light skin tone, man, nurse, therapist","[128104, 127995, 8205, 9877, 65039]"
+man health worker: medium-light skin tone,"doctor, healthcare, man, medium-light skin tone, nurse, therapist","[128104, 127996, 8205, 9877, 65039]"
+man health worker: medium skin tone,"doctor, healthcare, man, medium skin tone, nurse, therapist","[128104, 127997, 8205, 9877, 65039]"
+man health worker: medium-dark skin tone,"doctor, healthcare, man, medium-dark skin tone, nurse, therapist","[128104, 127998, 8205, 9877, 65039]"
+man health worker: dark skin tone,"dark skin tone, doctor, healthcare, man, nurse, therapist","[128104, 127999, 8205, 9877, 65039]"
+woman health worker,"doctor, healthcare, nurse, therapist, woman","[128105, 8205, 9877, 65039]"
+woman health worker: light skin tone,"doctor, healthcare, light skin tone, nurse, therapist, woman","[128105, 127995, 8205, 9877, 65039]"
+woman health worker: medium-light skin tone,"doctor, healthcare, medium-light skin tone, nurse, therapist, woman","[128105, 127996, 8205, 9877, 65039]"
+woman health worker: medium skin tone,"doctor, healthcare, medium skin tone, nurse, therapist, woman","[128105, 127997, 8205, 9877, 65039]"
+woman health worker: medium-dark skin tone,"doctor, healthcare, medium-dark skin tone, nurse, therapist, woman","[128105, 127998, 8205, 9877, 65039]"
+woman health worker: dark skin tone,"dark skin tone, doctor, healthcare, nurse, therapist, woman","[128105, 127999, 8205, 9877, 65039]"
+man student,"graduate, man, student","[128104, 8205, 127891]"
+man student: light skin tone,"graduate, light skin tone, man, student","[128104, 127995, 8205, 127891]"
+man student: medium-light skin tone,"graduate, man, medium-light skin tone, student","[128104, 127996, 8205, 127891]"
+man student: medium skin tone,"graduate, man, medium skin tone, student","[128104, 127997, 8205, 127891]"
+man student: medium-dark skin tone,"graduate, man, medium-dark skin tone, student","[128104, 127998, 8205, 127891]"
+man student: dark skin tone,"dark skin tone, graduate, man, student","[128104, 127999, 8205, 127891]"
+woman student,"graduate, student, woman","[128105, 8205, 127891]"
+woman student: light skin tone,"graduate, light skin tone, student, woman","[128105, 127995, 8205, 127891]"
+woman student: medium-light skin tone,"graduate, medium-light skin tone, student, woman","[128105, 127996, 8205, 127891]"
+woman student: medium skin tone,"graduate, medium skin tone, student, woman","[128105, 127997, 8205, 127891]"
+woman student: medium-dark skin tone,"graduate, medium-dark skin tone, student, woman","[128105, 127998, 8205, 127891]"
+woman student: dark skin tone,"dark skin tone, graduate, student, woman","[128105, 127999, 8205, 127891]"
+man teacher,"instructor, man, professor, teacher","[128104, 8205, 127979]"
+man teacher: light skin tone,"instructor, light skin tone, man, professor, teacher","[128104, 127995, 8205, 127979]"
+man teacher: medium-light skin tone,"instructor, man, medium-light skin tone, professor, teacher","[128104, 127996, 8205, 127979]"
+man teacher: medium skin tone,"instructor, man, medium skin tone, professor, teacher","[128104, 127997, 8205, 127979]"
+man teacher: medium-dark skin tone,"instructor, man, medium-dark skin tone, professor, teacher","[128104, 127998, 8205, 127979]"
+man teacher: dark skin tone,"dark skin tone, instructor, man, professor, teacher","[128104, 127999, 8205, 127979]"
+woman teacher,"instructor, professor, teacher, woman","[128105, 8205, 127979]"
+woman teacher: light skin tone,"instructor, light skin tone, professor, teacher, woman","[128105, 127995, 8205, 127979]"
+woman teacher: medium-light skin tone,"instructor, medium-light skin tone, professor, teacher, woman","[128105, 127996, 8205, 127979]"
+woman teacher: medium skin tone,"instructor, medium skin tone, professor, teacher, woman","[128105, 127997, 8205, 127979]"
+woman teacher: medium-dark skin tone,"instructor, medium-dark skin tone, professor, teacher, woman","[128105, 127998, 8205, 127979]"
+woman teacher: dark skin tone,"dark skin tone, instructor, professor, teacher, woman","[128105, 127999, 8205, 127979]"
+man judge,"justice, man, scales","[128104, 8205, 9878]"
+man judge: light skin tone,"justice, light skin tone, man, scales","[128104, 127995, 8205, 9878]"
+man judge: medium-light skin tone,"justice, man, medium-light skin tone, scales","[128104, 127996, 8205, 9878]"
+man judge: medium skin tone,"justice, man, medium skin tone, scales","[128104, 127997, 8205, 9878]"
+man judge: medium-dark skin tone,"justice, man, medium-dark skin tone, scales","[128104, 127998, 8205, 9878]"
+man judge: dark skin tone,"dark skin tone, justice, man, scales","[128104, 127999, 8205, 9878]"
+woman judge,"judge, scales, woman","[128105, 8205, 9878]"
+woman judge: light skin tone,"judge, light skin tone, scales, woman","[128105, 127995, 8205, 9878]"
+woman judge: medium-light skin tone,"judge, medium-light skin tone, scales, woman","[128105, 127996, 8205, 9878]"
+woman judge: medium skin tone,"judge, medium skin tone, scales, woman","[128105, 127997, 8205, 9878]"
+woman judge: medium-dark skin tone,"judge, medium-dark skin tone, scales, woman","[128105, 127998, 8205, 9878]"
+woman judge: dark skin tone,"dark skin tone, judge, scales, woman","[128105, 127999, 8205, 9878]"
+man farmer,"farmer, gardener, man, rancher","[128104, 8205, 127806]"
+man farmer: light skin tone,"farmer, gardener, light skin tone, man, rancher","[128104, 127995, 8205, 127806]"
+man farmer: medium-light skin tone,"farmer, gardener, man, medium-light skin tone, rancher","[128104, 127996, 8205, 127806]"
+man farmer: medium skin tone,"farmer, gardener, man, medium skin tone, rancher","[128104, 127997, 8205, 127806]"
+man farmer: medium-dark skin tone,"farmer, gardener, man, medium-dark skin tone, rancher","[128104, 127998, 8205, 127806]"
+man farmer: dark skin tone,"dark skin tone, farmer, gardener, man, rancher","[128104, 127999, 8205, 127806]"
+woman farmer,"farmer, gardener, rancher, woman","[128105, 8205, 127806]"
+woman farmer: light skin tone,"farmer, gardener, light skin tone, rancher, woman","[128105, 127995, 8205, 127806]"
+woman farmer: medium-light skin tone,"farmer, gardener, medium-light skin tone, rancher, woman","[128105, 127996, 8205, 127806]"
+woman farmer: medium skin tone,"farmer, gardener, medium skin tone, rancher, woman","[128105, 127997, 8205, 127806]"
+woman farmer: medium-dark skin tone,"farmer, gardener, medium-dark skin tone, rancher, woman","[128105, 127998, 8205, 127806]"
+woman farmer: dark skin tone,"dark skin tone, farmer, gardener, rancher, woman","[128105, 127999, 8205, 127806]"
+man cook,"chef, cook, man","[128104, 8205, 127859]"
+man cook: light skin tone,"chef, cook, light skin tone, man","[128104, 127995, 8205, 127859]"
+man cook: medium-light skin tone,"chef, cook, man, medium-light skin tone","[128104, 127996, 8205, 127859]"
+man cook: medium skin tone,"chef, cook, man, medium skin tone","[128104, 127997, 8205, 127859]"
+man cook: medium-dark skin tone,"chef, cook, man, medium-dark skin tone","[128104, 127998, 8205, 127859]"
+man cook: dark skin tone,"chef, cook, dark skin tone, man","[128104, 127999, 8205, 127859]"
+woman cook,"chef, cook, woman","[128105, 8205, 127859]"
+woman cook: light skin tone,"chef, cook, light skin tone, woman","[128105, 127995, 8205, 127859]"
+woman cook: medium-light skin tone,"chef, cook, medium-light skin tone, woman","[128105, 127996, 8205, 127859]"
+woman cook: medium skin tone,"chef, cook, medium skin tone, woman","[128105, 127997, 8205, 127859]"
+woman cook: medium-dark skin tone,"chef, cook, medium-dark skin tone, woman","[128105, 127998, 8205, 127859]"
+woman cook: dark skin tone,"chef, cook, dark skin tone, woman","[128105, 127999, 8205, 127859]"
+man mechanic,"electrician, man, mechanic, plumber, tradesperson","[128104, 8205, 128295]"
+man mechanic: light skin tone,"electrician, light skin tone, man, mechanic, plumber, tradesperson","[128104, 127995, 8205, 128295]"
+man mechanic: medium-light skin tone,"electrician, man, mechanic, medium-light skin tone, plumber, tradesperson","[128104, 127996, 8205, 128295]"
+man mechanic: medium skin tone,"electrician, man, mechanic, medium skin tone, plumber, tradesperson","[128104, 127997, 8205, 128295]"
+man mechanic: medium-dark skin tone,"electrician, man, mechanic, medium-dark skin tone, plumber, tradesperson","[128104, 127998, 8205, 128295]"
+man mechanic: dark skin tone,"dark skin tone, electrician, man, mechanic, plumber, tradesperson","[128104, 127999, 8205, 128295]"
+woman mechanic,"electrician, mechanic, plumber, tradesperson, woman","[128105, 8205, 128295]"
+woman mechanic: light skin tone,"electrician, light skin tone, mechanic, plumber, tradesperson, woman","[128105, 127995, 8205, 128295]"
+woman mechanic: medium-light skin tone,"electrician, mechanic, medium-light skin tone, plumber, tradesperson, woman","[128105, 127996, 8205, 128295]"
+woman mechanic: medium skin tone,"electrician, mechanic, medium skin tone, plumber, tradesperson, woman","[128105, 127997, 8205, 128295]"
+woman mechanic: medium-dark skin tone,"electrician, mechanic, medium-dark skin tone, plumber, tradesperson, woman","[128105, 127998, 8205, 128295]"
+woman mechanic: dark skin tone,"dark skin tone, electrician, mechanic, plumber, tradesperson, woman","[128105, 127999, 8205, 128295]"
+man factory worker,"assembly, factory, industrial, man, worker","[128104, 8205, 127981]"
+man factory worker: light skin tone,"assembly, factory, industrial, light skin tone, man, worker","[128104, 127995, 8205, 127981]"
+man factory worker: medium-light skin tone,"assembly, factory, industrial, man, medium-light skin tone, worker","[128104, 127996, 8205, 127981]"
+man factory worker: medium skin tone,"assembly, factory, industrial, man, medium skin tone, worker","[128104, 127997, 8205, 127981]"
+man factory worker: medium-dark skin tone,"assembly, factory, industrial, man, medium-dark skin tone, worker","[128104, 127998, 8205, 127981]"
+man factory worker: dark skin tone,"assembly, dark skin tone, factory, industrial, man, worker","[128104, 127999, 8205, 127981]"
+woman factory worker,"assembly, factory, industrial, woman, worker","[128105, 8205, 127981]"
+woman factory worker: light skin tone,"assembly, factory, industrial, light skin tone, woman, worker","[128105, 127995, 8205, 127981]"
+woman factory worker: medium-light skin tone,"assembly, factory, industrial, medium-light skin tone, woman, worker","[128105, 127996, 8205, 127981]"
+woman factory worker: medium skin tone,"assembly, factory, industrial, medium skin tone, woman, worker","[128105, 127997, 8205, 127981]"
+woman factory worker: medium-dark skin tone,"assembly, factory, industrial, medium-dark skin tone, woman, worker","[128105, 127998, 8205, 127981]"
+woman factory worker: dark skin tone,"assembly, dark skin tone, factory, industrial, woman, worker","[128105, 127999, 8205, 127981]"
+man office worker,"architect, business, man, manager, office, white-collar","[128104, 8205, 128188]"
+man office worker: light skin tone,"architect, business, light skin tone, man, manager, office, white-collar","[128104, 127995, 8205, 128188]"
+man office worker: medium-light skin tone,"architect, business, man, manager, medium-light skin tone, office, white-collar","[128104, 127996, 8205, 128188]"
+man office worker: medium skin tone,"architect, business, man, manager, medium skin tone, office, white-collar","[128104, 127997, 8205, 128188]"
+man office worker: medium-dark skin tone,"architect, business, man, manager, medium-dark skin tone, office, white-collar","[128104, 127998, 8205, 128188]"
+man office worker: dark skin tone,"architect, business, dark skin tone, man, manager, office, white-collar","[128104, 127999, 8205, 128188]"
+woman office worker,"architect, business, manager, office, white-collar, woman","[128105, 8205, 128188]"
+woman office worker: light skin tone,"architect, business, light skin tone, manager, office, white-collar, woman","[128105, 127995, 8205, 128188]"
+woman office worker: medium-light skin tone,"architect, business, manager, medium-light skin tone, office, white-collar, woman","[128105, 127996, 8205, 128188]"
+woman office worker: medium skin tone,"architect, business, manager, medium skin tone, office, white-collar, woman","[128105, 127997, 8205, 128188]"
+woman office worker: medium-dark skin tone,"architect, business, manager, medium-dark skin tone, office, white-collar, woman","[128105, 127998, 8205, 128188]"
+woman office worker: dark skin tone,"architect, business, dark skin tone, manager, office, white-collar, woman","[128105, 127999, 8205, 128188]"
+man scientist,"biologist, chemist, engineer, man, mathematician, physicist, scientist","[128104, 8205, 128300]"
+man scientist: light skin tone,"biologist, chemist, engineer, light skin tone, man, mathematician, physicist, scientist","[128104, 127995, 8205, 128300]"
+man scientist: medium-light skin tone,"biologist, chemist, engineer, man, mathematician, medium-light skin tone, physicist, scientist","[128104, 127996, 8205, 128300]"
+man scientist: medium skin tone,"biologist, chemist, engineer, man, mathematician, medium skin tone, physicist, scientist","[128104, 127997, 8205, 128300]"
+man scientist: medium-dark skin tone,"biologist, chemist, engineer, man, mathematician, medium-dark skin tone, physicist, scientist","[128104, 127998, 8205, 128300]"
+man scientist: dark skin tone,"biologist, chemist, dark skin tone, engineer, man, mathematician, physicist, scientist","[128104, 127999, 8205, 128300]"
+woman scientist,"biologist, chemist, engineer, mathematician, physicist, scientist, woman","[128105, 8205, 128300]"
+woman scientist: light skin tone,"biologist, chemist, engineer, light skin tone, mathematician, physicist, scientist, woman","[128105, 127995, 8205, 128300]"
+woman scientist: medium-light skin tone,"biologist, chemist, engineer, mathematician, medium-light skin tone, physicist, scientist, woman","[128105, 127996, 8205, 128300]"
+woman scientist: medium skin tone,"biologist, chemist, engineer, mathematician, medium skin tone, physicist, scientist, woman","[128105, 127997, 8205, 128300]"
+woman scientist: medium-dark skin tone,"biologist, chemist, engineer, mathematician, medium-dark skin tone, physicist, scientist, woman","[128105, 127998, 8205, 128300]"
+woman scientist: dark skin tone,"biologist, chemist, dark skin tone, engineer, mathematician, physicist, scientist, woman","[128105, 127999, 8205, 128300]"
+man technologist,"coder, developer, inventor, man, software, technologist","[128104, 8205, 128187]"
+man technologist: light skin tone,"coder, developer, inventor, light skin tone, man, software, technologist","[128104, 127995, 8205, 128187]"
+man technologist: medium-light skin tone,"coder, developer, inventor, man, medium-light skin tone, software, technologist","[128104, 127996, 8205, 128187]"
+man technologist: medium skin tone,"coder, developer, inventor, man, medium skin tone, software, technologist","[128104, 127997, 8205, 128187]"
+man technologist: medium-dark skin tone,"coder, developer, inventor, man, medium-dark skin tone, software, technologist","[128104, 127998, 8205, 128187]"
+man technologist: dark skin tone,"coder, dark skin tone, developer, inventor, man, software, technologist","[128104, 127999, 8205, 128187]"
+woman technologist,"coder, developer, inventor, software, technologist, woman","[128105, 8205, 128187]"
+woman technologist: light skin tone,"coder, developer, inventor, light skin tone, software, technologist, woman","[128105, 127995, 8205, 128187]"
+woman technologist: medium-light skin tone,"coder, developer, inventor, medium-light skin tone, software, technologist, woman","[128105, 127996, 8205, 128187]"
+woman technologist: medium skin tone,"coder, developer, inventor, medium skin tone, software, technologist, woman","[128105, 127997, 8205, 128187]"
+woman technologist: medium-dark skin tone,"coder, developer, inventor, medium-dark skin tone, software, technologist, woman","[128105, 127998, 8205, 128187]"
+woman technologist: dark skin tone,"coder, dark skin tone, developer, inventor, software, technologist, woman","[128105, 127999, 8205, 128187]"
+man singer,"actor, entertainer, man, rock, singer, star","[128104, 8205, 127908]"
+man singer: light skin tone,"actor, entertainer, light skin tone, man, rock, singer, star","[128104, 127995, 8205, 127908]"
+man singer: medium-light skin tone,"actor, entertainer, man, medium-light skin tone, rock, singer, star","[128104, 127996, 8205, 127908]"
+man singer: medium skin tone,"actor, entertainer, man, medium skin tone, rock, singer, star","[128104, 127997, 8205, 127908]"
+man singer: medium-dark skin tone,"actor, entertainer, man, medium-dark skin tone, rock, singer, star","[128104, 127998, 8205, 127908]"
+man singer: dark skin tone,"actor, dark skin tone, entertainer, man, rock, singer, star","[128104, 127999, 8205, 127908]"
+woman singer,"actor, entertainer, rock, singer, star, woman","[128105, 8205, 127908]"
+woman singer: light skin tone,"actor, entertainer, light skin tone, rock, singer, star, woman","[128105, 127995, 8205, 127908]"
+woman singer: medium-light skin tone,"actor, entertainer, medium-light skin tone, rock, singer, star, woman","[128105, 127996, 8205, 127908]"
+woman singer: medium skin tone,"actor, entertainer, medium skin tone, rock, singer, star, woman","[128105, 127997, 8205, 127908]"
+woman singer: medium-dark skin tone,"actor, entertainer, medium-dark skin tone, rock, singer, star, woman","[128105, 127998, 8205, 127908]"
+woman singer: dark skin tone,"actor, dark skin tone, entertainer, rock, singer, star, woman","[128105, 127999, 8205, 127908]"
+man artist,"artist, man, palette","[128104, 8205, 127912]"
+man artist: light skin tone,"artist, light skin tone, man, palette","[128104, 127995, 8205, 127912]"
+man artist: medium-light skin tone,"artist, man, medium-light skin tone, palette","[128104, 127996, 8205, 127912]"
+man artist: medium skin tone,"artist, man, medium skin tone, palette","[128104, 127997, 8205, 127912]"
+man artist: medium-dark skin tone,"artist, man, medium-dark skin tone, palette","[128104, 127998, 8205, 127912]"
+man artist: dark skin tone,"artist, dark skin tone, man, palette","[128104, 127999, 8205, 127912]"
+woman artist,"artist, palette, woman","[128105, 8205, 127912]"
+woman artist: light skin tone,"artist, light skin tone, palette, woman","[128105, 127995, 8205, 127912]"
+woman artist: medium-light skin tone,"artist, medium-light skin tone, palette, woman","[128105, 127996, 8205, 127912]"
+woman artist: medium skin tone,"artist, medium skin tone, palette, woman","[128105, 127997, 8205, 127912]"
+woman artist: medium-dark skin tone,"artist, medium-dark skin tone, palette, woman","[128105, 127998, 8205, 127912]"
+woman artist: dark skin tone,"artist, dark skin tone, palette, woman","[128105, 127999, 8205, 127912]"
+man pilot,"man, pilot, plane","[128104, 8205, 9992, 65039]"
+man pilot: light skin tone,"light skin tone, man, pilot, plane","[128104, 127995, 8205, 9992, 65039]"
+man pilot: medium-light skin tone,"man, medium-light skin tone, pilot, plane","[128104, 127996, 8205, 9992, 65039]"
+man pilot: medium skin tone,"man, medium skin tone, pilot, plane","[128104, 127997, 8205, 9992, 65039]"
+man pilot: medium-dark skin tone,"man, medium-dark skin tone, pilot, plane","[128104, 127998, 8205, 9992, 65039]"
+man pilot: dark skin tone,"dark skin tone, man, pilot, plane","[128104, 127999, 8205, 9992, 65039]"
+woman pilot,"pilot, plane, woman","[128105, 8205, 9992, 65039]"
+woman pilot: light skin tone,"light skin tone, pilot, plane, woman","[128105, 127995, 8205, 9992, 65039]"
+woman pilot: medium-light skin tone,"medium-light skin tone, pilot, plane, woman","[128105, 127996, 8205, 9992, 65039]"
+woman pilot: medium skin tone,"medium skin tone, pilot, plane, woman","[128105, 127997, 8205, 9992, 65039]"
+woman pilot: medium-dark skin tone,"medium-dark skin tone, pilot, plane, woman","[128105, 127998, 8205, 9992, 65039]"
+woman pilot: dark skin tone,"dark skin tone, pilot, plane, woman","[128105, 127999, 8205, 9992, 65039]"
+man astronaut,"astronaut, man, rocket","[128104, 8205, 128640]"
+man astronaut: light skin tone,"astronaut, light skin tone, man, rocket","[128104, 127995, 8205, 128640]"
+man astronaut: medium-light skin tone,"astronaut, man, medium-light skin tone, rocket","[128104, 127996, 8205, 128640]"
+man astronaut: medium skin tone,"astronaut, man, medium skin tone, rocket","[128104, 127997, 8205, 128640]"
+man astronaut: medium-dark skin tone,"astronaut, man, medium-dark skin tone, rocket","[128104, 127998, 8205, 128640]"
+man astronaut: dark skin tone,"astronaut, dark skin tone, man, rocket","[128104, 127999, 8205, 128640]"
+woman astronaut,"astronaut, rocket, woman","[128105, 8205, 128640]"
+woman astronaut: light skin tone,"astronaut, light skin tone, rocket, woman","[128105, 127995, 8205, 128640]"
+woman astronaut: medium-light skin tone,"astronaut, medium-light skin tone, rocket, woman","[128105, 127996, 8205, 128640]"
+woman astronaut: medium skin tone,"astronaut, medium skin tone, rocket, woman","[128105, 127997, 8205, 128640]"
+woman astronaut: medium-dark skin tone,"astronaut, medium-dark skin tone, rocket, woman","[128105, 127998, 8205, 128640]"
+woman astronaut: dark skin tone,"astronaut, dark skin tone, rocket, woman","[128105, 127999, 8205, 128640]"
+man firefighter,"firefighter, firetruck, man","[128104, 8205, 128658]"
+man firefighter: light skin tone,"firefighter, firetruck, light skin tone, man","[128104, 127995, 8205, 128658]"
+man firefighter: medium-light skin tone,"firefighter, firetruck, man, medium-light skin tone","[128104, 127996, 8205, 128658]"
+man firefighter: medium skin tone,"firefighter, firetruck, man, medium skin tone","[128104, 127997, 8205, 128658]"
+man firefighter: medium-dark skin tone,"firefighter, firetruck, man, medium-dark skin tone","[128104, 127998, 8205, 128658]"
+man firefighter: dark skin tone,"dark skin tone, firefighter, firetruck, man","[128104, 127999, 8205, 128658]"
+woman firefighter,"firefighter, firetruck, woman","[128105, 8205, 128658]"
+woman firefighter: light skin tone,"firefighter, firetruck, light skin tone, woman","[128105, 127995, 8205, 128658]"
+woman firefighter: medium-light skin tone,"firefighter, firetruck, medium-light skin tone, woman","[128105, 127996, 8205, 128658]"
+woman firefighter: medium skin tone,"firefighter, firetruck, medium skin tone, woman","[128105, 127997, 8205, 128658]"
+woman firefighter: medium-dark skin tone,"firefighter, firetruck, medium-dark skin tone, woman","[128105, 127998, 8205, 128658]"
+woman firefighter: dark skin tone,"dark skin tone, firefighter, firetruck, woman","[128105, 127999, 8205, 128658]"
+police officer,"cop, officer, police",[128110]
+police officer: light skin tone,"cop, light skin tone, officer, police","[128110, 127995]"
+police officer: medium-light skin tone,"cop, medium-light skin tone, officer, police","[128110, 127996]"
+police officer: medium skin tone,"cop, medium skin tone, officer, police","[128110, 127997]"
+police officer: medium-dark skin tone,"cop, medium-dark skin tone, officer, police","[128110, 127998]"
+police officer: dark skin tone,"cop, dark skin tone, officer, police","[128110, 127999]"
+man police officer,"cop, man, officer, police","[128110, 8205, 9794, 65039]"
+man police officer: light skin tone,"cop, light skin tone, man, officer, police","[128110, 127995, 8205, 9794, 65039]"
+man police officer: medium-light skin tone,"cop, man, medium-light skin tone, officer, police","[128110, 127996, 8205, 9794, 65039]"
+man police officer: medium skin tone,"cop, man, medium skin tone, officer, police","[128110, 127997, 8205, 9794, 65039]"
+man police officer: medium-dark skin tone,"cop, man, medium-dark skin tone, officer, police","[128110, 127998, 8205, 9794, 65039]"
+man police officer: dark skin tone,"cop, dark skin tone, man, officer, police","[128110, 127999, 8205, 9794, 65039]"
+woman police officer,"cop, officer, police, woman","[128110, 8205, 9792, 65039]"
+woman police officer: light skin tone,"cop, light skin tone, officer, police, woman","[128110, 127995, 8205, 9792, 65039]"
+woman police officer: medium-light skin tone,"cop, medium-light skin tone, officer, police, woman","[128110, 127996, 8205, 9792, 65039]"
+woman police officer: medium skin tone,"cop, medium skin tone, officer, police, woman","[128110, 127997, 8205, 9792, 65039]"
+woman police officer: medium-dark skin tone,"cop, medium-dark skin tone, officer, police, woman","[128110, 127998, 8205, 9792, 65039]"
+woman police officer: dark skin tone,"cop, dark skin tone, officer, police, woman","[128110, 127999, 8205, 9792, 65039]"
+detective,"detective, sleuth, spy",[128373]
+detective: light skin tone,"detective, light skin tone, sleuth, spy","[128373, 127995]"
+detective: medium-light skin tone,"detective, medium-light skin tone, sleuth, spy","[128373, 127996]"
+detective: medium skin tone,"detective, medium skin tone, sleuth, spy","[128373, 127997]"
+detective: medium-dark skin tone,"detective, medium-dark skin tone, sleuth, spy","[128373, 127998]"
+detective: dark skin tone,"dark skin tone, detective, sleuth, spy","[128373, 127999]"
+man detective,"detective, man, sleuth, spy","[128373, 65039, 8205, 9794, 65039]"
+man detective: light skin tone,"detective, light skin tone, man, sleuth, spy","[128373, 127995, 8205, 9794, 65039]"
+man detective: medium-light skin tone,"detective, man, medium-light skin tone, sleuth, spy","[128373, 127996, 8205, 9794, 65039]"
+man detective: medium skin tone,"detective, man, medium skin tone, sleuth, spy","[128373, 127997, 8205, 9794, 65039]"
+man detective: medium-dark skin tone,"detective, man, medium-dark skin tone, sleuth, spy","[128373, 127998, 8205, 9794, 65039]"
+man detective: dark skin tone,"dark skin tone, detective, man, sleuth, spy","[128373, 127999, 8205, 9794, 65039]"
+woman detective,"detective, sleuth, spy, woman","[128373, 65039, 8205, 9792, 65039]"
+woman detective: light skin tone,"detective, light skin tone, sleuth, spy, woman","[128373, 127995, 8205, 9792, 65039]"
+woman detective: medium-light skin tone,"detective, medium-light skin tone, sleuth, spy, woman","[128373, 127996, 8205, 9792, 65039]"
+woman detective: medium skin tone,"detective, medium skin tone, sleuth, spy, woman","[128373, 127997, 8205, 9792, 65039]"
+woman detective: medium-dark skin tone,"detective, medium-dark skin tone, sleuth, spy, woman","[128373, 127998, 8205, 9792, 65039]"
+woman detective: dark skin tone,"dark skin tone, detective, sleuth, spy, woman","[128373, 127999, 8205, 9792, 65039]"
+guard,guard,[128130]
+guard: light skin tone,"guard, light skin tone","[128130, 127995]"
+guard: medium-light skin tone,"guard, medium-light skin tone","[128130, 127996]"
+guard: medium skin tone,"guard, medium skin tone","[128130, 127997]"
+guard: medium-dark skin tone,"guard, medium-dark skin tone","[128130, 127998]"
+guard: dark skin tone,"dark skin tone, guard","[128130, 127999]"
+man guard,"guard, man","[128130, 8205, 9794, 65039]"
+man guard: light skin tone,"guard, light skin tone, man","[128130, 127995, 8205, 9794, 65039]"
+man guard: medium-light skin tone,"guard, man, medium-light skin tone","[128130, 127996, 8205, 9794, 65039]"
+man guard: medium skin tone,"guard, man, medium skin tone","[128130, 127997, 8205, 9794, 65039]"
+man guard: medium-dark skin tone,"guard, man, medium-dark skin tone","[128130, 127998, 8205, 9794, 65039]"
+man guard: dark skin tone,"dark skin tone, guard, man","[128130, 127999, 8205, 9794, 65039]"
+woman guard,"guard, woman","[128130, 8205, 9792, 65039]"
+woman guard: light skin tone,"guard, light skin tone, woman","[128130, 127995, 8205, 9792, 65039]"
+woman guard: medium-light skin tone,"guard, medium-light skin tone, woman","[128130, 127996, 8205, 9792, 65039]"
+woman guard: medium skin tone,"guard, medium skin tone, woman","[128130, 127997, 8205, 9792, 65039]"
+woman guard: medium-dark skin tone,"guard, medium-dark skin tone, woman","[128130, 127998, 8205, 9792, 65039]"
+woman guard: dark skin tone,"dark skin tone, guard, woman","[128130, 127999, 8205, 9792, 65039]"
+construction worker,"construction, hat, worker",[128119]
+construction worker: light skin tone,"construction, hat, light skin tone, worker","[128119, 127995]"
+construction worker: medium-light skin tone,"construction, hat, medium-light skin tone, worker","[128119, 127996]"
+construction worker: medium skin tone,"construction, hat, medium skin tone, worker","[128119, 127997]"
+construction worker: medium-dark skin tone,"construction, hat, medium-dark skin tone, worker","[128119, 127998]"
+construction worker: dark skin tone,"construction, dark skin tone, hat, worker","[128119, 127999]"
+man construction worker,"construction, man, worker","[128119, 8205, 9794, 65039]"
+man construction worker: light skin tone,"construction, light skin tone, man, worker","[128119, 127995, 8205, 9794, 65039]"
+man construction worker: medium-light skin tone,"construction, man, medium-light skin tone, worker","[128119, 127996, 8205, 9794, 65039]"
+man construction worker: medium skin tone,"construction, man, medium skin tone, worker","[128119, 127997, 8205, 9794, 65039]"
+man construction worker: medium-dark skin tone,"construction, man, medium-dark skin tone, worker","[128119, 127998, 8205, 9794, 65039]"
+man construction worker: dark skin tone,"construction, dark skin tone, man, worker","[128119, 127999, 8205, 9794, 65039]"
+woman construction worker,"construction, woman, worker","[128119, 8205, 9792, 65039]"
+woman construction worker: light skin tone,"construction, light skin tone, woman, worker","[128119, 127995, 8205, 9792, 65039]"
+woman construction worker: medium-light skin tone,"construction, medium-light skin tone, woman, worker","[128119, 127996, 8205, 9792, 65039]"
+woman construction worker: medium skin tone,"construction, medium skin tone, woman, worker","[128119, 127997, 8205, 9792, 65039]"
+woman construction worker: medium-dark skin tone,"construction, medium-dark skin tone, woman, worker","[128119, 127998, 8205, 9792, 65039]"
+woman construction worker: dark skin tone,"construction, dark skin tone, woman, worker","[128119, 127999, 8205, 9792, 65039]"
+person wearing turban,turban,[128115]
+person wearing turban: light skin tone,"light skin tone, turban","[128115, 127995]"
+person wearing turban: medium-light skin tone,"medium-light skin tone, turban","[128115, 127996]"
+person wearing turban: medium skin tone,"medium skin tone, turban","[128115, 127997]"
+person wearing turban: medium-dark skin tone,"medium-dark skin tone, turban","[128115, 127998]"
+person wearing turban: dark skin tone,"dark skin tone, turban","[128115, 127999]"
+man wearing turban,"man, turban","[128115, 8205, 9794, 65039]"
+man wearing turban: light skin tone,"light skin tone, man, turban","[128115, 127995, 8205, 9794, 65039]"
+man wearing turban: medium-light skin tone,"man, medium-light skin tone, turban","[128115, 127996, 8205, 9794, 65039]"
+man wearing turban: medium skin tone,"man, medium skin tone, turban","[128115, 127997, 8205, 9794, 65039]"
+man wearing turban: medium-dark skin tone,"man, medium-dark skin tone, turban","[128115, 127998, 8205, 9794, 65039]"
+man wearing turban: dark skin tone,"dark skin tone, man, turban","[128115, 127999, 8205, 9794, 65039]"
+woman wearing turban,"turban, woman","[128115, 8205, 9792, 65039]"
+woman wearing turban: light skin tone,"light skin tone, turban, woman","[128115, 127995, 8205, 9792, 65039]"
+woman wearing turban: medium-light skin tone,"medium-light skin tone, turban, woman","[128115, 127996, 8205, 9792, 65039]"
+woman wearing turban: medium skin tone,"medium skin tone, turban, woman","[128115, 127997, 8205, 9792, 65039]"
+woman wearing turban: medium-dark skin tone,"medium-dark skin tone, turban, woman","[128115, 127998, 8205, 9792, 65039]"
+woman wearing turban: dark skin tone,"dark skin tone, turban, woman","[128115, 127999, 8205, 9792, 65039]"
+blond-haired person,blond,[128113]
+blond-haired person: light skin tone,"blond, light skin tone","[128113, 127995]"
+blond-haired person: medium-light skin tone,"blond, medium-light skin tone","[128113, 127996]"
+blond-haired person: medium skin tone,"blond, medium skin tone","[128113, 127997]"
+blond-haired person: medium-dark skin tone,"blond, medium-dark skin tone","[128113, 127998]"
+blond-haired person: dark skin tone,"blond, dark skin tone","[128113, 127999]"
+blond-haired man,"blond, man","[128113, 8205, 9794, 65039]"
+blond-haired man: light skin tone,"blond, light skin tone, man","[128113, 127995, 8205, 9794, 65039]"
+blond-haired man: medium-light skin tone,"blond, man, medium-light skin tone","[128113, 127996, 8205, 9794, 65039]"
+blond-haired man: medium skin tone,"blond, man, medium skin tone","[128113, 127997, 8205, 9794, 65039]"
+blond-haired man: medium-dark skin tone,"blond, man, medium-dark skin tone","[128113, 127998, 8205, 9794, 65039]"
+blond-haired man: dark skin tone,"blond, dark skin tone, man","[128113, 127999, 8205, 9794, 65039]"
+blond-haired woman,"blonde, woman","[128113, 8205, 9792, 65039]"
+blond-haired woman: light skin tone,"blonde, light skin tone, woman","[128113, 127995, 8205, 9792, 65039]"
+blond-haired woman: medium-light skin tone,"blonde, medium-light skin tone, woman","[128113, 127996, 8205, 9792, 65039]"
+blond-haired woman: medium skin tone,"blonde, medium skin tone, woman","[128113, 127997, 8205, 9792, 65039]"
+blond-haired woman: medium-dark skin tone,"blonde, medium-dark skin tone, woman","[128113, 127998, 8205, 9792, 65039]"
+blond-haired woman: dark skin tone,"blonde, dark skin tone, woman","[128113, 127999, 8205, 9792, 65039]"
+santa claus,"celebration, christmas, claus, father, santa",[127877]
+santa claus: light skin tone,"celebration, christmas, claus, father, light skin tone, santa","[127877, 127995]"
+santa claus: medium-light skin tone,"celebration, christmas, claus, father, medium-light skin tone, santa","[127877, 127996]"
+santa claus: medium skin tone,"celebration, christmas, claus, father, medium skin tone, santa","[127877, 127997]"
+santa claus: medium-dark skin tone,"celebration, christmas, claus, father, medium-dark skin tone, santa","[127877, 127998]"
+santa claus: dark skin tone,"celebration, christmas, claus, dark skin tone, father, santa","[127877, 127999]"
+mrs. claus,"celebration, christmas, claus, mother, mrs.",[129334]
+mrs. claus: light skin tone,"celebration, christmas, claus, light skin tone, mother, mrs.","[129334, 127995]"
+mrs. claus: medium-light skin tone,"celebration, christmas, claus, medium-light skin tone, mother, mrs.","[129334, 127996]"
+mrs. claus: medium skin tone,"celebration, christmas, claus, medium skin tone, mother, mrs.","[129334, 127997]"
+mrs. claus: medium-dark skin tone,"celebration, christmas, claus, medium-dark skin tone, mother, mrs.","[129334, 127998]"
+mrs. claus: dark skin tone,"celebration, christmas, claus, dark skin tone, mother, mrs.","[129334, 127999]"
+princess,"fairy tale, fantasy",[128120]
+princess: light skin tone,"fairy tale, fantasy, light skin tone","[128120, 127995]"
+princess: medium-light skin tone,"fairy tale, fantasy, medium-light skin tone","[128120, 127996]"
+princess: medium skin tone,"fairy tale, fantasy, medium skin tone","[128120, 127997]"
+princess: medium-dark skin tone,"fairy tale, fantasy, medium-dark skin tone","[128120, 127998]"
+princess: dark skin tone,"dark skin tone, fairy tale, fantasy","[128120, 127999]"
+prince,prince,[129332]
+prince: light skin tone,"light skin tone, prince","[129332, 127995]"
+prince: medium-light skin tone,"medium-light skin tone, prince","[129332, 127996]"
+prince: medium skin tone,"medium skin tone, prince","[129332, 127997]"
+prince: medium-dark skin tone,"medium-dark skin tone, prince","[129332, 127998]"
+prince: dark skin tone,"dark skin tone, prince","[129332, 127999]"
+bride with veil,"bride, veil, wedding",[128112]
+bride with veil: light skin tone,"bride, light skin tone, veil, wedding","[128112, 127995]"
+bride with veil: medium-light skin tone,"bride, medium-light skin tone, veil, wedding","[128112, 127996]"
+bride with veil: medium skin tone,"bride, medium skin tone, veil, wedding","[128112, 127997]"
+bride with veil: medium-dark skin tone,"bride, medium-dark skin tone, veil, wedding","[128112, 127998]"
+bride with veil: dark skin tone,"bride, dark skin tone, veil, wedding","[128112, 127999]"
+man in tuxedo,"groom, man, tuxedo",[129333]
+man in tuxedo: light skin tone,"groom, light skin tone, man, tuxedo","[129333, 127995]"
+man in tuxedo: medium-light skin tone,"groom, man, medium-light skin tone, tuxedo","[129333, 127996]"
+man in tuxedo: medium skin tone,"groom, man, medium skin tone, tuxedo","[129333, 127997]"
+man in tuxedo: medium-dark skin tone,"groom, man, medium-dark skin tone, tuxedo","[129333, 127998]"
+man in tuxedo: dark skin tone,"dark skin tone, groom, man, tuxedo","[129333, 127999]"
+pregnant woman,"pregnant, woman",[129328]
+pregnant woman: light skin tone,"light skin tone, pregnant, woman","[129328, 127995]"
+pregnant woman: medium-light skin tone,"medium-light skin tone, pregnant, woman","[129328, 127996]"
+pregnant woman: medium skin tone,"medium skin tone, pregnant, woman","[129328, 127997]"
+pregnant woman: medium-dark skin tone,"medium-dark skin tone, pregnant, woman","[129328, 127998]"
+pregnant woman: dark skin tone,"dark skin tone, pregnant, woman","[129328, 127999]"
+man with chinese cap,"gua pi mao, hat, man",[128114]
+man with chinese cap: light skin tone,"gua pi mao, hat, light skin tone, man","[128114, 127995]"
+man with chinese cap: medium-light skin tone,"gua pi mao, hat, man, medium-light skin tone","[128114, 127996]"
+man with chinese cap: medium skin tone,"gua pi mao, hat, man, medium skin tone","[128114, 127997]"
+man with chinese cap: medium-dark skin tone,"gua pi mao, hat, man, medium-dark skin tone","[128114, 127998]"
+man with chinese cap: dark skin tone,"dark skin tone, gua pi mao, hat, man","[128114, 127999]"
+person frowning,"frown, gesture",[128589]
+person frowning: light skin tone,"frown, gesture, light skin tone","[128589, 127995]"
+person frowning: medium-light skin tone,"frown, gesture, medium-light skin tone","[128589, 127996]"
+person frowning: medium skin tone,"frown, gesture, medium skin tone","[128589, 127997]"
+person frowning: medium-dark skin tone,"frown, gesture, medium-dark skin tone","[128589, 127998]"
+person frowning: dark skin tone,"dark skin tone, frown, gesture","[128589, 127999]"
+man frowning,"frowning, gesture, man","[128589, 8205, 9794, 65039]"
+man frowning: light skin tone,"frowning, gesture, light skin tone, man","[128589, 127995, 8205, 9794, 65039]"
+man frowning: medium-light skin tone,"frowning, gesture, man, medium-light skin tone","[128589, 127996, 8205, 9794, 65039]"
+man frowning: medium skin tone,"frowning, gesture, man, medium skin tone","[128589, 127997, 8205, 9794, 65039]"
+man frowning: medium-dark skin tone,"frowning, gesture, man, medium-dark skin tone","[128589, 127998, 8205, 9794, 65039]"
+man frowning: dark skin tone,"dark skin tone, frowning, gesture, man","[128589, 127999, 8205, 9794, 65039]"
+woman frowning,"frowning, gesture, woman","[128589, 8205, 9792, 65039]"
+woman frowning: light skin tone,"frowning, gesture, light skin tone, woman","[128589, 127995, 8205, 9792, 65039]"
+woman frowning: medium-light skin tone,"frowning, gesture, medium-light skin tone, woman","[128589, 127996, 8205, 9792, 65039]"
+woman frowning: medium skin tone,"frowning, gesture, medium skin tone, woman","[128589, 127997, 8205, 9792, 65039]"
+woman frowning: medium-dark skin tone,"frowning, gesture, medium-dark skin tone, woman","[128589, 127998, 8205, 9792, 65039]"
+woman frowning: dark skin tone,"dark skin tone, frowning, gesture, woman","[128589, 127999, 8205, 9792, 65039]"
+person pouting,"gesture, pouting",[128590]
+person pouting: light skin tone,"gesture, light skin tone, pouting","[128590, 127995]"
+person pouting: medium-light skin tone,"gesture, medium-light skin tone, pouting","[128590, 127996]"
+person pouting: medium skin tone,"gesture, medium skin tone, pouting","[128590, 127997]"
+person pouting: medium-dark skin tone,"gesture, medium-dark skin tone, pouting","[128590, 127998]"
+person pouting: dark skin tone,"dark skin tone, gesture, pouting","[128590, 127999]"
+man pouting,"gesture, man, pouting","[128590, 8205, 9794, 65039]"
+man pouting: light skin tone,"gesture, light skin tone, man, pouting","[128590, 127995, 8205, 9794, 65039]"
+man pouting: medium-light skin tone,"gesture, man, medium-light skin tone, pouting","[128590, 127996, 8205, 9794, 65039]"
+man pouting: medium skin tone,"gesture, man, medium skin tone, pouting","[128590, 127997, 8205, 9794, 65039]"
+man pouting: medium-dark skin tone,"gesture, man, medium-dark skin tone, pouting","[128590, 127998, 8205, 9794, 65039]"
+man pouting: dark skin tone,"dark skin tone, gesture, man, pouting","[128590, 127999, 8205, 9794, 65039]"
+woman pouting,"gesture, pouting, woman","[128590, 8205, 9792, 65039]"
+woman pouting: light skin tone,"gesture, light skin tone, pouting, woman","[128590, 127995, 8205, 9792, 65039]"
+woman pouting: medium-light skin tone,"gesture, medium-light skin tone, pouting, woman","[128590, 127996, 8205, 9792, 65039]"
+woman pouting: medium skin tone,"gesture, medium skin tone, pouting, woman","[128590, 127997, 8205, 9792, 65039]"
+woman pouting: medium-dark skin tone,"gesture, medium-dark skin tone, pouting, woman","[128590, 127998, 8205, 9792, 65039]"
+woman pouting: dark skin tone,"dark skin tone, gesture, pouting, woman","[128590, 127999, 8205, 9792, 65039]"
+person gesturing no,"forbidden, gesture, hand, no, not, prohibited",[128581]
+person gesturing no: light skin tone,"forbidden, gesture, hand, light skin tone, no, not, prohibited","[128581, 127995]"
+person gesturing no: medium-light skin tone,"forbidden, gesture, hand, medium-light skin tone, no, not, prohibited","[128581, 127996]"
+person gesturing no: medium skin tone,"forbidden, gesture, hand, medium skin tone, no, not, prohibited","[128581, 127997]"
+person gesturing no: medium-dark skin tone,"forbidden, gesture, hand, medium-dark skin tone, no, not, prohibited","[128581, 127998]"
+person gesturing no: dark skin tone,"dark skin tone, forbidden, gesture, hand, no, not, prohibited","[128581, 127999]"
+man gesturing no,"forbidden, gesture, hand, man, no, prohibited","[128581, 8205, 9794, 65039]"
+man gesturing no: light skin tone,"forbidden, gesture, hand, light skin tone, man, no, prohibited","[128581, 127995, 8205, 9794, 65039]"
+man gesturing no: medium-light skin tone,"forbidden, gesture, hand, man, medium-light skin tone, no, prohibited","[128581, 127996, 8205, 9794, 65039]"
+man gesturing no: medium skin tone,"forbidden, gesture, hand, man, medium skin tone, no, prohibited","[128581, 127997, 8205, 9794, 65039]"
+man gesturing no: medium-dark skin tone,"forbidden, gesture, hand, man, medium-dark skin tone, no, prohibited","[128581, 127998, 8205, 9794, 65039]"
+man gesturing no: dark skin tone,"dark skin tone, forbidden, gesture, hand, man, no, prohibited","[128581, 127999, 8205, 9794, 65039]"
+woman gesturing no,"forbidden, gesture, hand, no, prohibited, woman","[128581, 8205, 9792, 65039]"
+woman gesturing no: light skin tone,"forbidden, gesture, hand, light skin tone, no, prohibited, woman","[128581, 127995, 8205, 9792, 65039]"
+woman gesturing no: medium-light skin tone,"forbidden, gesture, hand, medium-light skin tone, no, prohibited, woman","[128581, 127996, 8205, 9792, 65039]"
+woman gesturing no: medium skin tone,"forbidden, gesture, hand, medium skin tone, no, prohibited, woman","[128581, 127997, 8205, 9792, 65039]"
+woman gesturing no: medium-dark skin tone,"forbidden, gesture, hand, medium-dark skin tone, no, prohibited, woman","[128581, 127998, 8205, 9792, 65039]"
+woman gesturing no: dark skin tone,"dark skin tone, forbidden, gesture, hand, no, prohibited, woman","[128581, 127999, 8205, 9792, 65039]"
+person gesturing ok,"gesture, hand, ok",[128582]
+person gesturing ok: light skin tone,"gesture, hand, light skin tone, ok","[128582, 127995]"
+person gesturing ok: medium-light skin tone,"gesture, hand, medium-light skin tone, ok","[128582, 127996]"
+person gesturing ok: medium skin tone,"gesture, hand, medium skin tone, ok","[128582, 127997]"
+person gesturing ok: medium-dark skin tone,"gesture, hand, medium-dark skin tone, ok","[128582, 127998]"
+person gesturing ok: dark skin tone,"dark skin tone, gesture, hand, ok","[128582, 127999]"
+man gesturing ok,"gesture, hand, man, ok","[128582, 8205, 9794, 65039]"
+man gesturing ok: light skin tone,"gesture, hand, light skin tone, man, ok","[128582, 127995, 8205, 9794, 65039]"
+man gesturing ok: medium-light skin tone,"gesture, hand, man, medium-light skin tone, ok","[128582, 127996, 8205, 9794, 65039]"
+man gesturing ok: medium skin tone,"gesture, hand, man, medium skin tone, ok","[128582, 127997, 8205, 9794, 65039]"
+man gesturing ok: medium-dark skin tone,"gesture, hand, man, medium-dark skin tone, ok","[128582, 127998, 8205, 9794, 65039]"
+man gesturing ok: dark skin tone,"dark skin tone, gesture, hand, man, ok","[128582, 127999, 8205, 9794, 65039]"
+woman gesturing ok,"gesture, hand, ok, woman","[128582, 8205, 9792, 65039]"
+woman gesturing ok: light skin tone,"gesture, hand, light skin tone, ok, woman","[128582, 127995, 8205, 9792, 65039]"
+woman gesturing ok: medium-light skin tone,"gesture, hand, medium-light skin tone, ok, woman","[128582, 127996, 8205, 9792, 65039]"
+woman gesturing ok: medium skin tone,"gesture, hand, medium skin tone, ok, woman","[128582, 127997, 8205, 9792, 65039]"
+woman gesturing ok: medium-dark skin tone,"gesture, hand, medium-dark skin tone, ok, woman","[128582, 127998, 8205, 9792, 65039]"
+woman gesturing ok: dark skin tone,"dark skin tone, gesture, hand, ok, woman","[128582, 127999, 8205, 9792, 65039]"
+person tipping hand,"hand, help, information, sassy, tipping",[128129]
+person tipping hand: light skin tone,"hand, help, information, light skin tone, sassy, tipping","[128129, 127995]"
+person tipping hand: medium-light skin tone,"hand, help, information, medium-light skin tone, sassy, tipping","[128129, 127996]"
+person tipping hand: medium skin tone,"hand, help, information, medium skin tone, sassy, tipping","[128129, 127997]"
+person tipping hand: medium-dark skin tone,"hand, help, information, medium-dark skin tone, sassy, tipping","[128129, 127998]"
+person tipping hand: dark skin tone,"dark skin tone, hand, help, information, sassy, tipping","[128129, 127999]"
+man tipping hand,"man, sassy, tipping hand","[128129, 8205, 9794, 65039]"
+man tipping hand: light skin tone,"light skin tone, man, sassy, tipping hand","[128129, 127995, 8205, 9794, 65039]"
+man tipping hand: medium-light skin tone,"man, medium-light skin tone, sassy, tipping hand","[128129, 127996, 8205, 9794, 65039]"
+man tipping hand: medium skin tone,"man, medium skin tone, sassy, tipping hand","[128129, 127997, 8205, 9794, 65039]"
+man tipping hand: medium-dark skin tone,"man, medium-dark skin tone, sassy, tipping hand","[128129, 127998, 8205, 9794, 65039]"
+man tipping hand: dark skin tone,"dark skin tone, man, sassy, tipping hand","[128129, 127999, 8205, 9794, 65039]"
+woman tipping hand,"sassy, tipping hand, woman","[128129, 8205, 9792, 65039]"
+woman tipping hand: light skin tone,"light skin tone, sassy, tipping hand, woman","[128129, 127995, 8205, 9792, 65039]"
+woman tipping hand: medium-light skin tone,"medium-light skin tone, sassy, tipping hand, woman","[128129, 127996, 8205, 9792, 65039]"
+woman tipping hand: medium skin tone,"medium skin tone, sassy, tipping hand, woman","[128129, 127997, 8205, 9792, 65039]"
+woman tipping hand: medium-dark skin tone,"medium-dark skin tone, sassy, tipping hand, woman","[128129, 127998, 8205, 9792, 65039]"
+woman tipping hand: dark skin tone,"dark skin tone, sassy, tipping hand, woman","[128129, 127999, 8205, 9792, 65039]"
+person raising hand,"gesture, hand, happy, raised",[128587]
+person raising hand: light skin tone,"gesture, hand, happy, light skin tone, raised","[128587, 127995]"
+person raising hand: medium-light skin tone,"gesture, hand, happy, medium-light skin tone, raised","[128587, 127996]"
+person raising hand: medium skin tone,"gesture, hand, happy, medium skin tone, raised","[128587, 127997]"
+person raising hand: medium-dark skin tone,"gesture, hand, happy, medium-dark skin tone, raised","[128587, 127998]"
+person raising hand: dark skin tone,"dark skin tone, gesture, hand, happy, raised","[128587, 127999]"
+man raising hand,"gesture, man, raising hand","[128587, 8205, 9794, 65039]"
+man raising hand: light skin tone,"gesture, light skin tone, man, raising hand","[128587, 127995, 8205, 9794, 65039]"
+man raising hand: medium-light skin tone,"gesture, man, medium-light skin tone, raising hand","[128587, 127996, 8205, 9794, 65039]"
+man raising hand: medium skin tone,"gesture, man, medium skin tone, raising hand","[128587, 127997, 8205, 9794, 65039]"
+man raising hand: medium-dark skin tone,"gesture, man, medium-dark skin tone, raising hand","[128587, 127998, 8205, 9794, 65039]"
+man raising hand: dark skin tone,"dark skin tone, gesture, man, raising hand","[128587, 127999, 8205, 9794, 65039]"
+woman raising hand,"gesture, raising hand, woman","[128587, 8205, 9792, 65039]"
+woman raising hand: light skin tone,"gesture, light skin tone, raising hand, woman","[128587, 127995, 8205, 9792, 65039]"
+woman raising hand: medium-light skin tone,"gesture, medium-light skin tone, raising hand, woman","[128587, 127996, 8205, 9792, 65039]"
+woman raising hand: medium skin tone,"gesture, medium skin tone, raising hand, woman","[128587, 127997, 8205, 9792, 65039]"
+woman raising hand: medium-dark skin tone,"gesture, medium-dark skin tone, raising hand, woman","[128587, 127998, 8205, 9792, 65039]"
+woman raising hand: dark skin tone,"dark skin tone, gesture, raising hand, woman","[128587, 127999, 8205, 9792, 65039]"
+person bowing,"apology, bow, gesture, sorry",[128583]
+person bowing: light skin tone,"apology, bow, gesture, light skin tone, sorry","[128583, 127995]"
+person bowing: medium-light skin tone,"apology, bow, gesture, medium-light skin tone, sorry","[128583, 127996]"
+person bowing: medium skin tone,"apology, bow, gesture, medium skin tone, sorry","[128583, 127997]"
+person bowing: medium-dark skin tone,"apology, bow, gesture, medium-dark skin tone, sorry","[128583, 127998]"
+person bowing: dark skin tone,"apology, bow, dark skin tone, gesture, sorry","[128583, 127999]"
+man bowing,"apology, bowing, favor, gesture, man, sorry","[128583, 8205, 9794, 65039]"
+man bowing: light skin tone,"apology, bowing, favor, gesture, light skin tone, man, sorry","[128583, 127995, 8205, 9794, 65039]"
+man bowing: medium-light skin tone,"apology, bowing, favor, gesture, man, medium-light skin tone, sorry","[128583, 127996, 8205, 9794, 65039]"
+man bowing: medium skin tone,"apology, bowing, favor, gesture, man, medium skin tone, sorry","[128583, 127997, 8205, 9794, 65039]"
+man bowing: medium-dark skin tone,"apology, bowing, favor, gesture, man, medium-dark skin tone, sorry","[128583, 127998, 8205, 9794, 65039]"
+man bowing: dark skin tone,"apology, bowing, dark skin tone, favor, gesture, man, sorry","[128583, 127999, 8205, 9794, 65039]"
+woman bowing,"apology, bowing, favor, gesture, sorry, woman","[128583, 8205, 9792, 65039]"
+woman bowing: light skin tone,"apology, bowing, favor, gesture, light skin tone, sorry, woman","[128583, 127995, 8205, 9792, 65039]"
+woman bowing: medium-light skin tone,"apology, bowing, favor, gesture, medium-light skin tone, sorry, woman","[128583, 127996, 8205, 9792, 65039]"
+woman bowing: medium skin tone,"apology, bowing, favor, gesture, medium skin tone, sorry, woman","[128583, 127997, 8205, 9792, 65039]"
+woman bowing: medium-dark skin tone,"apology, bowing, favor, gesture, medium-dark skin tone, sorry, woman","[128583, 127998, 8205, 9792, 65039]"
+woman bowing: dark skin tone,"apology, bowing, dark skin tone, favor, gesture, sorry, woman","[128583, 127999, 8205, 9792, 65039]"
+person facepalming,"disbelief, exasperation, face, palm",[129318]
+person facepalming: light skin tone,"disbelief, exasperation, face, light skin tone, palm","[129318, 127995]"
+person facepalming: medium-light skin tone,"disbelief, exasperation, face, medium-light skin tone, palm","[129318, 127996]"
+person facepalming: medium skin tone,"disbelief, exasperation, face, medium skin tone, palm","[129318, 127997]"
+person facepalming: medium-dark skin tone,"disbelief, exasperation, face, medium-dark skin tone, palm","[129318, 127998]"
+person facepalming: dark skin tone,"dark skin tone, disbelief, exasperation, face, palm","[129318, 127999]"
+man facepalming,"disbelief, exasperation, facepalm, man","[129318, 8205, 9794, 65039]"
+man facepalming: light skin tone,"disbelief, exasperation, facepalm, light skin tone, man","[129318, 127995, 8205, 9794, 65039]"
+man facepalming: medium-light skin tone,"disbelief, exasperation, facepalm, man, medium-light skin tone","[129318, 127996, 8205, 9794, 65039]"
+man facepalming: medium skin tone,"disbelief, exasperation, facepalm, man, medium skin tone","[129318, 127997, 8205, 9794, 65039]"
+man facepalming: medium-dark skin tone,"disbelief, exasperation, facepalm, man, medium-dark skin tone","[129318, 127998, 8205, 9794, 65039]"
+man facepalming: dark skin tone,"dark skin tone, disbelief, exasperation, facepalm, man","[129318, 127999, 8205, 9794, 65039]"
+woman facepalming,"disbelief, exasperation, facepalm, woman","[129318, 8205, 9792, 65039]"
+woman facepalming: light skin tone,"disbelief, exasperation, facepalm, light skin tone, woman","[129318, 127995, 8205, 9792, 65039]"
+woman facepalming: medium-light skin tone,"disbelief, exasperation, facepalm, medium-light skin tone, woman","[129318, 127996, 8205, 9792, 65039]"
+woman facepalming: medium skin tone,"disbelief, exasperation, facepalm, medium skin tone, woman","[129318, 127997, 8205, 9792, 65039]"
+woman facepalming: medium-dark skin tone,"disbelief, exasperation, facepalm, medium-dark skin tone, woman","[129318, 127998, 8205, 9792, 65039]"
+woman facepalming: dark skin tone,"dark skin tone, disbelief, exasperation, facepalm, woman","[129318, 127999, 8205, 9792, 65039]"
+person shrugging,"doubt, ignorance, indifference, shrug",[129335]
+person shrugging: light skin tone,"doubt, ignorance, indifference, light skin tone, shrug","[129335, 127995]"
+person shrugging: medium-light skin tone,"doubt, ignorance, indifference, medium-light skin tone, shrug","[129335, 127996]"
+person shrugging: medium skin tone,"doubt, ignorance, indifference, medium skin tone, shrug","[129335, 127997]"
+person shrugging: medium-dark skin tone,"doubt, ignorance, indifference, medium-dark skin tone, shrug","[129335, 127998]"
+person shrugging: dark skin tone,"dark skin tone, doubt, ignorance, indifference, shrug","[129335, 127999]"
+man shrugging,"doubt, ignorance, indifference, man, shrug","[129335, 8205, 9794, 65039]"
+man shrugging: light skin tone,"doubt, ignorance, indifference, light skin tone, man, shrug","[129335, 127995, 8205, 9794, 65039]"
+man shrugging: medium-light skin tone,"doubt, ignorance, indifference, man, medium-light skin tone, shrug","[129335, 127996, 8205, 9794, 65039]"
+man shrugging: medium skin tone,"doubt, ignorance, indifference, man, medium skin tone, shrug","[129335, 127997, 8205, 9794, 65039]"
+man shrugging: medium-dark skin tone,"doubt, ignorance, indifference, man, medium-dark skin tone, shrug","[129335, 127998, 8205, 9794, 65039]"
+man shrugging: dark skin tone,"dark skin tone, doubt, ignorance, indifference, man, shrug","[129335, 127999, 8205, 9794, 65039]"
+woman shrugging,"doubt, ignorance, indifference, shrug, woman","[129335, 8205, 9792, 65039]"
+woman shrugging: light skin tone,"doubt, ignorance, indifference, light skin tone, shrug, woman","[129335, 127995, 8205, 9792, 65039]"
+woman shrugging: medium-light skin tone,"doubt, ignorance, indifference, medium-light skin tone, shrug, woman","[129335, 127996, 8205, 9792, 65039]"
+woman shrugging: medium skin tone,"doubt, ignorance, indifference, medium skin tone, shrug, woman","[129335, 127997, 8205, 9792, 65039]"
+woman shrugging: medium-dark skin tone,"doubt, ignorance, indifference, medium-dark skin tone, shrug, woman","[129335, 127998, 8205, 9792, 65039]"
+woman shrugging: dark skin tone,"dark skin tone, doubt, ignorance, indifference, shrug, woman","[129335, 127999, 8205, 9792, 65039]"
+person getting massage,"face, massage, salon",[128134]
+person getting massage: light skin tone,"face, light skin tone, massage, salon","[128134, 127995]"
+person getting massage: medium-light skin tone,"face, massage, medium-light skin tone, salon","[128134, 127996]"
+person getting massage: medium skin tone,"face, massage, medium skin tone, salon","[128134, 127997]"
+person getting massage: medium-dark skin tone,"face, massage, medium-dark skin tone, salon","[128134, 127998]"
+person getting massage: dark skin tone,"dark skin tone, face, massage, salon","[128134, 127999]"
+man getting massage,"face, man, massage","[128134, 8205, 9794, 65039]"
+man getting massage: light skin tone,"face, light skin tone, man, massage","[128134, 127995, 8205, 9794, 65039]"
+man getting massage: medium-light skin tone,"face, man, massage, medium-light skin tone","[128134, 127996, 8205, 9794, 65039]"
+man getting massage: medium skin tone,"face, man, massage, medium skin tone","[128134, 127997, 8205, 9794, 65039]"
+man getting massage: medium-dark skin tone,"face, man, massage, medium-dark skin tone","[128134, 127998, 8205, 9794, 65039]"
+man getting massage: dark skin tone,"dark skin tone, face, man, massage","[128134, 127999, 8205, 9794, 65039]"
+woman getting massage,"face, massage, woman","[128134, 8205, 9792, 65039]"
+woman getting massage: light skin tone,"face, light skin tone, massage, woman","[128134, 127995, 8205, 9792, 65039]"
+woman getting massage: medium-light skin tone,"face, massage, medium-light skin tone, woman","[128134, 127996, 8205, 9792, 65039]"
+woman getting massage: medium skin tone,"face, massage, medium skin tone, woman","[128134, 127997, 8205, 9792, 65039]"
+woman getting massage: medium-dark skin tone,"face, massage, medium-dark skin tone, woman","[128134, 127998, 8205, 9792, 65039]"
+woman getting massage: dark skin tone,"dark skin tone, face, massage, woman","[128134, 127999, 8205, 9792, 65039]"
+person getting haircut,"barber, beauty, haircut, parlor",[128135]
+person getting haircut: light skin tone,"barber, beauty, haircut, light skin tone, parlor","[128135, 127995]"
+person getting haircut: medium-light skin tone,"barber, beauty, haircut, medium-light skin tone, parlor","[128135, 127996]"
+person getting haircut: medium skin tone,"barber, beauty, haircut, medium skin tone, parlor","[128135, 127997]"
+person getting haircut: medium-dark skin tone,"barber, beauty, haircut, medium-dark skin tone, parlor","[128135, 127998]"
+person getting haircut: dark skin tone,"barber, beauty, dark skin tone, haircut, parlor","[128135, 127999]"
+man getting haircut,"haircut, man","[128135, 8205, 9794, 65039]"
+man getting haircut: light skin tone,"haircut, light skin tone, man","[128135, 127995, 8205, 9794, 65039]"
+man getting haircut: medium-light skin tone,"haircut, man, medium-light skin tone","[128135, 127996, 8205, 9794, 65039]"
+man getting haircut: medium skin tone,"haircut, man, medium skin tone","[128135, 127997, 8205, 9794, 65039]"
+man getting haircut: medium-dark skin tone,"haircut, man, medium-dark skin tone","[128135, 127998, 8205, 9794, 65039]"
+man getting haircut: dark skin tone,"dark skin tone, haircut, man","[128135, 127999, 8205, 9794, 65039]"
+woman getting haircut,"haircut, woman","[128135, 8205, 9792, 65039]"
+woman getting haircut: light skin tone,"haircut, light skin tone, woman","[128135, 127995, 8205, 9792, 65039]"
+woman getting haircut: medium-light skin tone,"haircut, medium-light skin tone, woman","[128135, 127996, 8205, 9792, 65039]"
+woman getting haircut: medium skin tone,"haircut, medium skin tone, woman","[128135, 127997, 8205, 9792, 65039]"
+woman getting haircut: medium-dark skin tone,"haircut, medium-dark skin tone, woman","[128135, 127998, 8205, 9792, 65039]"
+woman getting haircut: dark skin tone,"dark skin tone, haircut, woman","[128135, 127999, 8205, 9792, 65039]"
+person walking,"hike, walk, walking",[128694]
+person walking: light skin tone,"hike, light skin tone, walk, walking","[128694, 127995]"
+person walking: medium-light skin tone,"hike, medium-light skin tone, walk, walking","[128694, 127996]"
+person walking: medium skin tone,"hike, medium skin tone, walk, walking","[128694, 127997]"
+person walking: medium-dark skin tone,"hike, medium-dark skin tone, walk, walking","[128694, 127998]"
+person walking: dark skin tone,"dark skin tone, hike, walk, walking","[128694, 127999]"
+man walking,"hike, man, walk","[128694, 8205, 9794, 65039]"
+man walking: light skin tone,"hike, light skin tone, man, walk","[128694, 127995, 8205, 9794, 65039]"
+man walking: medium-light skin tone,"hike, man, medium-light skin tone, walk","[128694, 127996, 8205, 9794, 65039]"
+man walking: medium skin tone,"hike, man, medium skin tone, walk","[128694, 127997, 8205, 9794, 65039]"
+man walking: medium-dark skin tone,"hike, man, medium-dark skin tone, walk","[128694, 127998, 8205, 9794, 65039]"
+man walking: dark skin tone,"dark skin tone, hike, man, walk","[128694, 127999, 8205, 9794, 65039]"
+woman walking,"hike, walk, woman","[128694, 8205, 9792, 65039]"
+woman walking: light skin tone,"hike, light skin tone, walk, woman","[128694, 127995, 8205, 9792, 65039]"
+woman walking: medium-light skin tone,"hike, medium-light skin tone, walk, woman","[128694, 127996, 8205, 9792, 65039]"
+woman walking: medium skin tone,"hike, medium skin tone, walk, woman","[128694, 127997, 8205, 9792, 65039]"
+woman walking: medium-dark skin tone,"hike, medium-dark skin tone, walk, woman","[128694, 127998, 8205, 9792, 65039]"
+woman walking: dark skin tone,"dark skin tone, hike, walk, woman","[128694, 127999, 8205, 9792, 65039]"
+person running,"marathon, running",[127939]
+person running: light skin tone,"light skin tone, marathon, running","[127939, 127995]"
+person running: medium-light skin tone,"marathon, medium-light skin tone, running","[127939, 127996]"
+person running: medium skin tone,"marathon, medium skin tone, running","[127939, 127997]"
+person running: medium-dark skin tone,"marathon, medium-dark skin tone, running","[127939, 127998]"
+person running: dark skin tone,"dark skin tone, marathon, running","[127939, 127999]"
+man running,"man, marathon, racing, running","[127939, 8205, 9794, 65039]"
+man running: light skin tone,"light skin tone, man, marathon, racing, running","[127939, 127995, 8205, 9794, 65039]"
+man running: medium-light skin tone,"man, marathon, medium-light skin tone, racing, running","[127939, 127996, 8205, 9794, 65039]"
+man running: medium skin tone,"man, marathon, medium skin tone, racing, running","[127939, 127997, 8205, 9794, 65039]"
+man running: medium-dark skin tone,"man, marathon, medium-dark skin tone, racing, running","[127939, 127998, 8205, 9794, 65039]"
+man running: dark skin tone,"dark skin tone, man, marathon, racing, running","[127939, 127999, 8205, 9794, 65039]"
+woman running,"marathon, racing, running, woman","[127939, 8205, 9792, 65039]"
+woman running: light skin tone,"light skin tone, marathon, racing, running, woman","[127939, 127995, 8205, 9792, 65039]"
+woman running: medium-light skin tone,"marathon, medium-light skin tone, racing, running, woman","[127939, 127996, 8205, 9792, 65039]"
+woman running: medium skin tone,"marathon, medium skin tone, racing, running, woman","[127939, 127997, 8205, 9792, 65039]"
+woman running: medium-dark skin tone,"marathon, medium-dark skin tone, racing, running, woman","[127939, 127998, 8205, 9792, 65039]"
+woman running: dark skin tone,"dark skin tone, marathon, racing, running, woman","[127939, 127999, 8205, 9792, 65039]"
+woman dancing,"dancing, woman",[128131]
+woman dancing: light skin tone,"dancing, light skin tone, woman","[128131, 127995]"
+woman dancing: medium-light skin tone,"dancing, medium-light skin tone, woman","[128131, 127996]"
+woman dancing: medium skin tone,"dancing, medium skin tone, woman","[128131, 127997]"
+woman dancing: medium-dark skin tone,"dancing, medium-dark skin tone, woman","[128131, 127998]"
+woman dancing: dark skin tone,"dancing, dark skin tone, woman","[128131, 127999]"
+man dancing,"dance, man",[128378]
+man dancing: light skin tone,"dance, light skin tone, man","[128378, 127995]"
+man dancing: medium-light skin tone,"dance, man, medium-light skin tone","[128378, 127996]"
+man dancing: medium skin tone,"dance, man, medium skin tone","[128378, 127997]"
+man dancing: medium-dark skin tone,"dance, man, medium-dark skin tone","[128378, 127998]"
+man dancing: dark skin tone,"dance, dark skin tone, man","[128378, 127999]"
+people with bunny ears partying,"bunny ear, dancer, partying",[128111]
+people with bunny ears partying: light skin tone,"bunny ear, dancer, light skin tone, partying","[128111, 127995]"
+people with bunny ears partying: medium-light skin tone,"bunny ear, dancer, medium-light skin tone, partying","[128111, 127996]"
+people with bunny ears partying: medium skin tone,"bunny ear, dancer, medium skin tone, partying","[128111, 127997]"
+people with bunny ears partying: medium-dark skin tone,"bunny ear, dancer, medium-dark skin tone, partying","[128111, 127998]"
+people with bunny ears partying: dark skin tone,"bunny ear, dancer, dark skin tone, partying","[128111, 127999]"
+men with bunny ears partying,"bunny ear, dancer, men, partying","[128111, 8205, 9794, 65039]"
+men with bunny ears partying: light skin tone,"bunny ear, dancer, light skin tone, men, partying","[128111, 127995, 8205, 9794, 65039]"
+men with bunny ears partying: medium-light skin tone,"bunny ear, dancer, medium-light skin tone, men, partying","[128111, 127996, 8205, 9794, 65039]"
+men with bunny ears partying: medium skin tone,"bunny ear, dancer, medium skin tone, men, partying","[128111, 127997, 8205, 9794, 65039]"
+men with bunny ears partying: medium-dark skin tone,"bunny ear, dancer, medium-dark skin tone, men, partying","[128111, 127998, 8205, 9794, 65039]"
+men with bunny ears partying: dark skin tone,"bunny ear, dancer, dark skin tone, men, partying","[128111, 127999, 8205, 9794, 65039]"
+women with bunny ears partying,"bunny ear, dancer, partying, women","[128111, 8205, 9792, 65039]"
+women with bunny ears partying: light skin tone,"bunny ear, dancer, light skin tone, partying, women","[128111, 127995, 8205, 9792, 65039]"
+women with bunny ears partying: medium-light skin tone,"bunny ear, dancer, medium-light skin tone, partying, women","[128111, 127996, 8205, 9792, 65039]"
+women with bunny ears partying: medium skin tone,"bunny ear, dancer, medium skin tone, partying, women","[128111, 127997, 8205, 9792, 65039]"
+women with bunny ears partying: medium-dark skin tone,"bunny ear, dancer, medium-dark skin tone, partying, women","[128111, 127998, 8205, 9792, 65039]"
+women with bunny ears partying: dark skin tone,"bunny ear, dancer, dark skin tone, partying, women","[128111, 127999, 8205, 9792, 65039]"
+man in business suit levitating,"business, man, suit",[128372]
+man in business suit levitating: light skin tone,"business, light skin tone, man, suit","[128372, 127995]"
+man in business suit levitating: medium-light skin tone,"business, man, medium-light skin tone, suit","[128372, 127996]"
+man in business suit levitating: medium skin tone,"business, man, medium skin tone, suit","[128372, 127997]"
+man in business suit levitating: medium-dark skin tone,"business, man, medium-dark skin tone, suit","[128372, 127998]"
+man in business suit levitating: dark skin tone,"business, dark skin tone, man, suit","[128372, 127999]"
+speaking head,"face, head, silhouette, speak, speaking",[128483]
+bust in silhouette,"bust, silhouette",[128100]
+busts in silhouette,"bust, silhouette",[128101]
+person fencing,"fencer, fencing, sword",[129338]
+horse racing,"horse, jockey, racehorse, racing",[127943]
+horse racing: light skin tone,"horse, jockey, light skin tone, racehorse, racing","[127943, 127995]"
+horse racing: medium-light skin tone,"horse, jockey, medium-light skin tone, racehorse, racing","[127943, 127996]"
+horse racing: medium skin tone,"horse, jockey, medium skin tone, racehorse, racing","[127943, 127997]"
+horse racing: medium-dark skin tone,"horse, jockey, medium-dark skin tone, racehorse, racing","[127943, 127998]"
+horse racing: dark skin tone,"dark skin tone, horse, jockey, racehorse, racing","[127943, 127999]"
+skier,"ski, snow",[9975]
+snowboarder,"ski, snow, snowboard",[127938]
+snowboarder: light skin tone,"light skin tone, ski, snow, snowboard","[127938, 127995]"
+snowboarder: medium-light skin tone,"medium-light skin tone, ski, snow, snowboard","[127938, 127996]"
+snowboarder: medium skin tone,"medium skin tone, ski, snow, snowboard","[127938, 127997]"
+snowboarder: medium-dark skin tone,"medium-dark skin tone, ski, snow, snowboard","[127938, 127998]"
+snowboarder: dark skin tone,"dark skin tone, ski, snow, snowboard","[127938, 127999]"
+person golfing,"ball, golf",[127948]
+person golfing: light skin tone,"ball, golf, light skin tone","[127948, 127995]"
+person golfing: medium-light skin tone,"ball, golf, medium-light skin tone","[127948, 127996]"
+person golfing: medium skin tone,"ball, golf, medium skin tone","[127948, 127997]"
+person golfing: medium-dark skin tone,"ball, golf, medium-dark skin tone","[127948, 127998]"
+person golfing: dark skin tone,"ball, dark skin tone, golf","[127948, 127999]"
+man golfing,"golf, man","[127948, 65039, 8205, 9794, 65039]"
+man golfing: light skin tone,"golf, light skin tone, man","[127948, 127995, 8205, 9794, 65039]"
+man golfing: medium-light skin tone,"golf, man, medium-light skin tone","[127948, 127996, 8205, 9794, 65039]"
+man golfing: medium skin tone,"golf, man, medium skin tone","[127948, 127997, 8205, 9794, 65039]"
+man golfing: medium-dark skin tone,"golf, man, medium-dark skin tone","[127948, 127998, 8205, 9794, 65039]"
+man golfing: dark skin tone,"dark skin tone, golf, man","[127948, 127999, 8205, 9794, 65039]"
+woman golfing,"golf, woman","[127948, 65039, 8205, 9792, 65039]"
+woman golfing: light skin tone,"golf, light skin tone, woman","[127948, 127995, 8205, 9792, 65039]"
+woman golfing: medium-light skin tone,"golf, medium-light skin tone, woman","[127948, 127996, 8205, 9792, 65039]"
+woman golfing: medium skin tone,"golf, medium skin tone, woman","[127948, 127997, 8205, 9792, 65039]"
+woman golfing: medium-dark skin tone,"golf, medium-dark skin tone, woman","[127948, 127998, 8205, 9792, 65039]"
+woman golfing: dark skin tone,"dark skin tone, golf, woman","[127948, 127999, 8205, 9792, 65039]"
+person surfing,surfing,[127940]
+person surfing: light skin tone,"light skin tone, surfing","[127940, 127995]"
+person surfing: medium-light skin tone,"medium-light skin tone, surfing","[127940, 127996]"
+person surfing: medium skin tone,"medium skin tone, surfing","[127940, 127997]"
+person surfing: medium-dark skin tone,"medium-dark skin tone, surfing","[127940, 127998]"
+person surfing: dark skin tone,"dark skin tone, surfing","[127940, 127999]"
+man surfing,"man, surfing","[127940, 8205, 9794, 65039]"
+man surfing: light skin tone,"light skin tone, man, surfing","[127940, 127995, 8205, 9794, 65039]"
+man surfing: medium-light skin tone,"man, medium-light skin tone, surfing","[127940, 127996, 8205, 9794, 65039]"
+man surfing: medium skin tone,"man, medium skin tone, surfing","[127940, 127997, 8205, 9794, 65039]"
+man surfing: medium-dark skin tone,"man, medium-dark skin tone, surfing","[127940, 127998, 8205, 9794, 65039]"
+man surfing: dark skin tone,"dark skin tone, man, surfing","[127940, 127999, 8205, 9794, 65039]"
+woman surfing,"surfing, woman","[127940, 8205, 9792, 65039]"
+woman surfing: light skin tone,"light skin tone, surfing, woman","[127940, 127995, 8205, 9792, 65039]"
+woman surfing: medium-light skin tone,"medium-light skin tone, surfing, woman","[127940, 127996, 8205, 9792, 65039]"
+woman surfing: medium skin tone,"medium skin tone, surfing, woman","[127940, 127997, 8205, 9792, 65039]"
+woman surfing: medium-dark skin tone,"medium-dark skin tone, surfing, woman","[127940, 127998, 8205, 9792, 65039]"
+woman surfing: dark skin tone,"dark skin tone, surfing, woman","[127940, 127999, 8205, 9792, 65039]"
+person rowing boat,"boat, rowboat",[128675]
+person rowing boat: light skin tone,"boat, light skin tone, rowboat","[128675, 127995]"
+person rowing boat: medium-light skin tone,"boat, medium-light skin tone, rowboat","[128675, 127996]"
+person rowing boat: medium skin tone,"boat, medium skin tone, rowboat","[128675, 127997]"
+person rowing boat: medium-dark skin tone,"boat, medium-dark skin tone, rowboat","[128675, 127998]"
+person rowing boat: dark skin tone,"boat, dark skin tone, rowboat","[128675, 127999]"
+man rowing boat,"boat, man, rowboat","[128675, 8205, 9794, 65039]"
+man rowing boat: light skin tone,"boat, light skin tone, man, rowboat","[128675, 127995, 8205, 9794, 65039]"
+man rowing boat: medium-light skin tone,"boat, man, medium-light skin tone, rowboat","[128675, 127996, 8205, 9794, 65039]"
+man rowing boat: medium skin tone,"boat, man, medium skin tone, rowboat","[128675, 127997, 8205, 9794, 65039]"
+man rowing boat: medium-dark skin tone,"boat, man, medium-dark skin tone, rowboat","[128675, 127998, 8205, 9794, 65039]"
+man rowing boat: dark skin tone,"boat, dark skin tone, man, rowboat","[128675, 127999, 8205, 9794, 65039]"
+woman rowing boat,"boat, rowboat, woman","[128675, 8205, 9792, 65039]"
+woman rowing boat: light skin tone,"boat, light skin tone, rowboat, woman","[128675, 127995, 8205, 9792, 65039]"
+woman rowing boat: medium-light skin tone,"boat, medium-light skin tone, rowboat, woman","[128675, 127996, 8205, 9792, 65039]"
+woman rowing boat: medium skin tone,"boat, medium skin tone, rowboat, woman","[128675, 127997, 8205, 9792, 65039]"
+woman rowing boat: medium-dark skin tone,"boat, medium-dark skin tone, rowboat, woman","[128675, 127998, 8205, 9792, 65039]"
+woman rowing boat: dark skin tone,"boat, dark skin tone, rowboat, woman","[128675, 127999, 8205, 9792, 65039]"
+person swimming,swim,[127946]
+person swimming: light skin tone,"light skin tone, swim","[127946, 127995]"
+person swimming: medium-light skin tone,"medium-light skin tone, swim","[127946, 127996]"
+person swimming: medium skin tone,"medium skin tone, swim","[127946, 127997]"
+person swimming: medium-dark skin tone,"medium-dark skin tone, swim","[127946, 127998]"
+person swimming: dark skin tone,"dark skin tone, swim","[127946, 127999]"
+man swimming,"man, swim","[127946, 8205, 9794, 65039]"
+man swimming: light skin tone,"light skin tone, man, swim","[127946, 127995, 8205, 9794, 65039]"
+man swimming: medium-light skin tone,"man, medium-light skin tone, swim","[127946, 127996, 8205, 9794, 65039]"
+man swimming: medium skin tone,"man, medium skin tone, swim","[127946, 127997, 8205, 9794, 65039]"
+man swimming: medium-dark skin tone,"man, medium-dark skin tone, swim","[127946, 127998, 8205, 9794, 65039]"
+man swimming: dark skin tone,"dark skin tone, man, swim","[127946, 127999, 8205, 9794, 65039]"
+woman swimming,"swim, woman","[127946, 8205, 9792, 65039]"
+woman swimming: light skin tone,"light skin tone, swim, woman","[127946, 127995, 8205, 9792, 65039]"
+woman swimming: medium-light skin tone,"medium-light skin tone, swim, woman","[127946, 127996, 8205, 9792, 65039]"
+woman swimming: medium skin tone,"medium skin tone, swim, woman","[127946, 127997, 8205, 9792, 65039]"
+woman swimming: medium-dark skin tone,"medium-dark skin tone, swim, woman","[127946, 127998, 8205, 9792, 65039]"
+woman swimming: dark skin tone,"dark skin tone, swim, woman","[127946, 127999, 8205, 9792, 65039]"
+person bouncing ball,ball,[9977]
+person bouncing ball: light skin tone,"ball, light skin tone","[9977, 127995]"
+person bouncing ball: medium-light skin tone,"ball, medium-light skin tone","[9977, 127996]"
+person bouncing ball: medium skin tone,"ball, medium skin tone","[9977, 127997]"
+person bouncing ball: medium-dark skin tone,"ball, medium-dark skin tone","[9977, 127998]"
+person bouncing ball: dark skin tone,"ball, dark skin tone","[9977, 127999]"
+man bouncing ball,"ball, man","[9977, 65039, 8205, 9794, 65039]"
+man bouncing ball: light skin tone,"ball, light skin tone, man","[9977, 127995, 8205, 9794, 65039]"
+man bouncing ball: medium-light skin tone,"ball, man, medium-light skin tone","[9977, 127996, 8205, 9794, 65039]"
+man bouncing ball: medium skin tone,"ball, man, medium skin tone","[9977, 127997, 8205, 9794, 65039]"
+man bouncing ball: medium-dark skin tone,"ball, man, medium-dark skin tone","[9977, 127998, 8205, 9794, 65039]"
+man bouncing ball: dark skin tone,"ball, dark skin tone, man","[9977, 127999, 8205, 9794, 65039]"
+woman bouncing ball,"ball, woman","[9977, 65039, 8205, 9792, 65039]"
+woman bouncing ball: light skin tone,"ball, light skin tone, woman","[9977, 127995, 8205, 9792, 65039]"
+woman bouncing ball: medium-light skin tone,"ball, medium-light skin tone, woman","[9977, 127996, 8205, 9792, 65039]"
+woman bouncing ball: medium skin tone,"ball, medium skin tone, woman","[9977, 127997, 8205, 9792, 65039]"
+woman bouncing ball: medium-dark skin tone,"ball, medium-dark skin tone, woman","[9977, 127998, 8205, 9792, 65039]"
+woman bouncing ball: dark skin tone,"ball, dark skin tone, woman","[9977, 127999, 8205, 9792, 65039]"
+person lifting weights,"lifter, weight",[127947]
+person lifting weights: light skin tone,"lifter, light skin tone, weight","[127947, 127995]"
+person lifting weights: medium-light skin tone,"lifter, medium-light skin tone, weight","[127947, 127996]"
+person lifting weights: medium skin tone,"lifter, medium skin tone, weight","[127947, 127997]"
+person lifting weights: medium-dark skin tone,"lifter, medium-dark skin tone, weight","[127947, 127998]"
+person lifting weights: dark skin tone,"dark skin tone, lifter, weight","[127947, 127999]"
+man lifting weights,"man, weight lifter","[127947, 65039, 8205, 9794, 65039]"
+man lifting weights: light skin tone,"light skin tone, man, weight lifter","[127947, 127995, 8205, 9794, 65039]"
+man lifting weights: medium-light skin tone,"man, medium-light skin tone, weight lifter","[127947, 127996, 8205, 9794, 65039]"
+man lifting weights: medium skin tone,"man, medium skin tone, weight lifter","[127947, 127997, 8205, 9794, 65039]"
+man lifting weights: medium-dark skin tone,"man, medium-dark skin tone, weight lifter","[127947, 127998, 8205, 9794, 65039]"
+man lifting weights: dark skin tone,"dark skin tone, man, weight lifter","[127947, 127999, 8205, 9794, 65039]"
+woman lifting weights,"weight lifter, woman","[127947, 65039, 8205, 9792, 65039]"
+woman lifting weights: light skin tone,"light skin tone, weight lifter, woman","[127947, 127995, 8205, 9792, 65039]"
+woman lifting weights: medium-light skin tone,"medium-light skin tone, weight lifter, woman","[127947, 127996, 8205, 9792, 65039]"
+woman lifting weights: medium skin tone,"medium skin tone, weight lifter, woman","[127947, 127997, 8205, 9792, 65039]"
+woman lifting weights: medium-dark skin tone,"medium-dark skin tone, weight lifter, woman","[127947, 127998, 8205, 9792, 65039]"
+woman lifting weights: dark skin tone,"dark skin tone, weight lifter, woman","[127947, 127999, 8205, 9792, 65039]"
+person biking,"bicycle, biking, cyclist",[128692]
+person biking: light skin tone,"bicycle, biking, cyclist, light skin tone","[128692, 127995]"
+person biking: medium-light skin tone,"bicycle, biking, cyclist, medium-light skin tone","[128692, 127996]"
+person biking: medium skin tone,"bicycle, biking, cyclist, medium skin tone","[128692, 127997]"
+person biking: medium-dark skin tone,"bicycle, biking, cyclist, medium-dark skin tone","[128692, 127998]"
+person biking: dark skin tone,"bicycle, biking, cyclist, dark skin tone","[128692, 127999]"
+man biking,"bicycle, biking, cyclist, man","[128692, 8205, 9794, 65039]"
+man biking: light skin tone,"bicycle, biking, cyclist, light skin tone, man","[128692, 127995, 8205, 9794, 65039]"
+man biking: medium-light skin tone,"bicycle, biking, cyclist, man, medium-light skin tone","[128692, 127996, 8205, 9794, 65039]"
+man biking: medium skin tone,"bicycle, biking, cyclist, man, medium skin tone","[128692, 127997, 8205, 9794, 65039]"
+man biking: medium-dark skin tone,"bicycle, biking, cyclist, man, medium-dark skin tone","[128692, 127998, 8205, 9794, 65039]"
+man biking: dark skin tone,"bicycle, biking, cyclist, dark skin tone, man","[128692, 127999, 8205, 9794, 65039]"
+woman biking,"bicycle, biking, cyclist, woman","[128692, 8205, 9792, 65039]"
+woman biking: light skin tone,"bicycle, biking, cyclist, light skin tone, woman","[128692, 127995, 8205, 9792, 65039]"
+woman biking: medium-light skin tone,"bicycle, biking, cyclist, medium-light skin tone, woman","[128692, 127996, 8205, 9792, 65039]"
+woman biking: medium skin tone,"bicycle, biking, cyclist, medium skin tone, woman","[128692, 127997, 8205, 9792, 65039]"
+woman biking: medium-dark skin tone,"bicycle, biking, cyclist, medium-dark skin tone, woman","[128692, 127998, 8205, 9792, 65039]"
+woman biking: dark skin tone,"bicycle, biking, cyclist, dark skin tone, woman","[128692, 127999, 8205, 9792, 65039]"
+person mountain biking,"bicycle, bicyclist, bike, cyclist, mountain",[128693]
+person mountain biking: light skin tone,"bicycle, bicyclist, bike, cyclist, light skin tone, mountain","[128693, 127995]"
+person mountain biking: medium-light skin tone,"bicycle, bicyclist, bike, cyclist, medium-light skin tone, mountain","[128693, 127996]"
+person mountain biking: medium skin tone,"bicycle, bicyclist, bike, cyclist, medium skin tone, mountain","[128693, 127997]"
+person mountain biking: medium-dark skin tone,"bicycle, bicyclist, bike, cyclist, medium-dark skin tone, mountain","[128693, 127998]"
+person mountain biking: dark skin tone,"bicycle, bicyclist, bike, cyclist, dark skin tone, mountain","[128693, 127999]"
+man mountain biking,"bicycle, bike, cyclist, man, mountain","[128693, 8205, 9794, 65039]"
+man mountain biking: light skin tone,"bicycle, bike, cyclist, light skin tone, man, mountain","[128693, 127995, 8205, 9794, 65039]"
+man mountain biking: medium-light skin tone,"bicycle, bike, cyclist, man, medium-light skin tone, mountain","[128693, 127996, 8205, 9794, 65039]"
+man mountain biking: medium skin tone,"bicycle, bike, cyclist, man, medium skin tone, mountain","[128693, 127997, 8205, 9794, 65039]"
+man mountain biking: medium-dark skin tone,"bicycle, bike, cyclist, man, medium-dark skin tone, mountain","[128693, 127998, 8205, 9794, 65039]"
+man mountain biking: dark skin tone,"bicycle, bike, cyclist, dark skin tone, man, mountain","[128693, 127999, 8205, 9794, 65039]"
+woman mountain biking,"bicycle, bike, biking, cyclist, mountain, woman","[128693, 8205, 9792, 65039]"
+woman mountain biking: light skin tone,"bicycle, bike, biking, cyclist, light skin tone, mountain, woman","[128693, 127995, 8205, 9792, 65039]"
+woman mountain biking: medium-light skin tone,"bicycle, bike, biking, cyclist, medium-light skin tone, mountain, woman","[128693, 127996, 8205, 9792, 65039]"
+woman mountain biking: medium skin tone,"bicycle, bike, biking, cyclist, medium skin tone, mountain, woman","[128693, 127997, 8205, 9792, 65039]"
+woman mountain biking: medium-dark skin tone,"bicycle, bike, biking, cyclist, medium-dark skin tone, mountain, woman","[128693, 127998, 8205, 9792, 65039]"
+woman mountain biking: dark skin tone,"bicycle, bike, biking, cyclist, dark skin tone, mountain, woman","[128693, 127999, 8205, 9792, 65039]"
+racing car,"car, racing",[127950]
+motorcycle,racing,[127949]
+person cartwheeling,"cartwheel, gymnastics",[129336]
+person cartwheeling: light skin tone,"cartwheel, gymnastics, light skin tone","[129336, 127995]"
+person cartwheeling: medium-light skin tone,"cartwheel, gymnastics, medium-light skin tone","[129336, 127996]"
+person cartwheeling: medium skin tone,"cartwheel, gymnastics, medium skin tone","[129336, 127997]"
+person cartwheeling: medium-dark skin tone,"cartwheel, gymnastics, medium-dark skin tone","[129336, 127998]"
+person cartwheeling: dark skin tone,"cartwheel, dark skin tone, gymnastics","[129336, 127999]"
+man cartwheeling,"cartwheel, gymnastics, man","[129336, 8205, 9794, 65039]"
+man cartwheeling: light skin tone,"cartwheel, gymnastics, light skin tone, man","[129336, 127995, 8205, 9794, 65039]"
+man cartwheeling: medium-light skin tone,"cartwheel, gymnastics, man, medium-light skin tone","[129336, 127996, 8205, 9794, 65039]"
+man cartwheeling: medium skin tone,"cartwheel, gymnastics, man, medium skin tone","[129336, 127997, 8205, 9794, 65039]"
+man cartwheeling: medium-dark skin tone,"cartwheel, gymnastics, man, medium-dark skin tone","[129336, 127998, 8205, 9794, 65039]"
+man cartwheeling: dark skin tone,"cartwheel, dark skin tone, gymnastics, man","[129336, 127999, 8205, 9794, 65039]"
+woman cartwheeling,"cartwheel, gymnastics, woman","[129336, 8205, 9792, 65039]"
+woman cartwheeling: light skin tone,"cartwheel, gymnastics, light skin tone, woman","[129336, 127995, 8205, 9792, 65039]"
+woman cartwheeling: medium-light skin tone,"cartwheel, gymnastics, medium-light skin tone, woman","[129336, 127996, 8205, 9792, 65039]"
+woman cartwheeling: medium skin tone,"cartwheel, gymnastics, medium skin tone, woman","[129336, 127997, 8205, 9792, 65039]"
+woman cartwheeling: medium-dark skin tone,"cartwheel, gymnastics, medium-dark skin tone, woman","[129336, 127998, 8205, 9792, 65039]"
+woman cartwheeling: dark skin tone,"cartwheel, dark skin tone, gymnastics, woman","[129336, 127999, 8205, 9792, 65039]"
+people wrestling,"wrestle, wrestler",[129340]
+people wrestling: light skin tone,"light skin tone, wrestle, wrestler","[129340, 127995]"
+people wrestling: medium-light skin tone,"medium-light skin tone, wrestle, wrestler","[129340, 127996]"
+people wrestling: medium skin tone,"medium skin tone, wrestle, wrestler","[129340, 127997]"
+people wrestling: medium-dark skin tone,"medium-dark skin tone, wrestle, wrestler","[129340, 127998]"
+people wrestling: dark skin tone,"dark skin tone, wrestle, wrestler","[129340, 127999]"
+men wrestling,"men, wrestle","[129340, 8205, 9794, 65039]"
+men wrestling: light skin tone,"light skin tone, men, wrestle","[129340, 127995, 8205, 9794, 65039]"
+men wrestling: medium-light skin tone,"medium-light skin tone, men, wrestle","[129340, 127996, 8205, 9794, 65039]"
+men wrestling: medium skin tone,"medium skin tone, men, wrestle","[129340, 127997, 8205, 9794, 65039]"
+men wrestling: medium-dark skin tone,"medium-dark skin tone, men, wrestle","[129340, 127998, 8205, 9794, 65039]"
+men wrestling: dark skin tone,"dark skin tone, men, wrestle","[129340, 127999, 8205, 9794, 65039]"
+women wrestling,"women, wrestle","[129340, 8205, 9792, 65039]"
+women wrestling: light skin tone,"light skin tone, women, wrestle","[129340, 127995, 8205, 9792, 65039]"
+women wrestling: medium-light skin tone,"medium-light skin tone, women, wrestle","[129340, 127996, 8205, 9792, 65039]"
+women wrestling: medium skin tone,"medium skin tone, women, wrestle","[129340, 127997, 8205, 9792, 65039]"
+women wrestling: medium-dark skin tone,"medium-dark skin tone, women, wrestle","[129340, 127998, 8205, 9792, 65039]"
+women wrestling: dark skin tone,"dark skin tone, women, wrestle","[129340, 127999, 8205, 9792, 65039]"
+person playing water polo,"polo, water",[129341]
+person playing water polo: light skin tone,"light skin tone, polo, water","[129341, 127995]"
+person playing water polo: medium-light skin tone,"medium-light skin tone, polo, water","[129341, 127996]"
+person playing water polo: medium skin tone,"medium skin tone, polo, water","[129341, 127997]"
+person playing water polo: medium-dark skin tone,"medium-dark skin tone, polo, water","[129341, 127998]"
+person playing water polo: dark skin tone,"dark skin tone, polo, water","[129341, 127999]"
+man playing water polo,"man, water polo","[129341, 8205, 9794, 65039]"
+man playing water polo: light skin tone,"light skin tone, man, water polo","[129341, 127995, 8205, 9794, 65039]"
+man playing water polo: medium-light skin tone,"man, medium-light skin tone, water polo","[129341, 127996, 8205, 9794, 65039]"
+man playing water polo: medium skin tone,"man, medium skin tone, water polo","[129341, 127997, 8205, 9794, 65039]"
+man playing water polo: medium-dark skin tone,"man, medium-dark skin tone, water polo","[129341, 127998, 8205, 9794, 65039]"
+man playing water polo: dark skin tone,"dark skin tone, man, water polo","[129341, 127999, 8205, 9794, 65039]"
+woman playing water polo,"water polo, woman","[129341, 8205, 9792, 65039]"
+woman playing water polo: light skin tone,"light skin tone, water polo, woman","[129341, 127995, 8205, 9792, 65039]"
+woman playing water polo: medium-light skin tone,"medium-light skin tone, water polo, woman","[129341, 127996, 8205, 9792, 65039]"
+woman playing water polo: medium skin tone,"medium skin tone, water polo, woman","[129341, 127997, 8205, 9792, 65039]"
+woman playing water polo: medium-dark skin tone,"medium-dark skin tone, water polo, woman","[129341, 127998, 8205, 9792, 65039]"
+woman playing water polo: dark skin tone,"dark skin tone, water polo, woman","[129341, 127999, 8205, 9792, 65039]"
+person playing handball,"ball, handball",[129342]
+person playing handball: light skin tone,"ball, handball, light skin tone","[129342, 127995]"
+person playing handball: medium-light skin tone,"ball, handball, medium-light skin tone","[129342, 127996]"
+person playing handball: medium skin tone,"ball, handball, medium skin tone","[129342, 127997]"
+person playing handball: medium-dark skin tone,"ball, handball, medium-dark skin tone","[129342, 127998]"
+person playing handball: dark skin tone,"ball, dark skin tone, handball","[129342, 127999]"
+man playing handball,"handball, man","[129342, 8205, 9794, 65039]"
+man playing handball: light skin tone,"handball, light skin tone, man","[129342, 127995, 8205, 9794, 65039]"
+man playing handball: medium-light skin tone,"handball, man, medium-light skin tone","[129342, 127996, 8205, 9794, 65039]"
+man playing handball: medium skin tone,"handball, man, medium skin tone","[129342, 127997, 8205, 9794, 65039]"
+man playing handball: medium-dark skin tone,"handball, man, medium-dark skin tone","[129342, 127998, 8205, 9794, 65039]"
+man playing handball: dark skin tone,"dark skin tone, handball, man","[129342, 127999, 8205, 9794, 65039]"
+woman playing handball,"handball, woman","[129342, 8205, 9792, 65039]"
+woman playing handball: light skin tone,"handball, light skin tone, woman","[129342, 127995, 8205, 9792, 65039]"
+woman playing handball: medium-light skin tone,"handball, medium-light skin tone, woman","[129342, 127996, 8205, 9792, 65039]"
+woman playing handball: medium skin tone,"handball, medium skin tone, woman","[129342, 127997, 8205, 9792, 65039]"
+woman playing handball: medium-dark skin tone,"handball, medium-dark skin tone, woman","[129342, 127998, 8205, 9792, 65039]"
+woman playing handball: dark skin tone,"dark skin tone, handball, woman","[129342, 127999, 8205, 9792, 65039]"
+person juggling,"balance, juggle, multitask, skill",[129337]
+person juggling: light skin tone,"balance, juggle, light skin tone, multitask, skill","[129337, 127995]"
+person juggling: medium-light skin tone,"balance, juggle, medium-light skin tone, multitask, skill","[129337, 127996]"
+person juggling: medium skin tone,"balance, juggle, medium skin tone, multitask, skill","[129337, 127997]"
+person juggling: medium-dark skin tone,"balance, juggle, medium-dark skin tone, multitask, skill","[129337, 127998]"
+person juggling: dark skin tone,"balance, dark skin tone, juggle, multitask, skill","[129337, 127999]"
+man juggling,"juggling, man, multitask","[129337, 8205, 9794, 65039]"
+man juggling: light skin tone,"juggling, light skin tone, man, multitask","[129337, 127995, 8205, 9794, 65039]"
+man juggling: medium-light skin tone,"juggling, man, medium-light skin tone, multitask","[129337, 127996, 8205, 9794, 65039]"
+man juggling: medium skin tone,"juggling, man, medium skin tone, multitask","[129337, 127997, 8205, 9794, 65039]"
+man juggling: medium-dark skin tone,"juggling, man, medium-dark skin tone, multitask","[129337, 127998, 8205, 9794, 65039]"
+man juggling: dark skin tone,"dark skin tone, juggling, man, multitask","[129337, 127999, 8205, 9794, 65039]"
+woman juggling,"juggling, multitask, woman","[129337, 8205, 9792, 65039]"
+woman juggling: light skin tone,"juggling, light skin tone, multitask, woman","[129337, 127995, 8205, 9792, 65039]"
+woman juggling: medium-light skin tone,"juggling, medium-light skin tone, multitask, woman","[129337, 127996, 8205, 9792, 65039]"
+woman juggling: medium skin tone,"juggling, medium skin tone, multitask, woman","[129337, 127997, 8205, 9792, 65039]"
+woman juggling: medium-dark skin tone,"juggling, medium-dark skin tone, multitask, woman","[129337, 127998, 8205, 9792, 65039]"
+woman juggling: dark skin tone,"dark skin tone, juggling, multitask, woman","[129337, 127999, 8205, 9792, 65039]"
+man and woman holding hands,"couple, hand, hold, man, woman",[128107]
+man and woman holding hands: light skin tone,"couple, hand, hold, light skin tone, man, woman","[128107, 127995]"
+man and woman holding hands: medium-light skin tone,"couple, hand, hold, man, medium-light skin tone, woman","[128107, 127996]"
+man and woman holding hands: medium skin tone,"couple, hand, hold, man, medium skin tone, woman","[128107, 127997]"
+man and woman holding hands: medium-dark skin tone,"couple, hand, hold, man, medium-dark skin tone, woman","[128107, 127998]"
+man and woman holding hands: dark skin tone,"couple, dark skin tone, hand, hold, man, woman","[128107, 127999]"
+two men holding hands,"couple, gemini, hand, hold, man, twins, zodiac",[128108]
+two men holding hands: light skin tone,"couple, gemini, hand, hold, light skin tone, man, twins, zodiac","[128108, 127995]"
+two men holding hands: medium-light skin tone,"couple, gemini, hand, hold, man, medium-light skin tone, twins, zodiac","[128108, 127996]"
+two men holding hands: medium skin tone,"couple, gemini, hand, hold, man, medium skin tone, twins, zodiac","[128108, 127997]"
+two men holding hands: medium-dark skin tone,"couple, gemini, hand, hold, man, medium-dark skin tone, twins, zodiac","[128108, 127998]"
+two men holding hands: dark skin tone,"couple, dark skin tone, gemini, hand, hold, man, twins, zodiac","[128108, 127999]"
+two women holding hands,"couple, hand, hold, woman",[128109]
+two women holding hands: light skin tone,"couple, hand, hold, light skin tone, woman","[128109, 127995]"
+two women holding hands: medium-light skin tone,"couple, hand, hold, medium-light skin tone, woman","[128109, 127996]"
+two women holding hands: medium skin tone,"couple, hand, hold, medium skin tone, woman","[128109, 127997]"
+two women holding hands: medium-dark skin tone,"couple, hand, hold, medium-dark skin tone, woman","[128109, 127998]"
+two women holding hands: dark skin tone,"couple, dark skin tone, hand, hold, woman","[128109, 127999]"
+kiss,couple,[128143]
+"kiss: woman, man","couple, man, woman","[128105, 8205, 10084, 65039, 8205, 128139, 8205, 128104]"
+"kiss: man, man","couple, man","[128104, 8205, 10084, 65039, 8205, 128139, 8205, 128104]"
+"kiss: woman, woman","couple, woman","[128105, 8205, 10084, 65039, 8205, 128139, 8205, 128105]"
+couple with heart,"couple, love",[128145]
+"couple with heart: woman, man","couple, love, man, woman","[128105, 8205, 10084, 65039, 8205, 128104]"
+"couple with heart: man, man","couple, love, man","[128104, 8205, 10084, 65039, 8205, 128104]"
+"couple with heart: woman, woman","couple, love, woman","[128105, 8205, 10084, 65039, 8205, 128105]"
+family,family,[128106]
+family: light skin tone,"family, light skin tone","[128106, 127995]"
+family: medium-light skin tone,"family, medium-light skin tone","[128106, 127996]"
+family: medium skin tone,"family, medium skin tone","[128106, 127997]"
+family: medium-dark skin tone,"family, medium-dark skin tone","[128106, 127998]"
+family: dark skin tone,"dark skin tone, family","[128106, 127999]"
+"family: man, woman, boy","boy, family, man, woman","[128104, 8205, 128105, 8205, 128102]"
+"family: man, woman, girl","family, girl, man, woman","[128104, 8205, 128105, 8205, 128103]"
+"family: man, woman, girl, boy","boy, family, girl, man, woman","[128104, 8205, 128105, 8205, 128103, 8205, 128102]"
+"family: man, woman, boy, boy","boy, family, man, woman","[128104, 8205, 128105, 8205, 128102, 8205, 128102]"
+"family: man, woman, girl, girl","family, girl, man, woman","[128104, 8205, 128105, 8205, 128103, 8205, 128103]"
+"family: man, man, boy","boy, family, man","[128104, 8205, 128104, 8205, 128102]"
+"family: man, man, girl","family, girl, man","[128104, 8205, 128104, 8205, 128103]"
+"family: man, man, girl, boy","boy, family, girl, man","[128104, 8205, 128104, 8205, 128103, 8205, 128102]"
+"family: man, man, boy, boy","boy, family, man","[128104, 8205, 128104, 8205, 128102, 8205, 128102]"
+"family: man, man, girl, girl","family, girl, man","[128104, 8205, 128104, 8205, 128103, 8205, 128103]"
+"family: woman, woman, boy","boy, family, woman","[128105, 8205, 128105, 8205, 128102]"
+"family: woman, woman, girl","family, girl, woman","[128105, 8205, 128105, 8205, 128103]"
+"family: woman, woman, girl, boy","boy, family, girl, woman","[128105, 8205, 128105, 8205, 128103, 8205, 128102]"
+"family: woman, woman, boy, boy","boy, family, woman","[128105, 8205, 128105, 8205, 128102, 8205, 128102]"
+"family: woman, woman, girl, girl","family, girl, woman","[128105, 8205, 128105, 8205, 128103, 8205, 128103]"
+"family: man, boy","boy, family, man","[128104, 8205, 128102]"
+"family: man, boy, boy","boy, family, man","[128104, 8205, 128102, 8205, 128102]"
+"family: man, girl","family, girl, man","[128104, 8205, 128103]"
+"family: man, girl, boy","boy, family, girl, man","[128104, 8205, 128103, 8205, 128102]"
+"family: man, girl, girl","family, girl, man","[128104, 8205, 128103, 8205, 128103]"
+"family: woman, boy","boy, family, woman","[128105, 8205, 128102]"
+"family: woman, boy, boy","boy, family, woman","[128105, 8205, 128102, 8205, 128102]"
+"family: woman, girl","family, girl, woman","[128105, 8205, 128103]"
+"family: woman, girl, boy","boy, family, girl, woman","[128105, 8205, 128103, 8205, 128102]"
+"family: woman, girl, girl","family, girl, woman","[128105, 8205, 128103, 8205, 128103]"
+light skin tone,"skin tone, type 12",[127995]
+medium-light skin tone,"skin tone, type 3",[127996]
+medium skin tone,"skin tone, type 4",[127997]
+medium-dark skin tone,"skin tone, type 5",[127998]
+dark skin tone,"skin tone, type 6",[127999]
+flexed biceps,"biceps, comic, flex, muscle",[128170]
+flexed biceps: light skin tone,"biceps, comic, flex, light skin tone, muscle","[128170, 127995]"
+flexed biceps: medium-light skin tone,"biceps, comic, flex, medium-light skin tone, muscle","[128170, 127996]"
+flexed biceps: medium skin tone,"biceps, comic, flex, medium skin tone, muscle","[128170, 127997]"
+flexed biceps: medium-dark skin tone,"biceps, comic, flex, medium-dark skin tone, muscle","[128170, 127998]"
+flexed biceps: dark skin tone,"biceps, comic, dark skin tone, flex, muscle","[128170, 127999]"
+selfie,"camera, phone, selfie",[129331]
+selfie: light skin tone,"camera, light skin tone, phone, selfie","[129331, 127995]"
+selfie: medium-light skin tone,"camera, medium-light skin tone, phone, selfie","[129331, 127996]"
+selfie: medium skin tone,"camera, medium skin tone, phone, selfie","[129331, 127997]"
+selfie: medium-dark skin tone,"camera, medium-dark skin tone, phone, selfie","[129331, 127998]"
+selfie: dark skin tone,"camera, dark skin tone, phone, selfie","[129331, 127999]"
+backhand index pointing left,"backhand, finger, hand, index, point",[128072]
+backhand index pointing left: light skin tone,"backhand, finger, hand, index, light skin tone, point","[128072, 127995]"
+backhand index pointing left: medium-light skin tone,"backhand, finger, hand, index, medium-light skin tone, point","[128072, 127996]"
+backhand index pointing left: medium skin tone,"backhand, finger, hand, index, medium skin tone, point","[128072, 127997]"
+backhand index pointing left: medium-dark skin tone,"backhand, finger, hand, index, medium-dark skin tone, point","[128072, 127998]"
+backhand index pointing left: dark skin tone,"backhand, dark skin tone, finger, hand, index, point","[128072, 127999]"
+backhand index pointing right,"backhand, finger, hand, index, point",[128073]
+backhand index pointing right: light skin tone,"backhand, finger, hand, index, light skin tone, point","[128073, 127995]"
+backhand index pointing right: medium-light skin tone,"backhand, finger, hand, index, medium-light skin tone, point","[128073, 127996]"
+backhand index pointing right: medium skin tone,"backhand, finger, hand, index, medium skin tone, point","[128073, 127997]"
+backhand index pointing right: medium-dark skin tone,"backhand, finger, hand, index, medium-dark skin tone, point","[128073, 127998]"
+backhand index pointing right: dark skin tone,"backhand, dark skin tone, finger, hand, index, point","[128073, 127999]"
+index pointing up,"finger, hand, index, point, up",[9757]
+index pointing up: light skin tone,"finger, hand, index, light skin tone, point, up","[9757, 127995]"
+index pointing up: medium-light skin tone,"finger, hand, index, medium-light skin tone, point, up","[9757, 127996]"
+index pointing up: medium skin tone,"finger, hand, index, medium skin tone, point, up","[9757, 127997]"
+index pointing up: medium-dark skin tone,"finger, hand, index, medium-dark skin tone, point, up","[9757, 127998]"
+index pointing up: dark skin tone,"dark skin tone, finger, hand, index, point, up","[9757, 127999]"
+backhand index pointing up,"backhand, finger, hand, index, point, up",[128070]
+backhand index pointing up: light skin tone,"backhand, finger, hand, index, light skin tone, point, up","[128070, 127995]"
+backhand index pointing up: medium-light skin tone,"backhand, finger, hand, index, medium-light skin tone, point, up","[128070, 127996]"
+backhand index pointing up: medium skin tone,"backhand, finger, hand, index, medium skin tone, point, up","[128070, 127997]"
+backhand index pointing up: medium-dark skin tone,"backhand, finger, hand, index, medium-dark skin tone, point, up","[128070, 127998]"
+backhand index pointing up: dark skin tone,"backhand, dark skin tone, finger, hand, index, point, up","[128070, 127999]"
+middle finger,"finger, hand",[128405]
+middle finger: light skin tone,"finger, hand, light skin tone","[128405, 127995]"
+middle finger: medium-light skin tone,"finger, hand, medium-light skin tone","[128405, 127996]"
+middle finger: medium skin tone,"finger, hand, medium skin tone","[128405, 127997]"
+middle finger: medium-dark skin tone,"finger, hand, medium-dark skin tone","[128405, 127998]"
+middle finger: dark skin tone,"dark skin tone, finger, hand","[128405, 127999]"
+backhand index pointing down,"backhand, down, finger, hand, index, point",[128071]
+backhand index pointing down: light skin tone,"backhand, down, finger, hand, index, light skin tone, point","[128071, 127995]"
+backhand index pointing down: medium-light skin tone,"backhand, down, finger, hand, index, medium-light skin tone, point","[128071, 127996]"
+backhand index pointing down: medium skin tone,"backhand, down, finger, hand, index, medium skin tone, point","[128071, 127997]"
+backhand index pointing down: medium-dark skin tone,"backhand, down, finger, hand, index, medium-dark skin tone, point","[128071, 127998]"
+backhand index pointing down: dark skin tone,"backhand, dark skin tone, down, finger, hand, index, point","[128071, 127999]"
+victory hand,"hand, v, victory",[9996]
+victory hand: light skin tone,"hand, light skin tone, v, victory","[9996, 127995]"
+victory hand: medium-light skin tone,"hand, medium-light skin tone, v, victory","[9996, 127996]"
+victory hand: medium skin tone,"hand, medium skin tone, v, victory","[9996, 127997]"
+victory hand: medium-dark skin tone,"hand, medium-dark skin tone, v, victory","[9996, 127998]"
+victory hand: dark skin tone,"dark skin tone, hand, v, victory","[9996, 127999]"
+crossed fingers,"cross, finger, hand, luck",[129310]
+crossed fingers: light skin tone,"cross, finger, hand, light skin tone, luck","[129310, 127995]"
+crossed fingers: medium-light skin tone,"cross, finger, hand, luck, medium-light skin tone","[129310, 127996]"
+crossed fingers: medium skin tone,"cross, finger, hand, luck, medium skin tone","[129310, 127997]"
+crossed fingers: medium-dark skin tone,"cross, finger, hand, luck, medium-dark skin tone","[129310, 127998]"
+crossed fingers: dark skin tone,"cross, dark skin tone, finger, hand, luck","[129310, 127999]"
+vulcan salute,"finger, hand, spock, vulcan",[128406]
+vulcan salute: light skin tone,"finger, hand, light skin tone, spock, vulcan","[128406, 127995]"
+vulcan salute: medium-light skin tone,"finger, hand, medium-light skin tone, spock, vulcan","[128406, 127996]"
+vulcan salute: medium skin tone,"finger, hand, medium skin tone, spock, vulcan","[128406, 127997]"
+vulcan salute: medium-dark skin tone,"finger, hand, medium-dark skin tone, spock, vulcan","[128406, 127998]"
+vulcan salute: dark skin tone,"dark skin tone, finger, hand, spock, vulcan","[128406, 127999]"
+sign of the horns,"finger, hand, horns, rock-on",[129304]
+sign of the horns: light skin tone,"finger, hand, horns, light skin tone, rock-on","[129304, 127995]"
+sign of the horns: medium-light skin tone,"finger, hand, horns, medium-light skin tone, rock-on","[129304, 127996]"
+sign of the horns: medium skin tone,"finger, hand, horns, medium skin tone, rock-on","[129304, 127997]"
+sign of the horns: medium-dark skin tone,"finger, hand, horns, medium-dark skin tone, rock-on","[129304, 127998]"
+sign of the horns: dark skin tone,"dark skin tone, finger, hand, horns, rock-on","[129304, 127999]"
+call me hand,"call, hand",[129305]
+call me hand: light skin tone,"call, hand, light skin tone","[129305, 127995]"
+call me hand: medium-light skin tone,"call, hand, medium-light skin tone","[129305, 127996]"
+call me hand: medium skin tone,"call, hand, medium skin tone","[129305, 127997]"
+call me hand: medium-dark skin tone,"call, hand, medium-dark skin tone","[129305, 127998]"
+call me hand: dark skin tone,"call, dark skin tone, hand","[129305, 127999]"
+raised hand with fingers splayed,"finger, hand, splayed",[128400]
+raised hand with fingers splayed: light skin tone,"finger, hand, light skin tone, splayed","[128400, 127995]"
+raised hand with fingers splayed: medium-light skin tone,"finger, hand, medium-light skin tone, splayed","[128400, 127996]"
+raised hand with fingers splayed: medium skin tone,"finger, hand, medium skin tone, splayed","[128400, 127997]"
+raised hand with fingers splayed: medium-dark skin tone,"finger, hand, medium-dark skin tone, splayed","[128400, 127998]"
+raised hand with fingers splayed: dark skin tone,"dark skin tone, finger, hand, splayed","[128400, 127999]"
+raised hand,hand,[9995]
+raised hand: light skin tone,"hand, light skin tone","[9995, 127995]"
+raised hand: medium-light skin tone,"hand, medium-light skin tone","[9995, 127996]"
+raised hand: medium skin tone,"hand, medium skin tone","[9995, 127997]"
+raised hand: medium-dark skin tone,"hand, medium-dark skin tone","[9995, 127998]"
+raised hand: dark skin tone,"dark skin tone, hand","[9995, 127999]"
+ok hand,"hand, ok",[128076]
+ok hand: light skin tone,"hand, light skin tone, ok","[128076, 127995]"
+ok hand: medium-light skin tone,"hand, medium-light skin tone, ok","[128076, 127996]"
+ok hand: medium skin tone,"hand, medium skin tone, ok","[128076, 127997]"
+ok hand: medium-dark skin tone,"hand, medium-dark skin tone, ok","[128076, 127998]"
+ok hand: dark skin tone,"dark skin tone, hand, ok","[128076, 127999]"
+thumbs up,"+1, hand, thumb, up",[128077]
+thumbs up: light skin tone,"+1, hand, light skin tone, thumb, up","[128077, 127995]"
+thumbs up: medium-light skin tone,"+1, hand, medium-light skin tone, thumb, up","[128077, 127996]"
+thumbs up: medium skin tone,"+1, hand, medium skin tone, thumb, up","[128077, 127997]"
+thumbs up: medium-dark skin tone,"+1, hand, medium-dark skin tone, thumb, up","[128077, 127998]"
+thumbs up: dark skin tone,"+1, dark skin tone, hand, thumb, up","[128077, 127999]"
+thumbs down,"-1, down, hand, thumb",[128078]
+thumbs down: light skin tone,"-1, down, hand, light skin tone, thumb","[128078, 127995]"
+thumbs down: medium-light skin tone,"-1, down, hand, medium-light skin tone, thumb","[128078, 127996]"
+thumbs down: medium skin tone,"-1, down, hand, medium skin tone, thumb","[128078, 127997]"
+thumbs down: medium-dark skin tone,"-1, down, hand, medium-dark skin tone, thumb","[128078, 127998]"
+thumbs down: dark skin tone,"-1, dark skin tone, down, hand, thumb","[128078, 127999]"
+raised fist,"clenched, fist, hand, punch",[9994]
+raised fist: light skin tone,"clenched, fist, hand, light skin tone, punch","[9994, 127995]"
+raised fist: medium-light skin tone,"clenched, fist, hand, medium-light skin tone, punch","[9994, 127996]"
+raised fist: medium skin tone,"clenched, fist, hand, medium skin tone, punch","[9994, 127997]"
+raised fist: medium-dark skin tone,"clenched, fist, hand, medium-dark skin tone, punch","[9994, 127998]"
+raised fist: dark skin tone,"clenched, dark skin tone, fist, hand, punch","[9994, 127999]"
+oncoming fist,"clenched, fist, hand, punch",[128074]
+oncoming fist: light skin tone,"clenched, fist, hand, light skin tone, punch","[128074, 127995]"
+oncoming fist: medium-light skin tone,"clenched, fist, hand, medium-light skin tone, punch","[128074, 127996]"
+oncoming fist: medium skin tone,"clenched, fist, hand, medium skin tone, punch","[128074, 127997]"
+oncoming fist: medium-dark skin tone,"clenched, fist, hand, medium-dark skin tone, punch","[128074, 127998]"
+oncoming fist: dark skin tone,"clenched, dark skin tone, fist, hand, punch","[128074, 127999]"
+left-facing fist,"fist, leftwards",[129307]
+left-facing fist: light skin tone,"fist, leftwards, light skin tone","[129307, 127995]"
+left-facing fist: medium-light skin tone,"fist, leftwards, medium-light skin tone","[129307, 127996]"
+left-facing fist: medium skin tone,"fist, leftwards, medium skin tone","[129307, 127997]"
+left-facing fist: medium-dark skin tone,"fist, leftwards, medium-dark skin tone","[129307, 127998]"
+left-facing fist: dark skin tone,"dark skin tone, fist, leftwards","[129307, 127999]"
+right-facing fist,"fist, rightwards",[129308]
+right-facing fist: light skin tone,"fist, light skin tone, rightwards","[129308, 127995]"
+right-facing fist: medium-light skin tone,"fist, medium-light skin tone, rightwards","[129308, 127996]"
+right-facing fist: medium skin tone,"fist, medium skin tone, rightwards","[129308, 127997]"
+right-facing fist: medium-dark skin tone,"fist, medium-dark skin tone, rightwards","[129308, 127998]"
+right-facing fist: dark skin tone,"dark skin tone, fist, rightwards","[129308, 127999]"
+raised back of hand,"backhand, raised",[129306]
+raised back of hand: light skin tone,"backhand, light skin tone, raised","[129306, 127995]"
+raised back of hand: medium-light skin tone,"backhand, medium-light skin tone, raised","[129306, 127996]"
+raised back of hand: medium skin tone,"backhand, medium skin tone, raised","[129306, 127997]"
+raised back of hand: medium-dark skin tone,"backhand, medium-dark skin tone, raised","[129306, 127998]"
+raised back of hand: dark skin tone,"backhand, dark skin tone, raised","[129306, 127999]"
+waving hand,"hand, wave, waving",[128075]
+waving hand: light skin tone,"hand, light skin tone, wave, waving","[128075, 127995]"
+waving hand: medium-light skin tone,"hand, medium-light skin tone, wave, waving","[128075, 127996]"
+waving hand: medium skin tone,"hand, medium skin tone, wave, waving","[128075, 127997]"
+waving hand: medium-dark skin tone,"hand, medium-dark skin tone, wave, waving","[128075, 127998]"
+waving hand: dark skin tone,"dark skin tone, hand, wave, waving","[128075, 127999]"
+clapping hands,"clap, hand",[128079]
+clapping hands: light skin tone,"clap, hand, light skin tone","[128079, 127995]"
+clapping hands: medium-light skin tone,"clap, hand, medium-light skin tone","[128079, 127996]"
+clapping hands: medium skin tone,"clap, hand, medium skin tone","[128079, 127997]"
+clapping hands: medium-dark skin tone,"clap, hand, medium-dark skin tone","[128079, 127998]"
+clapping hands: dark skin tone,"clap, dark skin tone, hand","[128079, 127999]"
+writing hand,"hand, write",[9997]
+writing hand: light skin tone,"hand, light skin tone, write","[9997, 127995]"
+writing hand: medium-light skin tone,"hand, medium-light skin tone, write","[9997, 127996]"
+writing hand: medium skin tone,"hand, medium skin tone, write","[9997, 127997]"
+writing hand: medium-dark skin tone,"hand, medium-dark skin tone, write","[9997, 127998]"
+writing hand: dark skin tone,"dark skin tone, hand, write","[9997, 127999]"
+open hands,"hand, open",[128080]
+open hands: light skin tone,"hand, light skin tone, open","[128080, 127995]"
+open hands: medium-light skin tone,"hand, medium-light skin tone, open","[128080, 127996]"
+open hands: medium skin tone,"hand, medium skin tone, open","[128080, 127997]"
+open hands: medium-dark skin tone,"hand, medium-dark skin tone, open","[128080, 127998]"
+open hands: dark skin tone,"dark skin tone, hand, open","[128080, 127999]"
+raising hands,"celebration, gesture, hand, hooray, raised",[128588]
+raising hands: light skin tone,"celebration, gesture, hand, hooray, light skin tone, raised","[128588, 127995]"
+raising hands: medium-light skin tone,"celebration, gesture, hand, hooray, medium-light skin tone, raised","[128588, 127996]"
+raising hands: medium skin tone,"celebration, gesture, hand, hooray, medium skin tone, raised","[128588, 127997]"
+raising hands: medium-dark skin tone,"celebration, gesture, hand, hooray, medium-dark skin tone, raised","[128588, 127998]"
+raising hands: dark skin tone,"celebration, dark skin tone, gesture, hand, hooray, raised","[128588, 127999]"
+folded hands,"ask, bow, folded, gesture, hand, please, pray, thanks",[128591]
+folded hands: light skin tone,"ask, bow, folded, gesture, hand, light skin tone, please, pray, thanks","[128591, 127995]"
+folded hands: medium-light skin tone,"ask, bow, folded, gesture, hand, medium-light skin tone, please, pray, thanks","[128591, 127996]"
+folded hands: medium skin tone,"ask, bow, folded, gesture, hand, medium skin tone, please, pray, thanks","[128591, 127997]"
+folded hands: medium-dark skin tone,"ask, bow, folded, gesture, hand, medium-dark skin tone, please, pray, thanks","[128591, 127998]"
+folded hands: dark skin tone,"ask, bow, dark skin tone, folded, gesture, hand, please, pray, thanks","[128591, 127999]"
+handshake,"agreement, hand, handshake, meeting, shake",[129309]
+handshake: light skin tone,"agreement, hand, handshake, light skin tone, meeting, shake","[129309, 127995]"
+handshake: medium-light skin tone,"agreement, hand, handshake, medium-light skin tone, meeting, shake","[129309, 127996]"
+handshake: medium skin tone,"agreement, hand, handshake, medium skin tone, meeting, shake","[129309, 127997]"
+handshake: medium-dark skin tone,"agreement, hand, handshake, medium-dark skin tone, meeting, shake","[129309, 127998]"
+handshake: dark skin tone,"agreement, dark skin tone, hand, handshake, meeting, shake","[129309, 127999]"
+nail polish,"care, cosmetics, manicure, nail, polish",[128133]
+nail polish: light skin tone,"care, cosmetics, light skin tone, manicure, nail, polish","[128133, 127995]"
+nail polish: medium-light skin tone,"care, cosmetics, manicure, medium-light skin tone, nail, polish","[128133, 127996]"
+nail polish: medium skin tone,"care, cosmetics, manicure, medium skin tone, nail, polish","[128133, 127997]"
+nail polish: medium-dark skin tone,"care, cosmetics, manicure, medium-dark skin tone, nail, polish","[128133, 127998]"
+nail polish: dark skin tone,"care, cosmetics, dark skin tone, manicure, nail, polish","[128133, 127999]"
+ear,body,[128066]
+ear: light skin tone,"body, light skin tone","[128066, 127995]"
+ear: medium-light skin tone,"body, medium-light skin tone","[128066, 127996]"
+ear: medium skin tone,"body, medium skin tone","[128066, 127997]"
+ear: medium-dark skin tone,"body, medium-dark skin tone","[128066, 127998]"
+ear: dark skin tone,"body, dark skin tone","[128066, 127999]"
+nose,body,[128067]
+nose: light skin tone,"body, light skin tone","[128067, 127995]"
+nose: medium-light skin tone,"body, medium-light skin tone","[128067, 127996]"
+nose: medium skin tone,"body, medium skin tone","[128067, 127997]"
+nose: medium-dark skin tone,"body, medium-dark skin tone","[128067, 127998]"
+nose: dark skin tone,"body, dark skin tone","[128067, 127999]"
+footprints,"clothing, footprint, print",[128099]
+eyes,"eye, face",[128064]
+eye,body,[128065]
+eye in speech bubble,"eye, speech bubble, witness","[128065, 65039, 8205, 128488, 65039]"
+tongue,body,[128069]
+mouth,lips,[128068]
+kiss mark,"kiss, lips",[128139]
+heart with arrow,"arrow, cupid",[128152]
+red heart,heart,[10084]
+beating heart,"beating, heartbeat, pulsating",[128147]
+broken heart,"break, broken",[128148]
+two hearts,love,[128149]
+sparkling heart,"excited, sparkle",[128150]
+growing heart,"excited, growing, nervous, pulse",[128151]
+blue heart,blue,[128153]
+green heart,green,[128154]
+yellow heart,yellow,[128155]
+purple heart,purple,[128156]
+black heart,"black, evil, wicked",[128420]
+heart with ribbon,"ribbon, valentine",[128157]
+revolving hearts,revolving,[128158]
+heart decoration,heart,[128159]
+heavy heart exclamation,"exclamation, mark, punctuation",[10083]
+love letter,"heart, letter, love, mail",[128140]
+zzz,"comic, sleep",[128164]
+anger symbol,"angry, comic, mad",[128162]
+bomb,comic,[128163]
+collision,"boom, comic",[128165]
+sweat droplets,"comic, splashing, sweat",[128166]
+dashing away,"comic, dash, running",[128168]
+dizzy,"comic, star",[128171]
+speech balloon,"balloon, bubble, comic, dialog, speech",[128172]
+left speech bubble,"dialog, speech",[128488]
+right anger bubble,"angry, balloon, bubble, mad",[128495]
+thought balloon,"balloon, bubble, comic, thought",[128173]
+hole,hole,[128371]
+glasses,"clothing, eye, eyeglasses, eyewear",[128083]
+sunglasses,"dark, eye, eyewear, glasses",[128374]
+necktie,clothing,[128084]
+t-shirt,"clothing, shirt, tshirt",[128085]
+jeans,"clothing, pants, trousers",[128086]
+dress,clothing,[128087]
+kimono,clothing,[128088]
+bikini,"clothing, swim",[128089]
+womans clothes,"clothing, woman",[128090]
+purse,"clothing, coin",[128091]
+handbag,"bag, clothing, purse",[128092]
+clutch bag,"bag, clothing, pouch",[128093]
+shopping bags,"bag, hotel, shopping",[128717]
+school backpack,"bag, satchel, school",[127890]
+mans shoe,"clothing, man, shoe",[128094]
+running shoe,"athletic, clothing, shoe, sneaker",[128095]
+high-heeled shoe,"clothing, heel, shoe, woman",[128096]
+womans sandal,"clothing, sandal, shoe, woman",[128097]
+womans boot,"boot, clothing, shoe, woman",[128098]
+crown,"clothing, king, queen",[128081]
+womans hat,"clothing, hat, woman",[128082]
+top hat,"clothing, hat, top, tophat",[127913]
+graduation cap,"cap, celebration, clothing, graduation, hat",[127891]
+rescue workers helmet,"aid, cross, face, hat, helmet",[9937]
+prayer beads,"beads, clothing, necklace, prayer, religion",[128255]
+lipstick,"cosmetics, makeup",[128132]
+ring,diamond,[128141]
+gem stone,"diamond, gem, jewel",[128142]
+monkey face,"face, monkey",[128053]
+monkey,monkey,[128018]
+gorilla,gorilla,[129421]
+dog face,"dog, face, pet",[128054]
+dog,pet,[128021]
+poodle,dog,[128041]
+wolf face,"face, wolf",[128058]
+fox face,"face, fox",[129418]
+cat face,"cat, face, pet",[128049]
+cat,pet,[128008]
+lion face,"face, leo, lion, zodiac",[129409]
+tiger face,"face, tiger",[128047]
+tiger,tiger,[128005]
+leopard,leopard,[128006]
+horse face,"face, horse",[128052]
+horse,"equestrian, racehorse, racing",[128014]
+deer,deer,[129420]
+unicorn face,"face, unicorn",[129412]
+cow face,"cow, face",[128046]
+ox,"bull, taurus, zodiac",[128002]
+water buffalo,"buffalo, water",[128003]
+cow,cow,[128004]
+pig face,"face, pig",[128055]
+pig,sow,[128022]
+boar,pig,[128023]
+pig nose,"face, nose, pig",[128061]
+ram,"aries, sheep, zodiac",[128015]
+sheep,ewe,[128017]
+goat,"capricorn, zodiac",[128016]
+camel,"dromedary, hump",[128042]
+two-hump camel,"bactrian, camel, hump",[128043]
+elephant,elephant,[128024]
+rhinoceros,rhinoceros,[129423]
+mouse face,"face, mouse",[128045]
+mouse,mouse,[128001]
+rat,rat,[128000]
+hamster face,"face, hamster, pet",[128057]
+rabbit face,"bunny, face, pet, rabbit",[128048]
+rabbit,"bunny, pet",[128007]
+chipmunk,chipmunk,[128063]
+bat,"bat, vampire",[129415]
+bear face,"bear, face",[128059]
+koala,bear,[128040]
+panda face,"face, panda",[128060]
+paw prints,"feet, paw, print",[128062]
+turkey,turkey,[129411]
+chicken,chicken,[128020]
+rooster,rooster,[128019]
+hatching chick,"baby, chick, hatching",[128035]
+baby chick,"baby, chick",[128036]
+front-facing baby chick,"baby, chick",[128037]
+bird,bird,[128038]
+penguin,penguin,[128039]
+dove,"bird, fly, peace",[128330]
+eagle,"bird, eagle",[129413]
+duck,"bird, duck",[129414]
+owl,"bird, owl, wise",[129417]
+frog face,"face, frog",[128056]
+crocodile,crocodile,[128010]
+turtle,"terrapin, tortoise, turtle",[128034]
+lizard,"lizard, reptile",[129422]
+snake,"bearer, ophiuchus, serpent, zodiac",[128013]
+dragon face,"dragon, face, fairy tale",[128050]
+dragon,fairy tale,[128009]
+spouting whale,"face, spouting, whale",[128051]
+whale,whale,[128011]
+dolphin,flipper,[128044]
+fish,"pisces, zodiac",[128031]
+tropical fish,"fish, tropical",[128032]
+blowfish,fish,[128033]
+shark,"fish, shark",[129416]
+octopus,octopus,[128025]
+spiral shell,"shell, spiral",[128026]
+crab,"cancer, zodiac",[129408]
+shrimp,"food, shellfish, shrimp, small",[129424]
+squid,"food, molusc, squid",[129425]
+butterfly,"butterfly, insect, pretty",[129419]
+snail,snail,[128012]
+bug,insect,[128027]
+ant,insect,[128028]
+honeybee,"bee, insect",[128029]
+lady beetle,"beetle, insect, ladybird, ladybug",[128030]
+spider,insect,[128375]
+spider web,"spider, web",[128376]
+scorpion,"scorpio, scorpius, zodiac",[129410]
+bouquet,flower,[128144]
+cherry blossom,"blossom, cherry, flower",[127800]
+white flower,flower,[128174]
+rosette,plant,[127989]
+rose,flower,[127801]
+wilted flower,"flower, wilted",[129344]
+hibiscus,flower,[127802]
+sunflower,"flower, sun",[127803]
+blossom,flower,[127804]
+tulip,flower,[127799]
+seedling,young,[127793]
+evergreen tree,tree,[127794]
+deciduous tree,"deciduous, shedding, tree",[127795]
+palm tree,"palm, tree",[127796]
+cactus,plant,[127797]
+sheaf of rice,"ear, grain, rice",[127806]
+herb,leaf,[127807]
+shamrock,plant,[9752]
+four leaf clover,"4, clover, four, leaf",[127808]
+maple leaf,"falling, leaf, maple",[127809]
+fallen leaf,"falling, leaf",[127810]
+leaf fluttering in wind,"blow, flutter, leaf, wind",[127811]
+grapes,"fruit, grape",[127815]
+melon,fruit,[127816]
+watermelon,fruit,[127817]
+tangerine,"fruit, orange",[127818]
+lemon,"citrus, fruit",[127819]
+banana,fruit,[127820]
+pineapple,fruit,[127821]
+red apple,"apple, fruit, red",[127822]
+green apple,"apple, fruit, green",[127823]
+pear,fruit,[127824]
+peach,fruit,[127825]
+cherries,"cherry, fruit",[127826]
+strawberry,"berry, fruit",[127827]
+kiwi fruit,"food, fruit, kiwi",[129373]
+tomato,"fruit, vegetable",[127813]
+avocado,"avocado, food, fruit",[129361]
+eggplant,"aubergine, vegetable",[127814]
+potato,"food, potato, vegetable",[129364]
+carrot,"carrot, food, vegetable",[129365]
+ear of corn,"corn, ear, maize, maze",[127805]
+hot pepper,"hot, pepper",[127798]
+cucumber,"cucumber, food, pickle, vegetable",[129362]
+mushroom,toadstool,[127812]
+peanuts,"food, nut, peanut, vegetable",[129372]
+chestnut,plant,[127792]
+bread,loaf,[127838]
+croissant,"bread, crescent roll, croissant, food, french",[129360]
+baguette bread,"baguette, bread, food, french",[129366]
+pancakes,"crpe, food, hotcake, pancake",[129374]
+cheese wedge,cheese,[129472]
+meat on bone,"bone, meat",[127830]
+poultry leg,"bone, chicken, leg, poultry",[127831]
+bacon,"bacon, food, meat",[129363]
+hamburger,burger,[127828]
+french fries,"french, fries",[127839]
+pizza,"cheese, slice",[127829]
+hot dog,"frankfurter, hotdog, sausage",[127789]
+taco,mexican,[127790]
+burrito,"mexican, wrap",[127791]
+stuffed flatbread,"falafel, flatbread, food, gyro, kebab, stuffed",[129369]
+egg,"egg, food",[129370]
+cooking,"egg, frying, pan",[127859]
+shallow pan of food,"casserole, food, paella, pan, shallow",[129368]
+pot of food,"pot, stew",[127858]
+green salad,"food, green, salad",[129367]
+popcorn,popcorn,[127871]
+bento box,"bento, box",[127857]
+rice cracker,"cracker, rice",[127832]
+rice ball,"ball, japanese, rice",[127833]
+cooked rice,"cooked, rice",[127834]
+curry rice,"curry, rice",[127835]
+steaming bowl,"bowl, noodle, ramen, steaming",[127836]
+spaghetti,pasta,[127837]
+roasted sweet potato,"potato, roasted, sweet",[127840]
+oden,"kebab, seafood, skewer, stick",[127842]
+sushi,sushi,[127843]
+fried shrimp,"fried, prawn, shrimp, tempura",[127844]
+fish cake with swirl,"cake, fish, pastry, swirl",[127845]
+dango,"dessert, japanese, skewer, stick, sweet",[127841]
+soft ice cream,"cream, dessert, ice, icecream, soft, sweet",[127846]
+shaved ice,"dessert, ice, shaved, sweet",[127847]
+ice cream,"cream, dessert, ice, sweet",[127848]
+doughnut,"dessert, donut, sweet",[127849]
+cookie,"dessert, sweet",[127850]
+birthday cake,"birthday, cake, celebration, dessert, pastry, sweet",[127874]
+shortcake,"cake, dessert, pastry, slice, sweet",[127856]
+chocolate bar,"bar, chocolate, dessert, sweet",[127851]
+candy,"dessert, sweet",[127852]
+lollipop,"candy, dessert, sweet",[127853]
+custard,"dessert, pudding, sweet",[127854]
+honey pot,"honey, honeypot, pot, sweet",[127855]
+baby bottle,"baby, bottle, drink, milk",[127868]
+glass of milk,"drink, glass, milk",[129371]
+hot beverage,"beverage, coffee, drink, hot, steaming, tea",[9749]
+teacup without handle,"beverage, cup, drink, tea, teacup",[127861]
+sake,"bar, beverage, bottle, cup, drink",[127862]
+bottle with popping cork,"bar, bottle, cork, drink, popping",[127870]
+wine glass,"bar, beverage, drink, glass, wine",[127863]
+cocktail glass,"bar, cocktail, drink, glass",[127864]
+tropical drink,"bar, drink, tropical",[127865]
+beer mug,"bar, beer, drink, mug",[127866]
+clinking beer mugs,"bar, beer, clink, drink, mug",[127867]
+clinking glasses,"celebrate, clink, drink, glass",[129346]
+tumbler glass,"glass, liquor, shot, tumbler, whisky",[129347]
+fork and knife with plate,"cooking, fork, knife, plate",[127869]
+fork and knife,"cooking, fork, knife",[127860]
+spoon,"spoon, tableware",[129348]
+kitchen knife,"cooking, hocho, knife, tool, weapon",[128298]
+amphora,"aquarius, cooking, drink, jug, tool, weapon, zodiac",[127994]
+globe showing europe-africa,"africa, earth, europe, globe, world",[127757]
+globe showing americas,"americas, earth, globe, world",[127758]
+globe showing asia-australia,"asia, australia, earth, globe, world",[127759]
+globe with meridians,"earth, globe, meridians, world",[127760]
+world map,"map, world",[128506]
+map of japan,"japan, map",[128510]
+snow-capped mountain,"cold, mountain, snow",[127956]
+mountain,mountain,[9968]
+volcano,"eruption, mountain",[127755]
+mount fuji,"fuji, mountain",[128507]
+camping,camping,[127957]
+beach with umbrella,"beach, umbrella",[127958]
+desert,desert,[127964]
+desert island,"desert, island",[127965]
+national park,park,[127966]
+stadium,stadium,[127967]
+classical building,classical,[127963]
+building construction,construction,[127959]
+house,house,[127960]
+cityscape,city,[127961]
+derelict house,"derelict, house",[127962]
+house,"home, house",[127968]
+house with garden,"garden, home, house",[127969]
+office building,building,[127970]
+japanese post office,"japanese, post",[127971]
+post office,"european, post",[127972]
+hospital,"doctor, medicine",[127973]
+bank,building,[127974]
+hotel,building,[127976]
+love hotel,"hotel, love",[127977]
+convenience store,"convenience, store",[127978]
+school,building,[127979]
+department store,"department, store",[127980]
+factory,building,[127981]
+japanese castle,"castle, japanese",[127983]
+castle,european,[127984]
+wedding,"chapel, romance",[128146]
+tokyo tower,"tokyo, tower",[128508]
+statue of liberty,"liberty, statue",[128509]
+church,"christian, cross, religion",[9962]
+mosque,"islam, muslim, religion",[128332]
+synagogue,"jew, jewish, religion, temple",[128333]
+shinto shrine,"religion, shinto, shrine",[9961]
+kaaba,"islam, muslim, religion",[128331]
+fountain,fountain,[9970]
+tent,camping,[9978]
+foggy,fog,[127745]
+night with stars,"night, star",[127747]
+sunrise over mountains,"morning, mountain, sun, sunrise",[127748]
+sunrise,"morning, sun",[127749]
+cityscape at dusk,"city, dusk, evening, landscape, sun, sunset",[127750]
+sunset,"dusk, sun",[127751]
+bridge at night,"bridge, night",[127753]
+hot springs,"hot, hotsprings, springs, steaming",[9832]
+milky way,space,[127756]
+carousel horse,"carousel, horse",[127904]
+ferris wheel,"amusement park, ferris, wheel",[127905]
+roller coaster,"amusement park, coaster, roller",[127906]
+barber pole,"barber, haircut, pole",[128136]
+circus tent,"circus, tent",[127914]
+performing arts,"art, mask, performing, theater, theatre",[127917]
+framed picture,"art, frame, museum, painting, picture",[128444]
+artist palette,"art, museum, painting, palette",[127912]
+slot machine,"game, slot",[127920]
+locomotive,"engine, railway, steam, train",[128642]
+railway car,"car, electric, railway, train, tram, trolleybus",[128643]
+high-speed train,"railway, shinkansen, speed, train",[128644]
+high-speed train with bullet nose,"bullet, railway, shinkansen, speed, train",[128645]
+train,railway,[128646]
+metro,subway,[128647]
+light rail,railway,[128648]
+station,"railway, train",[128649]
+tram,trolleybus,[128650]
+monorail,vehicle,[128669]
+mountain railway,"car, mountain, railway",[128670]
+tram car,"car, tram, trolleybus",[128651]
+bus,vehicle,[128652]
+oncoming bus,"bus, oncoming",[128653]
+trolleybus,"bus, tram, trolley",[128654]
+minibus,bus,[128656]
+ambulance,vehicle,[128657]
+fire engine,"engine, fire, truck",[128658]
+police car,"car, patrol, police",[128659]
+oncoming police car,"car, oncoming, police",[128660]
+taxi,vehicle,[128661]
+oncoming taxi,"oncoming, taxi",[128662]
+automobile,car,[128663]
+oncoming automobile,"automobile, car, oncoming",[128664]
+sport utility vehicle,"recreational, sport utility",[128665]
+delivery truck,"delivery, truck",[128666]
+articulated lorry,"lorry, semi, truck",[128667]
+tractor,vehicle,[128668]
+bicycle,bike,[128690]
+kick scooter,"kick, scooter",[128756]
+motor scooter,"motor, scooter",[128757]
+bus stop,"bus, busstop, stop",[128655]
+motorway,"highway, road",[128739]
+railway track,"railway, train",[128740]
+fuel pump,"fuel, fuelpump, gas, pump, station",[9981]
+police car light,"beacon, car, light, police, revolving",[128680]
+horizontal traffic light,"light, signal, traffic",[128677]
+vertical traffic light,"light, signal, traffic",[128678]
+construction,barrier,[128679]
+stop sign,"octagonal, sign, stop",[128721]
+anchor,"ship, tool",[9875]
+sailboat,"boat, resort, sea, yacht",[9973]
+canoe,"boat, canoe",[128758]
+speedboat,boat,[128676]
+passenger ship,"passenger, ship",[128755]
+ferry,"boat, passenger",[9972]
+motor boat,"boat, motorboat",[128741]
+ship,"boat, passenger",[128674]
+airplane,"aeroplane, airplane",[9992]
+small airplane,"aeroplane, airplane",[128745]
+airplane departure,"aeroplane, airplane, check-in, departure, departures",[128747]
+airplane arrival,"aeroplane, airplane, arrivals, arriving, landing",[128748]
+seat,chair,[128186]
+helicopter,vehicle,[128641]
+suspension railway,"railway, suspension",[128671]
+mountain cableway,"cable, gondola, mountain",[128672]
+aerial tramway,"aerial, cable, car, gondola, tramway",[128673]
+rocket,space,[128640]
+satellite,space,[128752]
+bellhop bell,"bell, bellhop, hotel",[128718]
+door,door,[128682]
+person in bed,"hotel, sleep",[128716]
+person in bed: light skin tone,"hotel, light skin tone, sleep","[128716, 127995]"
+person in bed: medium-light skin tone,"hotel, medium-light skin tone, sleep","[128716, 127996]"
+person in bed: medium skin tone,"hotel, medium skin tone, sleep","[128716, 127997]"
+person in bed: medium-dark skin tone,"hotel, medium-dark skin tone, sleep","[128716, 127998]"
+person in bed: dark skin tone,"dark skin tone, hotel, sleep","[128716, 127999]"
+bed,"hotel, sleep",[128719]
+couch and lamp,"couch, hotel, lamp",[128715]
+toilet,toilet,[128701]
+shower,water,[128703]
+person taking bath,"bath, bathtub",[128704]
+person taking bath: light skin tone,"bath, bathtub, light skin tone","[128704, 127995]"
+person taking bath: medium-light skin tone,"bath, bathtub, medium-light skin tone","[128704, 127996]"
+person taking bath: medium skin tone,"bath, bathtub, medium skin tone","[128704, 127997]"
+person taking bath: medium-dark skin tone,"bath, bathtub, medium-dark skin tone","[128704, 127998]"
+person taking bath: dark skin tone,"bath, bathtub, dark skin tone","[128704, 127999]"
+bathtub,bath,[128705]
+hourglass,"sand, timer",[8987]
+hourglass with flowing sand,"hourglass, sand, timer",[9203]
+watch,clock,[8986]
+alarm clock,"alarm, clock",[9200]
+stopwatch,clock,[9201]
+timer clock,"clock, timer",[9202]
+mantelpiece clock,clock,[128368]
+twelve oclock,"00, 12, 12:00, clock, oclock, twelve",[128347]
+twelve-thirty,"12, 12:30, 30, clock, thirty, twelve",[128359]
+one oclock,"00, 1, 1:00, clock, oclock, one",[128336]
+one-thirty,"1, 1:30, 30, clock, one, thirty",[128348]
+two oclock,"00, 2, 2:00, clock, oclock, two",[128337]
+two-thirty,"2, 2:30, 30, clock, thirty, two",[128349]
+three oclock,"00, 3, 3:00, clock, oclock, three",[128338]
+three-thirty,"3, 3:30, 30, clock, thirty, three",[128350]
+four oclock,"00, 4, 4:00, clock, four, oclock",[128339]
+four-thirty,"30, 4, 4:30, clock, four, thirty",[128351]
+five oclock,"00, 5, 5:00, clock, five, oclock",[128340]
+five-thirty,"30, 5, 5:30, clock, five, thirty",[128352]
+six oclock,"00, 6, 6:00, clock, oclock, six",[128341]
+six-thirty,"30, 6, 6:30, clock, six, thirty",[128353]
+seven oclock,"00, 7, 7:00, clock, oclock, seven",[128342]
+seven-thirty,"30, 7, 7:30, clock, seven, thirty",[128354]
+eight oclock,"00, 8, 8:00, clock, eight, oclock",[128343]
+eight-thirty,"30, 8, 8:30, clock, eight, thirty",[128355]
+nine oclock,"00, 9, 9:00, clock, nine, oclock",[128344]
+nine-thirty,"30, 9, 9:30, clock, nine, thirty",[128356]
+ten oclock,"00, 10, 10:00, clock, oclock, ten",[128345]
+ten-thirty,"10, 10:30, 30, clock, ten, thirty",[128357]
+eleven oclock,"00, 11, 11:00, clock, eleven, oclock",[128346]
+eleven-thirty,"11, 11:30, 30, clock, eleven, thirty",[128358]
+new moon,"dark, moon",[127761]
+waxing crescent moon,"crescent, moon, waxing",[127762]
+first quarter moon,"moon, quarter",[127763]
+waxing gibbous moon,"gibbous, moon, waxing",[127764]
+full moon,"full, moon",[127765]
+waning gibbous moon,"gibbous, moon, waning",[127766]
+last quarter moon,"moon, quarter",[127767]
+waning crescent moon,"crescent, moon, waning",[127768]
+crescent moon,"crescent, moon",[127769]
+new moon face,"face, moon",[127770]
+first quarter moon with face,"face, moon, quarter",[127771]
+last quarter moon with face,"face, moon, quarter",[127772]
+thermometer,weather,[127777]
+sun,"bright, rays, sunny",[9728]
+full moon with face,"bright, face, full, moon",[127773]
+sun with face,"bright, face, sun",[127774]
+white medium star,star,[11088]
+glowing star,"glittery, glow, shining, sparkle, star",[127775]
+shooting star,"falling, shooting, star",[127776]
+cloud,weather,[9729]
+sun behind cloud,"cloud, sun",[9925]
+cloud with lightning and rain,"cloud, rain, thunder",[9928]
+sun behind small cloud,"cloud, sun",[127780]
+sun behind large cloud,"cloud, sun",[127781]
+sun behind rain cloud,"cloud, rain, sun",[127782]
+cloud with rain,"cloud, rain",[127783]
+cloud with snow,"cloud, cold, snow",[127784]
+cloud with lightning,"cloud, lightning",[127785]
+tornado,"cloud, whirlwind",[127786]
+fog,cloud,[127787]
+wind face,"blow, cloud, face, wind",[127788]
+cyclone,"dizzy, twister, typhoon",[127744]
+rainbow,rain,[127752]
+closed umbrella,"clothing, rain, umbrella",[127746]
+umbrella,"clothing, rain",[9730]
+umbrella with rain drops,"clothing, drop, rain, umbrella",[9748]
+umbrella on ground,"rain, sun, umbrella",[9969]
+high voltage,"danger, electric, electricity, lightning, voltage, zap",[9889]
+snowflake,"cold, snow",[10052]
+snowman,"cold, snow",[9731]
+snowman without snow,"cold, snow, snowman",[9924]
+comet,space,[9732]
+fire,"flame, tool",[128293]
+droplet,"cold, comic, drop, sweat",[128167]
+water wave,"ocean, water, wave",[127754]
+jack-o-lantern,"celebration, halloween, jack, lantern",[127875]
+christmas tree,"celebration, christmas, tree",[127876]
+fireworks,celebration,[127878]
+sparkler,"celebration, fireworks, sparkle",[127879]
+sparkles,"sparkle, star",[10024]
+balloon,celebration,[127880]
+party popper,"celebration, party, popper, tada",[127881]
+confetti ball,"ball, celebration, confetti",[127882]
+tanabata tree,"banner, celebration, japanese, tree",[127883]
+pine decoration,"bamboo, celebration, japanese, pine",[127885]
+japanese dolls,"celebration, doll, festival, japanese",[127886]
+carp streamer,"carp, celebration, streamer",[127887]
+wind chime,"bell, celebration, chime, wind",[127888]
+moon viewing ceremony,"celebration, ceremony, moon",[127889]
+ribbon,celebration,[127872]
+wrapped gift,"box, celebration, gift, present, wrapped",[127873]
+reminder ribbon,"celebration, reminder, ribbon",[127895]
+admission tickets,"admission, ticket",[127903]
+ticket,admission,[127915]
+military medal,"celebration, medal, military",[127894]
+trophy,prize,[127942]
+sports medal,medal,[127941]
+1st place medal,"first, gold, medal",[129351]
+2nd place medal,"medal, second, silver",[129352]
+3rd place medal,"bronze, medal, third",[129353]
+soccer ball,"ball, football, soccer",[9917]
+baseball,ball,[9918]
+basketball,"ball, hoop",[127936]
+volleyball,"ball, game",[127952]
+american football,"american, ball, football",[127944]
+rugby football,"ball, football, rugby",[127945]
+tennis,"ball, racquet",[127934]
+pool 8 ball,"8, 8 ball, ball, billiard, eight, game",[127921]
+bowling,"ball, game",[127923]
+cricket,"ball, bat, game",[127951]
+field hockey,"ball, field, game, hockey, stick",[127953]
+ice hockey,"game, hockey, ice, puck, stick",[127954]
+ping pong,"ball, bat, game, paddle, ping pong, table tennis",[127955]
+badminton,"birdie, game, racquet, shuttlecock",[127992]
+boxing glove,"boxing, glove",[129354]
+martial arts uniform,"judo, karate, martial arts, taekwondo, uniform",[129355]
+goal net,"goal, net",[129349]
+direct hit,"bull, bullseye, dart, eye, game, hit, target",[127919]
+flag in hole,"golf, hole",[9971]
+ice skate,"ice, skate",[9976]
+fishing pole,"fish, pole",[127907]
+running shirt,"athletics, running, sash, shirt",[127933]
+skis,"ski, snow",[127935]
+video game,"controller, game",[127918]
+joystick,"game, video game",[128377]
+game die,"dice, die, game",[127922]
+spade suit,"card, game",[9824]
+heart suit,"card, game",[9829]
+diamond suit,"card, game",[9830]
+club suit,"card, game",[9827]
+joker,"card, game, wildcard",[127183]
+mahjong red dragon,"game, mahjong, red",[126980]
+flower playing cards,"card, flower, game, japanese, playing",[127924]
+muted speaker,"mute, quiet, silent, speaker",[128263]
+speaker low volume,soft,[128264]
+speaker medium volume,medium,[128265]
+speaker high volume,loud,[128266]
+loudspeaker,"loud, public address",[128226]
+megaphone,cheering,[128227]
+postal horn,"horn, post, postal",[128239]
+bell,bell,[128276]
+bell with slash,"bell, forbidden, mute, no, not, prohibited, quiet, silent",[128277]
+musical score,"music, score",[127932]
+musical note,"music, note",[127925]
+musical notes,"music, note, notes",[127926]
+studio microphone,"mic, microphone, music, studio",[127897]
+level slider,"level, music, slider",[127898]
+control knobs,"control, knobs, music",[127899]
+microphone,"karaoke, mic",[127908]
+headphone,earbud,[127911]
+radio,video,[128251]
+saxophone,"instrument, music, sax",[127927]
+guitar,"instrument, music",[127928]
+musical keyboard,"instrument, keyboard, music, piano",[127929]
+trumpet,"instrument, music",[127930]
+violin,"instrument, music",[127931]
+drum,"drum, drumsticks, music",[129345]
+mobile phone,"cell, mobile, phone, telephone",[128241]
+mobile phone with arrow,"arrow, call, cell, mobile, phone, receive, telephone",[128242]
+telephone,phone,[9742]
+telephone receiver,"phone, receiver, telephone",[128222]
+pager,pager,[128223]
+fax machine,fax,[128224]
+battery,battery,[128267]
+electric plug,"electric, electricity, plug",[128268]
+laptop computer,"computer, pc, personal",[128187]
+desktop computer,"computer, desktop",[128421]
+printer,computer,[128424]
+keyboard,computer,[9000]
+computer mouse,computer,[128433]
+trackball,computer,[128434]
+computer disk,"computer, disk, minidisk, optical",[128189]
+floppy disk,"computer, disk, floppy",[128190]
+optical disk,"cd, computer, disk, optical",[128191]
+dvd,"blu-ray, computer, disk, dvd, optical",[128192]
+movie camera,"camera, cinema, movie",[127909]
+film frames,"cinema, film, frames, movie",[127902]
+film projector,"cinema, film, movie, projector, video",[128253]
+clapper board,"clapper, movie",[127916]
+television,"tv, video",[128250]
+camera,video,[128247]
+camera with flash,"camera, flash, video",[128248]
+video camera,"camera, video",[128249]
+videocassette,"tape, vhs, video",[128252]
+left-pointing magnifying glass,"glass, magnifying, search, tool",[128269]
+right-pointing magnifying glass,"glass, magnifying, search, tool",[128270]
+microscope,"science, tool",[128300]
+telescope,"science, tool",[128301]
+satellite antenna,"antenna, dish, satellite",[128225]
+candle,light,[128367]
+light bulb,"bulb, comic, electric, idea, light",[128161]
+flashlight,"electric, light, tool, torch",[128294]
+red paper lantern,"bar, japanese, lantern, light, red",[127982]
+notebook with decorative cover,"book, cover, decorated, notebook",[128212]
+closed book,"book, closed",[128213]
+open book,"book, open",[128214]
+green book,"book, green",[128215]
+blue book,"blue, book",[128216]
+orange book,"book, orange",[128217]
+books,book,[128218]
+notebook,notebook,[128211]
+ledger,notebook,[128210]
+page with curl,"curl, document, page",[128195]
+scroll,paper,[128220]
+page facing up,"document, page",[128196]
+newspaper,"news, paper",[128240]
+rolled-up newspaper,"news, newspaper, paper, rolled",[128478]
+bookmark tabs,"bookmark, mark, marker, tabs",[128209]
+bookmark,mark,[128278]
+label,label,[127991]
+money bag,"bag, dollar, money, moneybag",[128176]
+yen banknote,"bank, banknote, bill, currency, money, note, yen",[128180]
+dollar banknote,"bank, banknote, bill, currency, dollar, money, note",[128181]
+euro banknote,"bank, banknote, bill, currency, euro, money, note",[128182]
+pound banknote,"bank, banknote, bill, currency, money, note, pound",[128183]
+money with wings,"bank, banknote, bill, dollar, fly, money, note, wings",[128184]
+credit card,"bank, card, credit, money",[128179]
+chart increasing with yen,"bank, chart, currency, graph, growth, market, money, rise, trend, upward, yen",[128185]
+currency exchange,"bank, currency, exchange, money",[128177]
+heavy dollar sign,"currency, dollar, money",[128178]
+envelope,"email, letter",[9993]
+e-mail,"email, letter, mail",[128231]
+incoming envelope,"e-mail, email, envelope, incoming, letter, mail, receive",[128232]
+envelope with arrow,"arrow, down, e-mail, email, envelope, letter, mail, outgoing, sent",[128233]
+outbox tray,"box, letter, mail, outbox, sent, tray",[128228]
+inbox tray,"box, inbox, letter, mail, receive, tray",[128229]
+package,"box, parcel",[128230]
+closed mailbox with raised flag,"closed, mail, mailbox, postbox",[128235]
+closed mailbox with lowered flag,"closed, lowered, mail, mailbox, postbox",[128234]
+open mailbox with raised flag,"mail, mailbox, open, postbox",[128236]
+open mailbox with lowered flag,"lowered, mail, mailbox, open, postbox",[128237]
+postbox,"mail, mailbox",[128238]
+ballot box with ballot,"ballot, box",[128499]
+pencil,pencil,[9999]
+black nib,"nib, pen",[10002]
+fountain pen,"fountain, pen",[128395]
+pen,ballpoint,[128394]
+paintbrush,painting,[128396]
+crayon,crayon,[128397]
+memo,pencil,[128221]
+briefcase,briefcase,[128188]
+file folder,"file, folder",[128193]
+open file folder,"file, folder, open",[128194]
+card index dividers,"card, dividers, index",[128450]
+calendar,date,[128197]
+tear-off calendar,calendar,[128198]
+spiral notepad,"note, pad, spiral",[128466]
+spiral calendar,"calendar, pad, spiral",[128467]
+card index,"card, index, rolodex",[128199]
+chart increasing,"chart, graph, growth, trend, upward",[128200]
+chart decreasing,"chart, down, graph, trend",[128201]
+bar chart,"bar, chart, graph",[128202]
+clipboard,clipboard,[128203]
+pushpin,pin,[128204]
+round pushpin,"pin, pushpin",[128205]
+paperclip,paperclip,[128206]
+linked paperclips,"link, paperclip",[128391]
+straight ruler,"ruler, straight edge",[128207]
+triangular ruler,"ruler, set, triangle",[128208]
+scissors,"cutting, tool",[9986]
+card file box,"box, card, file",[128451]
+file cabinet,"cabinet, file, filing",[128452]
+wastebasket,wastebasket,[128465]
+locked,closed,[128274]
+unlocked,"lock, open, unlock",[128275]
+locked with pen,"ink, lock, nib, pen, privacy",[128271]
+locked with key,"closed, key, lock, secure",[128272]
+key,"lock, password",[128273]
+old key,"clue, key, lock, old",[128477]
+hammer,tool,[128296]
+pick,"mining, tool",[9935]
+hammer and pick,"hammer, pick, tool",[9874]
+hammer and wrench,"hammer, spanner, tool, wrench",[128736]
+dagger,"knife, weapon",[128481]
+crossed swords,"crossed, swords, weapon",[9876]
+pistol,"gun, handgun, revolver, tool, weapon",[128299]
+bow and arrow,"archer, archery, arrow, bow, sagittarius, tool, weapon, zodiac",[127993]
+shield,weapon,[128737]
+wrench,"spanner, tool, wrench",[128295]
+nut and bolt,"bolt, nut, tool",[128297]
+gear,tool,[9881]
+clamp,"compress, tool, vice",[128476]
+alembic,"chemistry, tool",[9879]
+balance scale,"balance, justice, libra, scales, tool, weight, zodiac",[9878]
+link,link,[128279]
+chains,chain,[9939]
+syringe,"doctor, medicine, needle, shot, sick, tool",[128137]
+pill,"doctor, medicine, sick",[128138]
+cigarette,smoking,[128684]
+coffin,death,[9904]
+funeral urn,"ashes, death, funeral, urn",[9905]
+moai,"face, moyai, statue",[128511]
+oil drum,"drum, oil",[128738]
+crystal ball,"ball, crystal, fairy tale, fantasy, fortune, tool",[128302]
+shopping cart,"cart, shopping, trolley",[128722]
+atm sign,"atm, automated, bank, teller",[127975]
+litter in bin sign,"litter, litter bin",[128686]
+potable water,"drinking, potable, water",[128688]
+wheelchair symbol,access,[9855]
+mens room,"lavatory, man, restroom, wc",[128697]
+womens room,"lavatory, restroom, wc, woman",[128698]
+restroom,"lavatory, restroom, wc",[128699]
+baby symbol,"baby, changing",[128700]
+water closet,"closet, lavatory, restroom, water, wc",[128702]
+passport control,"control, passport",[128706]
+customs,customs,[128707]
+baggage claim,"baggage, claim",[128708]
+left luggage,"baggage, locker, luggage",[128709]
+warning,warning,[9888]
+children crossing,"child, crossing, pedestrian, traffic",[128696]
+no entry,"entry, forbidden, no, not, prohibited, traffic",[9940]
+prohibited,"entry, forbidden, no, not",[128683]
+no bicycles,"bicycle, bike, forbidden, no, not, prohibited",[128691]
+no smoking,"forbidden, no, not, prohibited, smoking",[128685]
+no littering,"forbidden, litter, no, not, prohibited",[128687]
+non-potable water,"non-drinking, non-potable, water",[128689]
+no pedestrians,"forbidden, no, not, pedestrian, prohibited",[128695]
+no mobile phones,"cell, forbidden, mobile, no, not, phone, prohibited, telephone",[128245]
+no one under eighteen,"18, age restriction, eighteen, forbidden, no, not, prohibited, underage",[128286]
+radioactive,"radioactive, sign",[9762]
+biohazard,"biohazard, sign",[9763]
+up arrow,"arrow, cardinal, direction, north",[11014]
+up-right arrow,"arrow, direction, intercardinal, northeast",[8599]
+right arrow,"arrow, cardinal, direction, east",[10145]
+down-right arrow,"arrow, direction, intercardinal, southeast",[8600]
+down arrow,"arrow, cardinal, direction, down, south",[11015]
+down-left arrow,"arrow, direction, intercardinal, southwest",[8601]
+left arrow,"arrow, cardinal, direction, west",[11013]
+up-left arrow,"arrow, direction, intercardinal, northwest",[8598]
+up-down arrow,arrow,[8597]
+left-right arrow,arrow,[8596]
+right arrow curving left,arrow,[8617]
+left arrow curving right,arrow,[8618]
+right arrow curving up,arrow,[10548]
+right arrow curving down,"arrow, down",[10549]
+clockwise vertical arrows,"arrow, clockwise, reload",[128259]
+anticlockwise arrows button,"anticlockwise, arrow, counterclockwise, withershins",[128260]
+back arrow,"arrow, back",[128281]
+end arrow,"arrow, end",[128282]
+on! arrow,"arrow, mark, on",[128283]
+soon arrow,"arrow, soon",[128284]
+top arrow,"arrow, top, up",[128285]
+place of worship,"religion, worship",[128720]
+atom symbol,"atheist, atom",[9883]
+om,"hindu, religion",[128329]
+star of david,"david, jew, jewish, religion, star",[10017]
+wheel of dharma,"buddhist, dharma, religion, wheel",[9784]
+yin yang,"religion, tao, taoist, yang, yin",[9775]
+latin cross,"christian, cross, religion",[10013]
+orthodox cross,"christian, cross, religion",[9766]
+star and crescent,"islam, muslim, religion",[9770]
+peace symbol,peace,[9774]
+menorah,"candelabrum, candlestick, religion",[128334]
+dotted six-pointed star,"fortune, star",[128303]
+aries,"ram, zodiac",[9800]
+taurus,"bull, ox, zodiac",[9801]
+gemini,"twins, zodiac",[9802]
+cancer,"crab, zodiac",[9803]
+leo,"lion, zodiac",[9804]
+virgo,zodiac,[9805]
+libra,"balance, justice, scales, zodiac",[9806]
+scorpius,"scorpio, scorpion, zodiac",[9807]
+sagittarius,"archer, zodiac",[9808]
+capricorn,"goat, zodiac",[9809]
+aquarius,"bearer, water, zodiac",[9810]
+pisces,"fish, zodiac",[9811]
+ophiuchus,"bearer, serpent, snake, zodiac",[9934]
+shuffle tracks button,"arrow, crossed",[128256]
+repeat button,"arrow, clockwise, repeat",[128257]
+repeat single button,"arrow, clockwise, once",[128258]
+play button,"arrow, play, right, triangle",[9654]
+fast-forward button,"arrow, double, fast, forward",[9193]
+next track button,"arrow, next scene, next track, triangle",[9197]
+play or pause button,"arrow, pause, play, right, triangle",[9199]
+reverse button,"arrow, left, reverse, triangle",[9664]
+fast reverse button,"arrow, double, rewind",[9194]
+last track button,"arrow, previous scene, previous track, triangle",[9198]
+up button,"arrow, button, red",[128316]
+fast up button,"arrow, double",[9195]
+down button,"arrow, button, down, red",[128317]
+fast down button,"arrow, double, down",[9196]
+pause button,"bar, double, pause, vertical",[9208]
+stop button,"square, stop",[9209]
+record button,"circle, record",[9210]
+eject button,eject,[9167]
+cinema,"camera, film, movie",[127910]
+dim button,"brightness, dim, low",[128261]
+bright button,"bright, brightness",[128262]
+antenna bars,"antenna, bar, cell, mobile, phone, signal, telephone",[128246]
+vibration mode,"cell, mobile, mode, phone, telephone, vibration",[128243]
+mobile phone off,"cell, mobile, off, phone, telephone",[128244]
+recycling symbol,recycle,[9851]
+name badge,"badge, name",[128219]
+fleur-de-lis,fleur-de-lis,[9884]
+japanese symbol for beginner,"beginner, chevron, green, japanese, leaf, tool, yellow",[128304]
+trident emblem,"anchor, emblem, ship, tool, trident",[128305]
+heavy large circle,"circle, o",[11093]
+white heavy check mark,"check, mark",[9989]
+ballot box with check,"ballot, box, check",[9745]
+heavy check mark,"check, mark",[10004]
+heavy multiplication x,"cancel, multiplication, multiply, x",[10006]
+cross mark,"cancel, mark, multiplication, multiply, x",[10060]
+cross mark button,"mark, square",[10062]
+heavy plus sign,"math, plus",[10133]
+female sign,woman,[9792]
+male sign,man,[9794]
+medical symbol,"aesculapius, medicine, staff",[9877]
+heavy minus sign,"math, minus",[10134]
+heavy division sign,"division, math",[10135]
+curly loop,"curl, loop",[10160]
+double curly loop,"curl, double, loop",[10175]
+part alternation mark,"mark, part",[12349]
+eight-spoked asterisk,asterisk,[10035]
+eight-pointed star,star,[10036]
+sparkle,sparkle,[10055]
+double exclamation mark,"bangbang, exclamation, mark, punctuation",[8252]
+exclamation question mark,"exclamation, interrobang, mark, punctuation, question",[8265]
+question mark,"mark, punctuation, question",[10067]
+white question mark,"mark, outlined, punctuation, question",[10068]
+white exclamation mark,"exclamation, mark, outlined, punctuation",[10069]
+exclamation mark,"exclamation, mark, punctuation",[10071]
+wavy dash,"dash, punctuation, wavy",[12336]
+copyright,copyright,[169]
+registered,registered,[174]
+trade mark,"mark, tm, trademark",[8482]
+keycap: #,keycap,"[35, 65039, 8419]"
+keycap: *,keycap,"[42, 65039, 8419]"
+keycap: 0,keycap,"[48, 65039, 8419]"
+keycap: 1,keycap,"[49, 65039, 8419]"
+keycap: 2,keycap,"[50, 65039, 8419]"
+keycap: 3,keycap,"[51, 65039, 8419]"
+keycap: 4,keycap,"[52, 65039, 8419]"
+keycap: 5,keycap,"[53, 65039, 8419]"
+keycap: 6,keycap,"[54, 65039, 8419]"
+keycap: 7,keycap,"[55, 65039, 8419]"
+keycap: 8,keycap,"[56, 65039, 8419]"
+keycap: 9,keycap,"[57, 65039, 8419]"
+keycap 10,keycap 10,[128287]
+hundred points,"100, full, hundred, score",[128175]
+input latin uppercase,"abcd, input, latin, letters, uppercase",[128288]
+input latin lowercase,"abcd, input, latin, letters, lowercase",[128289]
+input numbers,"1234, input, numbers",[128290]
+input symbols,"&%, input",[128291]
+input latin letters,"abc, alphabet, input, latin, letters",[128292]
+a button (blood type),"a, blood type",[127344]
+ab button (blood type),"ab, blood type",[127374]
+b button (blood type),"b, blood type",[127345]
+cl button,cl,[127377]
+cool button,cool,[127378]
+free button,free,[127379]
+information,"i, information",[8505]
+id button,"id, identity",[127380]
+circled m,"circle, m",[9410]
+new button,new,[127381]
+ng button,ng,[127382]
+o button (blood type),"blood type, o",[127358]
+ok button,ok,[127383]
+p button,parking,[127359]
+sos button,"help, sos",[127384]
+up! button,"mark, up",[127385]
+vs button,"versus, vs",[127386]
+japanese here button,"here, japanese, katakana, ",[127489]
+japanese service charge button,"service charge, japanese, katakana, ",[127490]
+japanese monthly amount button,"monthly amount, ideograph, japanese, ",[127543]
+japanese not free of charge button,"not free of charge, ideograph, japanese, ",[127542]
+japanese reserved button,"reserved, ideograph, japanese, ",[127535]
+japanese bargain button,"bargain, ideograph, japanese, ",[127568]
+japanese discount button,"discount, ideograph, japanese, ",[127545]
+japanese free of charge button,"free of charge, ideograph, japanese, ",[127514]
+japanese prohibited button,"prohibited, ideograph, japanese, ",[127538]
+japanese acceptable button,"acceptable, ideograph, japanese, ",[127569]
+japanese application button,"application, ideograph, japanese, ",[127544]
+japanese passing grade button,"passing grade, ideograph, japanese, ",[127540]
+japanese vacancy button,"vacancy, ideograph, japanese, ",[127539]
+japanese congratulations button,"congratulations, ideograph, japanese, ",[12951]
+japanese secret button,"secret, ideograph, japanese, ",[12953]
+japanese open for business button,"open for business, ideograph, japanese, ",[127546]
+japanese no vacancy button,"no vacancy, ideograph, japanese, ",[127541]
+black small square,"geometric, square",[9642]
+white small square,"geometric, square",[9643]
+white medium square,"geometric, square",[9723]
+black medium square,"geometric, square",[9724]
+white medium-small square,"geometric, square",[9725]
+black medium-small square,"geometric, square",[9726]
+black large square,"geometric, square",[11035]
+white large square,"geometric, square",[11036]
+large orange diamond,"diamond, geometric, orange",[128310]
+large blue diamond,"blue, diamond, geometric",[128311]
+small orange diamond,"diamond, geometric, orange",[128312]
+small blue diamond,"blue, diamond, geometric",[128313]
+red triangle pointed up,"geometric, red",[128314]
+red triangle pointed down,"down, geometric, red",[128315]
+diamond with a dot,"comic, diamond, geometric, inside",[128160]
+radio button,"button, geometric, radio",[128280]
+black square button,"button, geometric, square",[128306]
+white square button,"button, geometric, outlined, square",[128307]
+white circle,"circle, geometric",[9898]
+black circle,"circle, geometric",[9899]
+red circle,"circle, geometric, red",[128308]
+blue circle,"blue, circle, geometric",[128309]
+chequered flag,"checkered, chequered, racing",[127937]
+triangular flag,post,[128681]
+crossed flags,"celebration, cross, crossed, japanese",[127884]
+black flag,waving,[127988]
+white flag,waving,[127987]
+rainbow flag,rainbow,"[127987, 65039, 8205, 127752]"
+ascension island,flag,"[127462, 127464]"
+andorra,flag,"[127462, 127465]"
+united arab emirates,flag,"[127462, 127466]"
+afghanistan,flag,"[127462, 127467]"
+antigua & barbuda,flag,"[127462, 127468]"
+anguilla,flag,"[127462, 127470]"
+albania,flag,"[127462, 127473]"
+armenia,flag,"[127462, 127474]"
+angola,flag,"[127462, 127476]"
+antarctica,flag,"[127462, 127478]"
+argentina,flag,"[127462, 127479]"
+american samoa,flag,"[127462, 127480]"
+austria,flag,"[127462, 127481]"
+australia,flag,"[127462, 127482]"
+aruba,flag,"[127462, 127484]"
+land islands,flag,"[127462, 127485]"
+azerbaijan,flag,"[127462, 127487]"
+bosnia & herzegovina,flag,"[127463, 127462]"
+barbados,flag,"[127463, 127463]"
+bangladesh,flag,"[127463, 127465]"
+belgium,flag,"[127463, 127466]"
+burkina faso,flag,"[127463, 127467]"
+bulgaria,flag,"[127463, 127468]"
+bahrain,flag,"[127463, 127469]"
+burundi,flag,"[127463, 127470]"
+benin,flag,"[127463, 127471]"
+st. barthlemy,flag,"[127463, 127473]"
+bermuda,flag,"[127463, 127474]"
+brunei,flag,"[127463, 127475]"
+bolivia,flag,"[127463, 127476]"
+caribbean netherlands,flag,"[127463, 127478]"
+brazil,flag,"[127463, 127479]"
+bahamas,flag,"[127463, 127480]"
+bhutan,flag,"[127463, 127481]"
+bouvet island,flag,"[127463, 127483]"
+botswana,flag,"[127463, 127484]"
+belarus,flag,"[127463, 127486]"
+belize,flag,"[127463, 127487]"
+canada,flag,"[127464, 127462]"
+cocos (keeling) islands,flag,"[127464, 127464]"
+congo - kinshasa,flag,"[127464, 127465]"
+central african republic,flag,"[127464, 127467]"
+congo - brazzaville,flag,"[127464, 127468]"
+switzerland,flag,"[127464, 127469]"
+cte divoire,flag,"[127464, 127470]"
+cook islands,flag,"[127464, 127472]"
+chile,flag,"[127464, 127473]"
+cameroon,flag,"[127464, 127474]"
+china,flag,"[127464, 127475]"
+colombia,flag,"[127464, 127476]"
+clipperton island,flag,"[127464, 127477]"
+costa rica,flag,"[127464, 127479]"
+cuba,flag,"[127464, 127482]"
+cape verde,flag,"[127464, 127483]"
+curaao,flag,"[127464, 127484]"
+christmas island,flag,"[127464, 127485]"
+cyprus,flag,"[127464, 127486]"
+czech republic,flag,"[127464, 127487]"
+germany,flag,"[127465, 127466]"
+diego garcia,flag,"[127465, 127468]"
+djibouti,flag,"[127465, 127471]"
+denmark,flag,"[127465, 127472]"
+dominica,flag,"[127465, 127474]"
+dominican republic,flag,"[127465, 127476]"
+algeria,flag,"[127465, 127487]"
+ceuta & melilla,flag,"[127466, 127462]"
+ecuador,flag,"[127466, 127464]"
+estonia,flag,"[127466, 127466]"
+egypt,flag,"[127466, 127468]"
+western sahara,flag,"[127466, 127469]"
+eritrea,flag,"[127466, 127479]"
+spain,flag,"[127466, 127480]"
+ethiopia,flag,"[127466, 127481]"
+european union,flag,"[127466, 127482]"
+finland,flag,"[127467, 127470]"
+fiji,flag,"[127467, 127471]"
+falkland islands,flag,"[127467, 127472]"
+micronesia,flag,"[127467, 127474]"
+faroe islands,flag,"[127467, 127476]"
+france,flag,"[127467, 127479]"
+gabon,flag,"[127468, 127462]"
+united kingdom,flag,"[127468, 127463]"
+grenada,flag,"[127468, 127465]"
+georgia,flag,"[127468, 127466]"
+french guiana,flag,"[127468, 127467]"
+guernsey,flag,"[127468, 127468]"
+ghana,flag,"[127468, 127469]"
+gibraltar,flag,"[127468, 127470]"
+greenland,flag,"[127468, 127473]"
+gambia,flag,"[127468, 127474]"
+guinea,flag,"[127468, 127475]"
+guadeloupe,flag,"[127468, 127477]"
+equatorial guinea,flag,"[127468, 127478]"
+greece,flag,"[127468, 127479]"
+south georgia & south sandwich islands,flag,"[127468, 127480]"
+guatemala,flag,"[127468, 127481]"
+guam,flag,"[127468, 127482]"
+guinea-bissau,flag,"[127468, 127484]"
+guyana,flag,"[127468, 127486]"
+hong kong sar china,flag,"[127469, 127472]"
+heard & mcdonald islands,flag,"[127469, 127474]"
+honduras,flag,"[127469, 127475]"
+croatia,flag,"[127469, 127479]"
+haiti,flag,"[127469, 127481]"
+hungary,flag,"[127469, 127482]"
+canary islands,flag,"[127470, 127464]"
+indonesia,flag,"[127470, 127465]"
+ireland,flag,"[127470, 127466]"
+israel,flag,"[127470, 127473]"
+isle of man,flag,"[127470, 127474]"
+india,flag,"[127470, 127475]"
+british indian ocean territory,flag,"[127470, 127476]"
+iraq,flag,"[127470, 127478]"
+iran,flag,"[127470, 127479]"
+iceland,flag,"[127470, 127480]"
+italy,flag,"[127470, 127481]"
+jersey,flag,"[127471, 127466]"
+jamaica,flag,"[127471, 127474]"
+jordan,flag,"[127471, 127476]"
+japan,flag,"[127471, 127477]"
+kenya,flag,"[127472, 127466]"
+kyrgyzstan,flag,"[127472, 127468]"
+cambodia,flag,"[127472, 127469]"
+kiribati,flag,"[127472, 127470]"
+comoros,flag,"[127472, 127474]"
+st. kitts & nevis,flag,"[127472, 127475]"
+north korea,flag,"[127472, 127477]"
+south korea,flag,"[127472, 127479]"
+kuwait,flag,"[127472, 127484]"
+cayman islands,flag,"[127472, 127486]"
+kazakhstan,flag,"[127472, 127487]"
+laos,flag,"[127473, 127462]"
+lebanon,flag,"[127473, 127463]"
+st. lucia,flag,"[127473, 127464]"
+liechtenstein,flag,"[127473, 127470]"
+sri lanka,flag,"[127473, 127472]"
+liberia,flag,"[127473, 127479]"
+lesotho,flag,"[127473, 127480]"
+lithuania,flag,"[127473, 127481]"
+luxembourg,flag,"[127473, 127482]"
+latvia,flag,"[127473, 127483]"
+libya,flag,"[127473, 127486]"
+morocco,flag,"[127474, 127462]"
+monaco,flag,"[127474, 127464]"
+moldova,flag,"[127474, 127465]"
+montenegro,flag,"[127474, 127466]"
+st. martin,flag,"[127474, 127467]"
+madagascar,flag,"[127474, 127468]"
+marshall islands,flag,"[127474, 127469]"
+macedonia,flag,"[127474, 127472]"
+mali,flag,"[127474, 127473]"
+myanmar (burma),flag,"[127474, 127474]"
+mongolia,flag,"[127474, 127475]"
+macau sar china,flag,"[127474, 127476]"
+northern mariana islands,flag,"[127474, 127477]"
+martinique,flag,"[127474, 127478]"
+mauritania,flag,"[127474, 127479]"
+montserrat,flag,"[127474, 127480]"
+malta,flag,"[127474, 127481]"
+mauritius,flag,"[127474, 127482]"
+maldives,flag,"[127474, 127483]"
+malawi,flag,"[127474, 127484]"
+mexico,flag,"[127474, 127485]"
+malaysia,flag,"[127474, 127486]"
+mozambique,flag,"[127474, 127487]"
+namibia,flag,"[127475, 127462]"
+new caledonia,flag,"[127475, 127464]"
+niger,flag,"[127475, 127466]"
+norfolk island,flag,"[127475, 127467]"
+nigeria,flag,"[127475, 127468]"
+nicaragua,flag,"[127475, 127470]"
+netherlands,flag,"[127475, 127473]"
+norway,flag,"[127475, 127476]"
+nepal,flag,"[127475, 127477]"
+nauru,flag,"[127475, 127479]"
+niue,flag,"[127475, 127482]"
+new zealand,flag,"[127475, 127487]"
+oman,flag,"[127476, 127474]"
+panama,flag,"[127477, 127462]"
+peru,flag,"[127477, 127466]"
+french polynesia,flag,"[127477, 127467]"
+papua new guinea,flag,"[127477, 127468]"
+philippines,flag,"[127477, 127469]"
+pakistan,flag,"[127477, 127472]"
+poland,flag,"[127477, 127473]"
+st. pierre & miquelon,flag,"[127477, 127474]"
+pitcairn islands,flag,"[127477, 127475]"
+puerto rico,flag,"[127477, 127479]"
+palestinian territories,flag,"[127477, 127480]"
+portugal,flag,"[127477, 127481]"
+palau,flag,"[127477, 127484]"
+paraguay,flag,"[127477, 127486]"
+qatar,flag,"[127478, 127462]"
+runion,flag,"[127479, 127466]"
+romania,flag,"[127479, 127476]"
+serbia,flag,"[127479, 127480]"
+russia,flag,"[127479, 127482]"
+rwanda,flag,"[127479, 127484]"
+saudi arabia,flag,"[127480, 127462]"
+solomon islands,flag,"[127480, 127463]"
+seychelles,flag,"[127480, 127464]"
+sudan,flag,"[127480, 127465]"
+sweden,flag,"[127480, 127466]"
+singapore,flag,"[127480, 127468]"
+st. helena,flag,"[127480, 127469]"
+slovenia,flag,"[127480, 127470]"
+svalbard & jan mayen,flag,"[127480, 127471]"
+slovakia,flag,"[127480, 127472]"
+sierra leone,flag,"[127480, 127473]"
+san marino,flag,"[127480, 127474]"
+senegal,flag,"[127480, 127475]"
+somalia,flag,"[127480, 127476]"
+suriname,flag,"[127480, 127479]"
+south sudan,flag,"[127480, 127480]"
+so tom & prncipe,flag,"[127480, 127481]"
+el salvador,flag,"[127480, 127483]"
+sint maarten,flag,"[127480, 127485]"
+syria,flag,"[127480, 127486]"
+swaziland,flag,"[127480, 127487]"
+tristan da cunha,flag,"[127481, 127462]"
+turks & caicos islands,flag,"[127481, 127464]"
+chad,flag,"[127481, 127465]"
+french southern territories,flag,"[127481, 127467]"
+togo,flag,"[127481, 127468]"
+thailand,flag,"[127481, 127469]"
+tajikistan,flag,"[127481, 127471]"
+tokelau,flag,"[127481, 127472]"
+timor-leste,flag,"[127481, 127473]"
+turkmenistan,flag,"[127481, 127474]"
+tunisia,flag,"[127481, 127475]"
+tonga,flag,"[127481, 127476]"
+turkey,flag,"[127481, 127479]"
+trinidad & tobago,flag,"[127481, 127481]"
+tuvalu,flag,"[127481, 127483]"
+taiwan,flag,"[127481, 127484]"
+tanzania,flag,"[127481, 127487]"
+ukraine,flag,"[127482, 127462]"
+uganda,flag,"[127482, 127468]"
+u.s. outlying islands,flag,"[127482, 127474]"
+united nations,flag,"[127482, 127475]"
+united states,flag,"[127482, 127480]"
+uruguay,flag,"[127482, 127486]"
+uzbekistan,flag,"[127482, 127487]"
+vatican city,flag,"[127483, 127462]"
+st. vincent & grenadines,flag,"[127483, 127464]"
+venezuela,flag,"[127483, 127466]"
+british virgin islands,flag,"[127483, 127468]"
+u.s. virgin islands,flag,"[127483, 127470]"
+vietnam,flag,"[127483, 127475]"
+vanuatu,flag,"[127483, 127482]"
+wallis & futuna,flag,"[127484, 127467]"
+samoa,flag,"[127484, 127480]"
+kosovo,flag,"[127485, 127472]"
+yemen,flag,"[127486, 127466]"
+mayotte,flag,"[127486, 127481]"
+south africa,flag,"[127487, 127462]"
+zambia,flag,"[127487, 127474]"
+zimbabwe,flag,"[127487, 127484]"
