@@ -17,7 +17,7 @@
   "background": {
     "persistent": true,
       "scripts": [
-      "translatelib.js",
+      "emoji_translator.js",
       "background.js"
       ]
   }
