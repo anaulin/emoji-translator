@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var input = document.getElementById("inputText").value
     console.log("Textarea input: " + input);
     chrome.runtime.getBackgroundPage(function(page) {
-      var output = page.translate(input);
+      var output = page.translator.translate(input);
       console.log("Translated: " + output);
       var outputDiv = document.getElementById("output");
       outputDiv.innerHTML = output;
