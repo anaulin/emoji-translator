@@ -3,16 +3,41 @@
 
   <head>
     <title>Emoji translator - translate English to emoji</title>
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css"/>
   </head>
 
-  <body>
-    <strong>Enter text to translate here</strong>
-    <textarea id="inputText" rows="3" cols="40 " placeholder="Enter text to tranlate" autofocus></textarea>
-    <button id="translate">Translate</button>
-    <div id="output" hidden style="padding-top: 10px;"></div>
-  </body>
+  <body class="f4 purple helvetica pa4">
+    <div class="cf">
+      <div class="fl w-25 pa1"></div>
+      <div class="fl w-50 pa1 tc purple">
+        <h1>Emoji translator</h1>
+        <h3 class="light-purple">You give it some text, it gives you back some emotion</h3>
+        <div class="fl w-10 pa1"></div>
+        <div class="fl w-80 pa1 tl">
+          <div class="pa1">
+            <label for="inputText">What would you like to translate?</label><br/>
+            <textarea id="inputText" rows="3" class="w-100" placeholder="Enter text to translate here" autofocus></textarea>
+            <br/>
+            <a class="link dim br-pill ph3 pv2 mb2 dib near-white bg-dark-pink" id="translate" href="#0">Translate</a>
+          </div>
+          <div id="output-div" hidden class="pa1">
+            <h3>Your translation</h3>
+            <div id="translation" class="pa3 ba br4"></div>
+          </div>
+        </div>  <!-- input / output div -->
+        <div class="fl w-10 pa1"></div>
+      </div>  <!-- central  column container -->
+      <div class="fl w-25 pa1"></div>
+    </div>
 
   <footer>
+    <div class="w-100 pa1 f6 tr pt7">
+      <a href="https://github.com/anaulin/emo/issues">File a bug or feature request</a> |
+      <a href="https://github.com/anaulin/emo">Source code</a>
+    </div>
+    <div class="w-100 pa1 f6 tr">
+      Made by <a href="http://anaulin.org">Ana Ulin</a> with 😹
+    </div>
     <script type="text/javascript" src="emoji_translator.js"></script>
     <script type="text/javascript">
       // Load data and initialize translator object.
@@ -38,12 +63,14 @@
         console.log("Textarea input: " + input);
           var output = translator.translate(input);
           console.log("Translated: " + output);
-          var outputDiv = document.getElementById("output");
-          outputDiv.innerHTML = output;
+          var translationDiv = document.getElementById("translation");
+          translationDiv.innerHTML = output;
+          var outputDiv = document.getElementById("output-div");
           outputDiv.style.display = "block";
       });  // end 'click' function
 
   </script>
   </footer>
 
+  </body>
 </html>
