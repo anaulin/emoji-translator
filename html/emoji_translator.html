@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+
+  <head>
+    <title>Emoji translator - translate English to emoji</title>
+  </head>
+
+  <body>
+    <strong>Enter text to translate here</strong>
+    <textarea id="inputText" rows="3" cols="40 " placeholder="Enter text to tranlate" autofocus></textarea>
+    <button id="translate">Translate</button>
+    <div id="output" hidden style="padding-top: 10px;"></div>
+  </body>
+
+  <footer>
+    <script type="text/javascript" src="emoji_translator.js"></script>
+    <script type="text/javascript">
+      // Load data and initialize translator object.
+      var translator;
+      console.log("Loading data");
+      var loadStart = new Date().getTime()
+      var oReq = new XMLHttpRequest();
+      oReq.overrideMimeType("application/json");
+      oReq.open("GET", "emoji_data.json", true /* async */);
+      oReq.addEventListener("loadend", function() {
+        var emojiData = JSON.parse(oReq.responseText);
+        var loadTimeMs = new Date().getTime() - loadStart
+        console.log("Loaded emoji_data in " + loadTimeMs + " ms");
+        translator = new Translator(emojiData);
+      });
+      oReq.send();
+
+      // Add event listener to translate button.
+      var translateButton = document.getElementById("translate");
+      translateButton.addEventListener("click", function() {
+        console.log("Button clicked. Translating.");
+        var input = document.getElementById("inputText").value
+        console.log("Textarea input: " + input);
+          var output = translator.translate(input);
+          console.log("Translated: " + output);
+          var outputDiv = document.getElementById("output");
+          outputDiv.innerHTML = output;
+          outputDiv.style.display = "block";
+      });  // end 'click' function
+
+  </script>
+  </footer>
+
+</html>
