@@ -38,6 +38,10 @@ the Unicode website, and adding synonyms and associated concepts by hand. The
 utilities used to do this work can be found in the `data-utils` directory of this
 repository.
 
+## Testing
+
+To run the tests, open the file `tests.html` in your browser.
+
 ## Future work
 Ideas for future improvements can be found on the
 [issues tab](https://github.com/anaulin/emo/issues) of this repository.
