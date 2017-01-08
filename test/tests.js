@@ -1,5 +1,3 @@
-var Translator = emo.Translator;
-
 QUnit.test("Basic translation with no matches", function(assert) {
   var data = { ladybird: [[128030]], hats: [[128082], [127913]]};
   var translator = new Translator(data);
