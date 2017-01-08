@@ -1,4 +1,6 @@
 # emoji_translator.js
+[![Build
+Status](https://travis-ci.org/anaulin/emoji-translate.svg?branch=travis)](https://travis-ci.org/anaulin/emoji-translate)
 
 A JavaScript library that translates English into emoji.
 
