@@ -1,6 +1,6 @@
 # emoji-translator.js
 [![Build
-Status](https://travis-ci.org/anaulin/emoji-translate.svg?branch=travis)](https://travis-ci.org/anaulin/emoji-translate)
+Status](https://travis-ci.org/anaulin/emoji-translator.svg?branch=travis)](https://travis-ci.org/anaulin/emoji-translator)
 
 A JavaScript library that translates English into emoji.
 
@@ -63,5 +63,5 @@ Or better still, send a pull request. 😻
 ## License
 
 Distributed under MIT License. See
-[LICENSE](https://github.com/anaulin/emo/blob/master/LICENSE.md)
+[LICENSE](https://github.com/anaulin/emo/blob/master/LICENSE)
 for details.
