@@ -2,7 +2,10 @@
   "name": "emoji-translate",
   "version": "0.1.0",
   "description": "Translates English to Emoji.",
-  "main": "emoji_translator.js",
+  "main": "src/emoji-translate.js",
+  "engines": {
+    "node": ">=7.4.0"
+  },
   "dependencies": {
   },
   "devDependencies": {

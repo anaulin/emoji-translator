@@ -1,4 +1,4 @@
-# emoji_translator.js
+# emoji-translator.js
 [![Build
 Status](https://travis-ci.org/anaulin/emoji-translate.svg?branch=travis)](https://travis-ci.org/anaulin/emoji-translate)
 
@@ -17,7 +17,7 @@ Once you have an initialized `Translator`, you can use its `translate` method to
 get an emojified version of your text.
 
 ```JavaScript
-// Load emoji_translator.js, which defines Translator.
+// Load emoji-translator.js, which exports a constructor for Translator.
 var emojiData = myFunctionToLoadData('emoji_data.json');
 var translator = new Translator(emojiData);
 translator.translate("I love emoji almost as much as cats. Oh joy!");

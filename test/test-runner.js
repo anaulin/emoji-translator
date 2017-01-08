@@ -2,8 +2,8 @@ var qunit = require('qunit');
 
 qunit.run({
   code: {
-    path: './emoji_translator.js',
-    namespace: 'emo'
+    path: './src/emoji-translator.js',
+    namespace: 'Translator'
   },
   tests: [ './test/tests.js' ]
 });
