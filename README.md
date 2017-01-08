@@ -1,4 +1,6 @@
 # emoji_translator.js
+[![Build
+Status](https://travis-ci.org/anaulin/emoji-translate.svg?branch=travis)](https://travis-ci.org/anaulin/emoji-translate)
 
 A JavaScript library that translates English into emoji.
 
@@ -38,9 +40,17 @@ the Unicode website, and adding synonyms and associated concepts by hand. The
 utilities used to do this work can be found in the `data-utils` directory of this
 repository.
 
-## Testing
+## Developing
 
-To run the tests, open the file `tests.html` in your browser.
+Install the dev dependencies using `npm`:
+```bash
+npm install
+```
+
+To run the tests:
+```bash
+npm test
+```
 
 ## Future work
 Ideas for future improvements can be found on the

@@ -1,0 +1,29 @@
+{
+  "name": "emoji-translate",
+  "version": "0.1.0",
+  "description": "Translates English to Emoji.",
+  "main": "emoji_translator.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "qunit": ">=0.9.1"
+  },
+  "scripts": {
+    "test": "node ./test/test-runner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anaulin/emoji-translate.git"
+  },
+  "keywords": [
+    "emoji",
+    "translate",
+    "emotion"
+  ],
+  "author": "Ana Ulin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anaulin/emoji-translate/issues"
+  },
+  "homepage": "https://github.com/anaulin/emoji-translate"
+}

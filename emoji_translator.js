@@ -3,6 +3,8 @@ var Translator = function(emojiData) {
   this.init(emojiData);
 };
 
+exports.Translator = Translator;
+
 Translator.prototype = {
   // Holds a dictionary from words to codepoints.
   emojiData: {},
