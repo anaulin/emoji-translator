@@ -24,8 +24,6 @@ translator.translate("I love emoji almost as much as cats. Oh joy!");
 // Returns: "I 💖 emoji almost as much as 😸. Oh 😂!"
 ```
 
-The library can be seen in use at http://anaulin.org/emoji-translator/
-
 ## How it works
 
 The current translation implementation looks up words from the input text in a
